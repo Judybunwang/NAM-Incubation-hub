@@ -1,0 +1,979 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Draft business case for a Puratos start-up ingredient incubation hub that launches new ingredients first with a cohort of artisan bakers.">
+<title>The Proofing Room</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Questrial&display=swap">
+<style>
+/* Layout: a sticky red top bar with clickable section tabs; one view at a time, each a short stack of panels, so managers can click through like a deck. */
+:root {
+  --red: #D6001C;        /* Puratos-style red, primary accent */
+  --red-ink: #B00017;
+  --red-soft: #FBE6E8;
+  --char: #2E2D2C;       /* charcoal text */
+  --char-2: #5F5B57;
+  --muted: #8C8782;
+  --sand: #F4EFE8;       /* warm grain neutral */
+  --gold: #A86A12;       /* secondary accent */
+  --gold-soft: #F3E6CF;
+  --teal: #00806F;
+  --teal-soft: #D7EEE9;
+  --bg: #FFFFFF;
+  --surface: #FFFFFF;
+  --panel: #FAF7F3;
+  --line: #E4DED6;
+  --on-red: #FFFFFF;
+  --f-main: "Century Gothic", CenturyGothic, "Questrial", "AppleGothic", "Futura", "Trebuchet MS", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --red: #FF4057; --red-ink: #FF6B7D; --red-soft: #3A1418; --char: #F1ECE6; --char-2: #C9C1B9; --muted: #968F88;
+    --sand: #24201C; --gold: #D29A3A; --gold-soft: #3A2D18; --teal: #34B3A0; --teal-soft: #143430;
+    --bg: #171513; --surface: #1F1C19; --panel: #24201C; --line: #3A3530; --on-red: #FFFFFF;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --red: #FF4057; --red-ink: #FF6B7D; --red-soft: #3A1418; --char: #F1ECE6; --char-2: #C9C1B9; --muted: #968F88;
+  --sand: #24201C; --gold: #D29A3A; --gold-soft: #3A2D18; --teal: #34B3A0; --teal-soft: #143430;
+  --bg: #171513; --surface: #1F1C19; --panel: #24201C; --line: #3A3530; --on-red: #FFFFFF;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--bg); color: var(--char); font-family: var(--f-main); font-size: 16px; line-height: 1.6; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: #C4001A; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3, h4 { margin: 0; line-height: 1.2; text-wrap: balance; font-weight: 700; }
+h1 { font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.01em; }
+h2 { font-size: clamp(1.45rem, 3vw, 2rem); }
+h3 { font-size: 1.1rem; }
+h4 { font-size: 0.95rem; }
+p { margin: 0; }
+a { color: var(--red-ink); text-underline-offset: 2px; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.eyebrow { font-size: 0.74rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--red-ink); font-weight: 700; }
+.small { font-size: 0.86rem; color: var(--char-2); }
+.num { font-variant-numeric: tabular-nums; }
+sup a { font-size: 0.72em; text-decoration: none; padding: 0 1px; }
+
+/* top bar */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 9; background: #C4001A; color: #fff; }
+.top .wrap { display: flex; align-items: center; gap: 18px; padding-block: 10px; }
+.brand { display: flex; align-items: baseline; gap: 10px; white-space: nowrap; font-weight: 700; letter-spacing: 0.02em; }
+.brand small { font-weight: 400; opacity: 0.85; font-size: 0.78rem; }
+.tabs-scroll { overflow-x: auto; scrollbar-width: none; flex: 1; min-width: 0; }
+.tabs-scroll::-webkit-scrollbar { display: none; }
+.tabs { display: flex; gap: 4px; list-style: none; margin: 0; padding: 0; }
+.tabs button { background: transparent; border: 0; color: #fff; padding: 8px 12px; border-radius: 999px; cursor: pointer; white-space: nowrap; font-size: 0.9rem; opacity: 0.88; }
+.tabs button:hover { opacity: 1; background: rgba(255,255,255,0.14); }
+.tabs button[aria-current="page"] { background: #fff; color: #B00017; opacity: 1; font-weight: 700; }
+.top .tabs button:focus-visible { outline-color: #fff; }
+
+main { padding-block: 36px 24px; }
+.view { display: grid; gap: 26px; }
+.view-head { display: grid; gap: 10px; max-width: 76ch; }
+.view-head p { color: var(--char-2); font-size: 1.05rem; }
+
+.panel { background: var(--panel); border-radius: 10px; padding: 22px; display: grid; gap: 14px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px; display: grid; gap: 8px; align-content: start; min-width: 0; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+.grid3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; }
+.grid4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.grid2 > *, .grid3 > *, .grid4 > * { min-width: 0; }
+
+/* hero */
+.hero { background: var(--sand); border-radius: 14px; padding: clamp(22px, 4vw, 44px); display: grid; gap: 18px; }
+.hero .lede { font-size: 1.15rem; max-width: 62ch; color: var(--char-2); }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+.kpi { background: var(--surface); border-radius: 10px; padding: 14px 16px; display: grid; gap: 2px; }
+.kpi b { font-size: 1.7rem; color: var(--red-ink); font-variant-numeric: tabular-nums; line-height: 1.15; }
+.kpi span { font-size: 0.84rem; color: var(--char-2); line-height: 1.4; }
+
+.cta-row { display: flex; flex-wrap: wrap; gap: 10px; }
+.btn { border: 0; border-radius: 999px; padding: 10px 18px; cursor: pointer; font-weight: 700; font-size: 0.92rem; }
+.btn.primary { background: var(--red); color: var(--on-red); }
+.btn.ghost { background: transparent; border: 1.5px solid var(--line); }
+.btn.ghost:hover { border-color: var(--red); }
+
+.ask { border-left: 5px solid var(--red); background: var(--red-soft); border-radius: 0 10px 10px 0; padding: 16px 20px; display: grid; gap: 8px; }
+.ask ol { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+
+svg { display: block; max-width: 100%; height: auto; }
+svg text { font-family: var(--f-main); fill: var(--char); }
+svg text[fill="#fff"] { fill: #fff; }
+.fig { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px; display: grid; gap: 10px; }
+.fig .scroll { overflow-x: auto; }
+.fig figcaption { font-size: 0.85rem; color: var(--char-2); }
+.t2 { fill: var(--char-2); } .tr { fill: var(--red-ink); } .tt { fill: var(--teal); } .tg { fill: var(--gold); }
+.fr { fill: var(--red); } .frs { fill: var(--red-soft); } .fs { fill: var(--surface); } .fp { fill: var(--panel); } .fsand { fill: var(--sand); }
+.fg { fill: var(--gold); } .fgs { fill: var(--gold-soft); } .ft { fill: var(--teal); } .fts { fill: var(--teal-soft); }
+.sl { stroke: var(--line); } .s2 { stroke: var(--char-2); } .sr { stroke: var(--red); } .st { stroke: var(--teal); } .sg { stroke: var(--gold); }
+
+/* stage gate */
+.sg-track { display: flex; gap: 0; overflow-x: auto; padding-bottom: 6px; }
+.sg-item { flex: 1 0 128px; display: flex; align-items: stretch; }
+.sg-stage { flex: 1; border: 0; background: var(--panel); padding: 12px 12px 12px 14px; text-align: left; cursor: pointer; display: grid; gap: 2px; border-radius: 8px; border: 2px solid transparent; min-width: 0; }
+.sg-stage .k { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.sg-stage .n { font-weight: 700; font-size: 0.95rem; line-height: 1.25; }
+.sg-stage .d { font-size: 0.78rem; color: var(--char-2); }
+.sg-stage:hover { border-color: var(--line); }
+.sg-stage[aria-pressed="true"] { background: var(--red); color: var(--on-red); }
+.sg-stage[aria-pressed="true"] .k, .sg-stage[aria-pressed="true"] .d { color: var(--on-red); opacity: 0.9; }
+.sg-gate { flex: 0 0 40px; display: grid; place-items: center; border: 0; background: transparent; cursor: pointer; padding: 0; }
+.sg-gate span { width: 26px; height: 26px; transform: rotate(45deg); background: var(--gold); display: grid; place-items: center; border-radius: 3px; border: 2px solid transparent; }
+.sg-gate span i { transform: rotate(-45deg); font-style: normal; font-size: 0.7rem; font-weight: 700; color: #fff; }
+.sg-gate[aria-pressed="true"] span { background: var(--char); border-color: var(--gold); }
+.sg-legend { display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 0.82rem; color: var(--char-2); align-items: center; }
+.sg-legend .dia { width: 12px; height: 12px; background: var(--gold); transform: rotate(45deg); display: inline-block; margin-right: 6px; border-radius: 2px; }
+.sg-legend .blk { width: 14px; height: 12px; background: var(--panel); border: 1px solid var(--line); display: inline-block; margin-right: 6px; border-radius: 2px; }
+
+.detail { border: 1px solid var(--line); border-radius: 12px; overflow: hidden; background: var(--surface); }
+.detail-head { background: var(--sand); padding: 18px 22px; display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: baseline; justify-content: space-between; }
+.detail-head .meta { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 0.85rem; color: var(--char-2); }
+.chip { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 0.76rem; background: var(--surface); border: 1px solid var(--line); }
+.detail-body { padding: 18px 22px 22px; display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.detail-body > div { min-width: 0; display: grid; gap: 6px; align-content: start; }
+.detail-body ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: 0.92rem; }
+.detail-body h4 { color: var(--red-ink); font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; }
+.detail-body .pur { background: var(--red-soft); border-radius: 8px; padding: 12px 14px; }
+.gate-box { padding: 18px 22px 22px; display: grid; gap: 14px; }
+.decisions { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+.dec { border-radius: 8px; padding: 10px 12px; font-size: 0.88rem; border: 1px solid var(--line); display: grid; gap: 4px; }
+.dec b { font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; }
+.dec.go b { color: var(--teal); } .dec.recycle b { color: var(--gold); } .dec.kill b { color: var(--red-ink); }
+.criteria { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.criteria li { display: grid; grid-template-columns: 22px 1fr; gap: 8px; font-size: 0.93rem; }
+.criteria li::before { content: ""; width: 14px; height: 14px; border: 2px solid var(--teal); border-radius: 3px; margin-top: 4px; }
+.pager { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+
+/* tables */
+.tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.tbl table { min-width: 760px; }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+thead th { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); background: var(--panel); }
+tbody tr:last-child td { border-bottom: 0; }
+td.c { text-align: center; font-weight: 700; }
+.R { color: var(--red-ink); } .A { color: var(--char); } .C, .I { color: var(--char-2); font-weight: 400; }
+
+/* accordions */
+details.acc { border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+details.acc + details.acc { margin-top: 10px; }
+details.acc summary { cursor: pointer; padding: 14px 18px; display: flex; gap: 12px; align-items: center; font-weight: 700; list-style: none; }
+details.acc summary::-webkit-details-marker { display: none; }
+details.acc summary::before { content: "+"; width: 24px; height: 24px; border-radius: 50%; background: var(--red-soft); color: var(--red-ink); display: grid; place-items: center; flex: 0 0 24px; font-weight: 700; }
+details.acc[open] summary::before { content: "–"; }
+details.acc summary .cnt { margin-left: auto; font-weight: 400; font-size: 0.8rem; color: var(--muted); }
+details.acc .acc-body { padding: 0 18px 16px 54px; }
+.wd { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.wd li { display: grid; grid-template-columns: minmax(150px, 220px) 1fr; gap: 4px 14px; font-size: 0.92rem; padding-bottom: 8px; border-bottom: 1px dashed var(--line); }
+.wd li:last-child { border-bottom: 0; }
+.wd li b { font-weight: 700; }
+@media (max-width: 560px) { .wd li { grid-template-columns: 1fr; } details.acc .acc-body { padding-left: 18px; } }
+
+/* role cards */
+.role { display: grid; gap: 6px; }
+.lvl { display: inline-flex; gap: 3px; }
+.lvl i { width: 18px; height: 6px; border-radius: 3px; background: var(--line); }
+.lvl i.on { background: var(--red); }
+
+/* calculator */
+.calc { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 18px; }
+@media (max-width: 820px) { .calc { grid-template-columns: 1fr; } }
+.inputs { display: grid; gap: 12px; }
+.field { display: grid; gap: 4px; }
+.field label { font-size: 0.85rem; color: var(--char-2); display: flex; justify-content: space-between; gap: 10px; }
+.field label output { color: var(--char); font-weight: 700; font-variant-numeric: tabular-nums; }
+input[type="range"] { width: 100%; accent-color: var(--red); }
+.results { display: grid; gap: 12px; align-content: start; }
+.res-row { display: grid; grid-template-columns: 1fr auto; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 0.93rem; }
+.res-row b { font-variant-numeric: tabular-nums; }
+.res-big { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.res-big div { background: var(--surface); border-radius: 10px; padding: 12px 14px; display: grid; gap: 2px; border: 1px solid var(--line); }
+.res-big b { font-size: 1.35rem; font-variant-numeric: tabular-nums; }
+.res-big span { font-size: 0.8rem; color: var(--char-2); }
+.res-big .hl { border-color: var(--red); }
+.res-big .hl b { color: var(--red-ink); }
+.stackbar { display: flex; height: 22px; border-radius: 6px; overflow: hidden; gap: 2px; background: var(--surface); }
+.stackbar span { display: block; height: 100%; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.8rem; color: var(--char-2); }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
+
+.callout { border-left: 5px solid var(--teal); background: var(--teal-soft); border-radius: 0 10px 10px 0; padding: 14px 18px; display: grid; gap: 6px; align-content: start; }
+.callout.warn { border-left-color: var(--red); background: var(--red-soft); }
+.callout p, .callout li { font-size: 0.94rem; }
+.callout ul { margin: 0; padding-left: 18px; }
+
+.tag { display: inline-block; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; background: var(--teal-soft); justify-self: start; }
+.big { font-size: 1.45rem; font-weight: 700; color: var(--red-ink); line-height: 1.15; }
+.lesson { font-size: 0.86rem; color: var(--char-2); border-top: 1px dashed var(--line); padding-top: 8px; }
+
+.timeline { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.phase { border-top: 5px solid var(--red); background: var(--panel); border-radius: 0 0 10px 10px; padding: 14px 16px; display: grid; gap: 6px; align-content: start; }
+.phase:nth-child(2) { border-top-color: var(--gold); } .phase:nth-child(3) { border-top-color: var(--teal); } .phase:nth-child(4) { border-top-color: var(--char-2); }
+.phase ul { margin: 0; padding-left: 18px; font-size: 0.9rem; display: grid; gap: 3px; }
+
+ol.src { font-size: 0.84rem; color: var(--char-2); padding-left: 22px; display: grid; gap: 6px; margin: 0; }
+ol.src li { overflow-wrap: anywhere; }
+
+.view-nav { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 18px; margin-top: 8px; }
+footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
+
+@media (max-width: 640px) { .brand small { display: none; } .panel, .hero { padding: 16px; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">The Proofing Room <small>Start-up ingredient hub · draft</small></div>
+    <nav class="tabs-scroll" aria-label="Sections">
+      <ul class="tabs" id="tabs">
+        <li><button data-go="overview">Overview</button></li>
+        <li><button data-go="problem">Why now</button></li>
+        <li><button data-go="stagegate">Stage-Gate</button></li>
+        <li><button data-go="cohort">Baker cohort</button></li>
+        <li><button data-go="supply">Supply chain</button></li>
+        <li><button data-go="role">Puratos role &amp; money</button></li>
+        <li><button data-go="precedents">Precedents</button></li>
+        <li><button data-go="roadmap">Plan &amp; KPIs</button></li>
+        <li><button data-go="sources">Sources</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+<!-- ============ OVERVIEW ============ -->
+<section class="view" data-view="overview">
+  <div class="hero">
+    <span class="eyebrow">Proposal for NAM leadership · draft v0.2</span>
+    <h1>The Proofing Room</h1>
+    <p class="lede">A Puratos hub that takes promising start-up ingredients and launches them first with a cohort of artisan bakers who want to be first to market. Bakers get exclusive innovation, start-ups get paying customers and a path to full GRAS, and Puratos earns margin while building its next generation of ingredients.</p>
+    <div class="kpis">
+      <div class="kpi"><b>6 stages</b><span>from scouting to full artisan commercialization, with a go / recycle / kill gate between each</span></div>
+      <div class="kpi"><b>12–18 mo</b><span>target from first contact to artisan launch across the cohort</span></div>
+      <div class="kpi"><b>10–20</b><span>artisan bakers and small chains in the first cohort, near Pennsauken, NJ</span></div>
+      <div class="kpi"><b>3–5</b><span>start-up ingredients per cohort, 1–2 expected to reach full commercialization</span></div>
+    </div>
+    <div class="cta-row">
+      <button class="btn primary" data-go="stagegate">See the Stage-Gate process</button>
+      <button class="btn ghost" data-go="role">See how Puratos makes money</button>
+    </div>
+  </div>
+
+  <figure class="fig">
+    <div class="scroll">
+    <svg viewBox="0 0 1060 250" role="img" aria-labelledby="ovT ovD" style="min-width:760px">
+      <title id="ovT">The idea in one picture</title>
+      <desc id="ovD">Start-up ingredients enter the Proofing Room, which adds Puratos regulatory support, R and D, the Pennsauken pilot bakery, technical advisors and Sensobus. They launch with a cohort of artisan bakers who sell premium products to consumers. Revenue and data flow back to fund a full GRAS notice and wider scale-up.</desc>
+      <rect x="10" y="70" width="190" height="110" rx="12" class="fsand"/>
+      <text x="105" y="112" text-anchor="middle" font-size="17" font-weight="700">Start-ups</text>
+      <text x="105" y="136" text-anchor="middle" font-size="12.5" class="t2">novel ingredient,</text>
+      <text x="105" y="154" text-anchor="middle" font-size="12.5" class="t2">pilot-scale supply</text>
+      <rect x="290" y="30" width="420" height="190" rx="14" class="fr"/>
+      <text x="500" y="66" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">The Proofing Room</text>
+      <g font-size="12.5" fill="#fff">
+        <rect x="312" y="86" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="403" y="108" text-anchor="middle" fill="#fff">Regulatory support</text>
+        <rect x="506" y="86" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="597" y="108" text-anchor="middle" fill="#fff">R&amp;D application work</text>
+        <rect x="312" y="128" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="403" y="150" text-anchor="middle" fill="#fff">Pennsauken pilot bakery</text>
+        <rect x="506" y="128" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="597" y="150" text-anchor="middle" fill="#fff">Technical advisors</text>
+        <rect x="312" y="170" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="403" y="192" text-anchor="middle" fill="#fff">Sensobus &amp; Taste Tomorrow</text>
+        <rect x="506" y="170" width="182" height="34" rx="17" fill="rgba(255,255,255,0.16)"/><text x="597" y="192" text-anchor="middle" fill="#fff">Supply chain &amp; distribution</text>
+      </g>
+      <rect x="800" y="70" width="250" height="110" rx="12" class="fsand"/>
+      <text x="925" y="112" text-anchor="middle" font-size="17" font-weight="700">Artisan baker cohort</text>
+      <text x="925" y="136" text-anchor="middle" font-size="12.5" class="t2">first to launch,</text>
+      <text x="925" y="154" text-anchor="middle" font-size="12.5" class="t2">premium products</text>
+      <g fill="none" stroke-width="2.2">
+        <path d="M202 125 H282" class="s2"/><path d="M274 118 L284 125 L274 132" class="s2"/>
+        <path d="M712 125 H792" class="s2"/><path d="M784 118 L794 125 L784 132" class="s2"/>
+        <path d="M925 182 C 925 246, 105 246, 105 186" class="sg" stroke-dasharray="6 5"/>
+        <path d="M98 196 L105 184 L112 196" class="sg"/>
+      </g>
+      <text x="515" y="244" text-anchor="middle" font-size="12.5" class="tg">sales revenue + real-world data fund the full GRAS notice and wider scale-up</text>
+    </svg>
+    </div>
+  </figure>
+
+  <div class="grid3">
+    <div class="card"><span class="eyebrow">For start-ups</span><h3>Paying customers before the FDA letter</h3><p class="small">A safe, documented route to first revenue, plus regulatory, R&amp;D and scale-up help that most cannot afford alone.</p></div>
+    <div class="card"><span class="eyebrow">For artisan bakers</span><h3>First access to real innovation</h3><p class="small">Exclusive launch windows, recipe development at Pennsauken, technical advisor support and a story to tell customers.</p></div>
+    <div class="card"><span class="eyebrow">For Puratos</span><h3>Margin, pull-through and a pipeline</h3><p class="small">Distribution margin on the ingredient, more sales of core Puratos products in the same recipes, and first rights on the winners.</p></div>
+  </div>
+
+  <div class="ask">
+    <h3>What we are asking leadership for</h3>
+    <ol>
+      <li>Agreement to run one 12-month pilot cohort in the Northeast, using existing Pennsauken facilities and teams.</li>
+      <li>A decision on the legal set-up (who sells the ingredient). The recommendation is a ring-fenced hub entity.</li>
+      <li>A small dedicated team: one hub lead, regulatory support time, and technical advisor time for the cohort.</li>
+    </ol>
+  </div>
+  <div class="view-nav"><span></span><button class="btn ghost" data-go="problem">Next: Why now →</button></div>
+</section>
+
+<!-- ============ WHY NOW ============ -->
+<section class="view" data-view="problem" hidden>
+  <div class="view-head">
+    <span class="eyebrow">The problem and the timing</span>
+    <h2>Good start-up ingredients stall before they reach a baker</h2>
+    <p>Start-up ingredients are expensive at pilot scale and often only self-GRAS. Large customers will not take that liability up a long supply chain. Artisan bakers can absorb the price on premium products, and the volumes match what a start-up can make.</p>
+  </div>
+
+  <div class="grid2">
+    <figure class="fig">
+      <svg viewBox="0 0 440 240" role="img" aria-labelledby="ueT ueD">
+        <title id="ueT">Ingredient premium as a share of shelf price</title>
+        <desc id="ueD">Artisan croissant 0.4 percent of shelf price, industrial sliced loaf 4.7 percent.</desc>
+        <text x="0" y="18" font-size="14" font-weight="700">Extra ingredient cost, % of shelf price</text>
+        <g class="sl" stroke-width="1"><line x1="130" y1="40" x2="130" y2="196"/><line x1="214" y1="40" x2="214" y2="196" stroke-dasharray="2 4"/><line x1="298" y1="40" x2="298" y2="196" stroke-dasharray="2 4"/><line x1="382" y1="40" x2="382" y2="196" stroke-dasharray="2 4"/></g>
+        <g font-size="11" text-anchor="middle"><text x="130" y="214" class="t2">0%</text><text x="214" y="214" class="t2">2%</text><text x="298" y="214" class="t2">4%</text><text x="382" y="214" class="t2">6%</text></g>
+        <text x="0" y="86" font-size="13">Artisan</text><text x="0" y="102" font-size="11" class="t2">croissant</text>
+        <rect x="130" y="72" width="18" height="34" rx="4" class="ft"/><text x="156" y="94" font-size="13" font-weight="700">0.4%</text>
+        <text x="0" y="156" font-size="13">Industrial</text><text x="0" y="172" font-size="11" class="t2">sliced loaf</text>
+        <rect x="130" y="142" width="197" height="34" rx="4" class="fg"/><text x="335" y="164" font-size="13" font-weight="700">4.7%</text>
+        <text x="0" y="236" font-size="11" class="t2">Illustrative: +$8/kg premium at 3% inclusion.</text>
+      </svg>
+      <figcaption>Croissant 80 g at $4.50, loaf 680 g at $3.49, same ingredient and dose.</figcaption>
+    </figure>
+    <figure class="fig">
+      <svg viewBox="0 0 440 240" role="img" aria-labelledby="voT voD">
+        <title id="voT">Annual ingredient volume needed</title>
+        <desc id="voD">A 10-store artisan chain needs about 4 tonnes a year. One industrial line needs about 370 tonnes, roughly 85 times more.</desc>
+        <text x="0" y="18" font-size="14" font-weight="700">Tonnes of ingredient per year</text>
+        <rect x="20" y="96" width="14" height="14" rx="2" class="ft"/>
+        <text x="44" y="108" font-size="13" font-weight="700">≈ 4 t</text>
+        <text x="20" y="132" font-size="11.5" class="t2">10-store artisan chain</text>
+        <text x="20" y="148" font-size="11.5" class="t2">500 croissants/store/day</text>
+        <rect x="230" y="36" width="129" height="129" rx="3" class="fg"/>
+        <text x="230" y="186" font-size="13" font-weight="700">≈ 370 t</text>
+        <text x="230" y="204" font-size="11.5" class="t2">one industrial line, 50,000 loaves/day</text>
+        <text x="0" y="236" font-size="11" class="t2">Square area is proportional to tonnes.</text>
+      </svg>
+      <figcaption>Pilot-scale start-ups can usually supply the first, not the second.</figcaption>
+    </figure>
+  </div>
+
+  <div class="tbl">
+    <table>
+      <thead><tr><th style="width:22%"></th><th>Self-affirmed GRAS</th><th>FDA-notified GRAS</th></tr></thead>
+      <tbody>
+        <tr><td><b>Who decides</b></td><td>The company, usually with an independent expert panel, without telling FDA<sup><a href="#s7" data-src>7</a></sup></td><td>The company files its conclusion; FDA reviews and publishes it<sup><a href="#s7" data-src>7</a></sup></td></tr>
+        <tr><td><b>Time</b></td><td>Can sell once the dossier is done</td><td>FDA review typically 6–9 months, sometimes a year or more<sup><a href="#s8" data-src>8</a></sup><sup><a href="#s9" data-src>9</a></sup></td></tr>
+        <tr><td><b>How large buyers treat it</b></td><td>Often declined by industrial customers and retailers</td><td>"No questions" letter strengthens retailer acceptance<sup><a href="#s8" data-src>8</a></sup></td></tr>
+        <tr><td><b>After the 2026 FDA proposal</b></td><td>Would end for new uses; legacy marketed uses get a streamlined filing<sup><a href="#s10" data-src>10</a></sup></td><td>Becomes the standard route for every new use<sup><a href="#s10" data-src>10</a></sup></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="grid2">
+    <div class="callout warn">
+      <h3>What a smaller channel does not change</h3>
+      <p>An unsafe ingredient is adulterated food in one bakery or a thousand. Small and retail bakeries have lighter FSMA paperwork<sup><a href="#s12" data-src>12</a></sup>, but the safety bar on the ingredient is the same. The hub keeps QA standards and makes them proportionate and fast.</p>
+    </div>
+    <div class="callout">
+      <h3>Why act now</h3>
+      <p>FDA proposed ending self-affirmed GRAS in August 2026; comments are due 9 December 2026 and a final rule is expected no earlier than late 2028<sup><a href="#s10" data-src>10</a></sup><sup><a href="#s11" data-src>11</a></sup>. Ingredients lawfully on the market before the effective date may qualify for a streamlined filing. Regulatory counsel should confirm how this applies.</p>
+    </div>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="overview">← Overview</button><button class="btn ghost" data-go="stagegate">Next: Stage-Gate →</button></div>
+</section>
+
+<!-- ============ STAGE GATE ============ -->
+<section class="view" data-view="stagegate" hidden>
+  <div class="view-head">
+    <span class="eyebrow">Full draft process</span>
+    <h2>Stage-Gate: from choosing a start-up to full artisan commercialization</h2>
+    <p>Six stages, each ending in a gate where a small committee decides go, recycle or kill. Based on Cooper's Stage-Gate model<sup><a href="#s23" data-src>23</a></sup>, adapted so the first commercial launch is with the artisan baker cohort. Click any stage or gate.</p>
+  </div>
+  <div class="sg-track" id="sgTrack" role="group" aria-label="Stages and gates"></div>
+  <div class="sg-legend"><span><span class="blk"></span>Stage: the work</span><span><span class="dia"></span>Gate: the decision</span><span>Total: about 12–18 months to artisan launch, 18–30 months to full artisan roll-out</span></div>
+  <div class="detail" id="sgDetail" aria-live="polite"></div>
+  <div class="pager"><button class="btn ghost" id="sgPrev">← Previous step</button><button class="btn primary" id="sgNext">Next step →</button></div>
+
+  <h3>Who does what (RACI)</h3>
+  <div class="tbl">
+    <table>
+      <thead><tr><th>Activity</th><th>Hub lead</th><th>Start-up</th><th>Puratos R&amp;D</th><th>Regulatory / QA</th><th>Technical advisors</th><th>Supply chain</th><th>Cohort bakers</th><th>Sparkalis</th></tr></thead>
+      <tbody>
+        <tr><td>Scouting and fit screen</td><td class="c A">A</td><td class="c C">C</td><td class="c C">C</td><td class="c I">I</td><td class="c C">C</td><td class="c I">I</td><td class="c C">C</td><td class="c R">R</td></tr>
+        <tr><td>Regulatory triage and dossier review</td><td class="c A">A</td><td class="c R">R</td><td class="c C">C</td><td class="c R">R</td><td class="c I">I</td><td class="c I">I</td><td class="c I">I</td><td class="c I">I</td></tr>
+        <tr><td>Application development (Pennsauken)</td><td class="c A">A</td><td class="c C">C</td><td class="c R">R</td><td class="c C">C</td><td class="c C">C</td><td class="c I">I</td><td class="c C">C</td><td class="c I">I</td></tr>
+        <tr><td>Supply set-up (spec, packaging, stock)</td><td class="c A">A</td><td class="c R">R</td><td class="c C">C</td><td class="c C">C</td><td class="c I">I</td><td class="c R">R</td><td class="c I">I</td><td class="c I">I</td></tr>
+        <tr><td>Baker co-creation pilot</td><td class="c A">A</td><td class="c C">C</td><td class="c C">C</td><td class="c I">I</td><td class="c R">R</td><td class="c C">C</td><td class="c R">R</td><td class="c I">I</td></tr>
+        <tr><td>Artisan launch and sales</td><td class="c A">A</td><td class="c C">C</td><td class="c I">I</td><td class="c C">C</td><td class="c R">R</td><td class="c R">R</td><td class="c R">R</td><td class="c I">I</td></tr>
+        <tr><td>GRAS notice filing</td><td class="c C">C</td><td class="c A">A</td><td class="c C">C</td><td class="c R">R</td><td class="c I">I</td><td class="c I">I</td><td class="c I">I</td><td class="c C">C</td></tr>
+        <tr><td>Gate decisions</td><td class="c R">R</td><td class="c C">C</td><td class="c C">C</td><td class="c C">C</td><td class="c C">C</td><td class="c C">C</td><td class="c I">I</td><td class="c A">A</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="small">R = does the work, A = accountable for the outcome, C = consulted, I = informed. The gate committee is the hub lead, R&amp;D, Regulatory/QA, Supply chain, Sales (artisan channel) and Sparkalis.</p>
+  <div class="view-nav"><button class="btn ghost" data-go="problem">← Why now</button><button class="btn ghost" data-go="cohort">Next: Baker cohort →</button></div>
+</section>
+
+<!-- ============ COHORT ============ -->
+<section class="view" data-view="cohort" hidden>
+  <div class="view-head">
+    <span class="eyebrow">The launch partners</span>
+    <h2>A cohort of artisan bakers who want to launch first</h2>
+    <p>The cohort is the hub's route to market. These bakers agree to put new start-up ingredients into real products on their shelves, in exchange for exclusivity, support and a story.</p>
+  </div>
+  <div class="grid3">
+    <div class="card">
+      <span class="eyebrow">Who</span>
+      <h3>10–20 bakers, one region</h3>
+      <ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px">
+        <li>Independent artisans and small chains (about 2–30 stores)</li>
+        <li>Within a day's drive of Pennsauken, NJ (NJ, PA, NY, DE, MD)</li>
+        <li>Existing Puratos customers first, for trust and billing</li>
+        <li>A mix of bread, viennoiserie and patisserie</li>
+      </ul>
+    </div>
+    <div class="card">
+      <span class="eyebrow">Selection criteria</span>
+      <h3>Curious, premium, organized</h3>
+      <ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px">
+        <li>Premium positioning and own retail counters</li>
+        <li>Written food safety plan and allergen controls</li>
+        <li>Product liability insurance in place</li>
+        <li>Willing to share sales and feedback data monthly</li>
+        <li>Has launched seasonal or limited-time products before</li>
+      </ul>
+    </div>
+    <div class="card">
+      <span class="eyebrow">Commitments</span>
+      <h3>What a cohort baker signs up to</h3>
+      <ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px">
+        <li>Trial at least 2 start-up ingredients a year</li>
+        <li>Launch at least 1 product on shelf for 8+ weeks</li>
+        <li>Use agreed label and marketing wording</li>
+        <li>Host one Sensobus day at a store</li>
+        <li>Report sales volumes and complaints monthly</li>
+      </ul>
+    </div>
+  </div>
+  <div class="panel">
+    <h3>What bakers get in return</h3>
+    <div class="grid4">
+      <div class="card"><b>Exclusivity window</b><p class="small">First to market in their area, for example 6 months, before the ingredient goes to the wider artisan network.</p></div>
+      <div class="card"><b>Recipe development</b><p class="small">Co-creation days at the Pennsauken pilot bakery and Innovation Center with Puratos R&amp;D.</p></div>
+      <div class="card"><b>Technical advisor support</b><p class="small">On-site help for first production runs and staff training.</p></div>
+      <div class="card"><b>Marketing story</b><p class="small">"Launched first at…" co-marketing, Taste Tomorrow trend material and consumer results from Sensobus.</p></div>
+      <div class="card"><b>Pilot pricing</b><p class="small">Introductory pricing on the start-up ingredient during the pilot stage.</p></div>
+      <div class="card"><b>Peer network</b><p class="small">A quarterly Innovation Day in Pennsauken with the cohort, start-ups and Puratos experts.</p></div>
+      <div class="card"><b>Early say</b><p class="small">Bakers write the "problem briefs" that guide which start-ups are scouted next.</p></div>
+      <div class="card"><b>Clear risk info</b><p class="small">GRAS status, spec, allergen data and insurance certificates provided up front for every ingredient.</p></div>
+    </div>
+  </div>
+  <div class="callout">
+    <h3>Things to write down in the cohort agreement</h3>
+    <ul>
+      <li>Term (12 months, renewable), number of trials, and minimum launch commitment</li>
+      <li>Exclusivity territory and end date; what happens if the baker does not launch</li>
+      <li>Labeling, claims and marketing rules for each ingredient; who approves</li>
+      <li>Data the baker shares (volumes, price, complaints) and how it is used</li>
+      <li>Insurance, indemnity and recall roles; complaint escalation path within 24 hours</li>
+      <li>Who owns recipes co-developed at Pennsauken</li>
+    </ul>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="stagegate">← Stage-Gate</button><button class="btn ghost" data-go="supply">Next: Supply chain →</button></div>
+</section>
+
+<!-- ============ SUPPLY CHAIN ============ -->
+<section class="view" data-view="supply" hidden>
+  <div class="view-head">
+    <span class="eyebrow">Raw material to bakery shelf</span>
+    <h2>How the ingredient moves, and who owns each step</h2>
+    <p>The recommended flow puts the hub between the start-up and the bakers as seller of record, using Puratos warehousing and distribution in Pennsauken. Click the checklists below for everything that needs to be written down.</p>
+  </div>
+  <figure class="fig">
+    <div class="scroll">
+    <svg viewBox="0 0 1080 330" role="img" aria-labelledby="scT scD" style="min-width:860px">
+      <title id="scT">Supply chain flow for a hub ingredient</title>
+      <desc id="scD">Physical flow: raw material feedstock to start-up or contract manufacturer, QA lot release, hub inventory at Puratos Pennsauken, delivery to cohort bakers, sale to consumers. Information flows back: forecasts, sales data, complaints. Puratos-owned steps are highlighted in red.</desc>
+      <text x="10" y="24" font-size="12" class="t2" letter-spacing="1">PRODUCT FLOW →</text>
+      <g>
+        <rect x="10" y="40" width="160" height="120" rx="10" class="fp sl" stroke-width="1"/>
+        <text x="90" y="72" text-anchor="middle" font-size="11" class="t2">1 · SOURCE</text>
+        <text x="90" y="96" text-anchor="middle" font-size="14.5" font-weight="700">Raw materials</text>
+        <text x="90" y="118" text-anchor="middle" font-size="11.5" class="t2">feedstock, media,</text>
+        <text x="90" y="134" text-anchor="middle" font-size="11.5" class="t2">side streams</text>
+      </g>
+      <g>
+        <rect x="192" y="40" width="160" height="120" rx="10" class="fp sl" stroke-width="1"/>
+        <text x="272" y="72" text-anchor="middle" font-size="11" class="t2">2 · MAKE</text>
+        <text x="272" y="96" text-anchor="middle" font-size="14.5" font-weight="700">Start-up or co-man</text>
+        <text x="272" y="118" text-anchor="middle" font-size="11.5" class="t2">batch production,</text>
+        <text x="272" y="134" text-anchor="middle" font-size="11.5" class="t2">lot coding</text>
+      </g>
+      <g>
+        <rect x="374" y="40" width="160" height="120" rx="10" class="frs"/>
+        <text x="454" y="72" text-anchor="middle" font-size="11" class="tr">3 · RELEASE</text>
+        <text x="454" y="96" text-anchor="middle" font-size="14.5" font-weight="700">QA lot release</text>
+        <text x="454" y="118" text-anchor="middle" font-size="11.5" class="t2">COA vs spec,</text>
+        <text x="454" y="134" text-anchor="middle" font-size="11.5" class="t2">hub QA sign-off</text>
+      </g>
+      <g>
+        <rect x="556" y="40" width="160" height="120" rx="10" class="fr"/>
+        <text x="636" y="72" text-anchor="middle" font-size="11" fill="#fff">4 · STORE &amp; PACK</text>
+        <text x="636" y="96" text-anchor="middle" font-size="14.5" font-weight="700" fill="#fff">Pennsauken hub</text>
+        <text x="636" y="118" text-anchor="middle" font-size="11.5" fill="#fff">stock, repack to</text>
+        <text x="636" y="134" text-anchor="middle" font-size="11.5" fill="#fff">artisan pack sizes</text>
+      </g>
+      <g>
+        <rect x="738" y="40" width="160" height="120" rx="10" class="frs"/>
+        <text x="818" y="72" text-anchor="middle" font-size="11" class="tr">5 · DELIVER</text>
+        <text x="818" y="96" text-anchor="middle" font-size="14.5" font-weight="700">Puratos route</text>
+        <text x="818" y="118" text-anchor="middle" font-size="11.5" class="t2">with core Puratos</text>
+        <text x="818" y="134" text-anchor="middle" font-size="11.5" class="t2">orders, or distributor</text>
+      </g>
+      <g>
+        <rect x="920" y="40" width="150" height="120" rx="10" class="fp sl" stroke-width="1"/>
+        <text x="995" y="72" text-anchor="middle" font-size="11" class="t2">6 · BAKE &amp; SELL</text>
+        <text x="995" y="96" text-anchor="middle" font-size="14.5" font-weight="700">Cohort bakers</text>
+        <text x="995" y="118" text-anchor="middle" font-size="11.5" class="t2">premium products</text>
+        <text x="995" y="134" text-anchor="middle" font-size="11.5" class="t2">to consumers</text>
+      </g>
+      <g fill="none" stroke-width="2" class="s2">
+        <path d="M171 100 H188"/><path d="M182 95 L189 100 L182 105"/>
+        <path d="M353 100 H370"/><path d="M364 95 L371 100 L364 105"/>
+        <path d="M535 100 H552"/><path d="M546 95 L553 100 L546 105"/>
+        <path d="M717 100 H734"/><path d="M728 95 L735 100 L728 105"/>
+        <path d="M899 100 H916"/><path d="M910 95 L917 100 L910 105"/>
+      </g>
+      <!-- info flow -->
+      <path d="M995 176 V214 H90 V176" fill="none" class="st" stroke-width="2" stroke-dasharray="6 5"/>
+      <path d="M84 186 L90 176 L96 186" fill="none" class="st" stroke-width="2"/>
+      <text x="540" y="236" text-anchor="middle" font-size="12" class="tt">← INFORMATION FLOW: sales data, forecasts, complaints, Sensobus results, reorder signals</text>
+      <!-- ownership band -->
+      <g font-size="11.5">
+        <rect x="10" y="266" width="342" height="26" rx="6" class="fsand"/><text x="181" y="284" text-anchor="middle">Start-up owns: production, spec, COA, capacity</text>
+        <rect x="374" y="266" width="524" height="26" rx="6" class="frs"/><text x="636" y="284" text-anchor="middle" class="tr">Hub / Puratos owns: release, inventory, pack, delivery, invoicing</text>
+        <rect x="920" y="266" width="150" height="26" rx="6" class="fsand"/><text x="995" y="284" text-anchor="middle">Baker owns: use, label</text>
+      </g>
+      <text x="10" y="318" font-size="11" class="t2">Option: for very small volumes the start-up ships direct to bakers and Puratos only provides support (see "Puratos role &amp; money").</text>
+    </svg>
+    </div>
+  </figure>
+
+  <div>
+    <h3 style="margin-bottom:12px">What needs to be written down</h3>
+    <details class="acc" open>
+      <summary>Raw material and specification <span class="cnt">7 items</span></summary>
+      <div class="acc-body"><ul class="wd">
+        <li><b>Identity and spec sheet</b><span>What the ingredient is, how it is made, physical and chemical limits, micro limits.</span></li>
+        <li><b>Raw material origin</b><span>Feedstocks and processing aids used, country of origin, any GMO or allergen-derived inputs.</span></li>
+        <li><b>Certificate of analysis</b><span>Required for every lot, tested against the spec, before release.</span></li>
+        <li><b>Shelf life and storage</b><span>Proven shelf life, temperature and humidity limits, behavior once opened in a bakery.</span></li>
+        <li><b>Allergen and nutrition data</b><span>Allergen statement, cross-contact risk at the plant, nutrition panel values for bakers' labels.</span></li>
+        <li><b>Claims and certifications</b><span>Kosher, halal, organic, non-GMO, vegan, upcycled; who certifies and when it expires.</span></li>
+        <li><b>Cost-in-use</b><span>Price per kg and the dose per application, so bakers see cost per unit.</span></li>
+      </ul></div>
+    </details>
+    <details class="acc">
+      <summary>Capacity and continuity of supply <span class="cnt">6 items</span></summary>
+      <div class="acc-body"><ul class="wd">
+        <li><b>Current capacity</b><span>kg per month today, and what the start-up can commit to the cohort.</span></li>
+        <li><b>Scale-up plan</b><span>When and how capacity grows; named contract manufacturer if any.</span></li>
+        <li><b>Lead time and MOQ</b><span>Order-to-ship time and minimum batch, so the hub can plan stock.</span></li>
+        <li><b>Safety stock</b><span>Weeks of cover the hub holds at Pennsauken; who pays for it.</span></li>
+        <li><b>Forecast cadence</b><span>Monthly rolling forecast from hub to start-up, built from cohort sales.</span></li>
+        <li><b>Business continuity</b><span>What happens if the start-up runs out of cash or capacity: second source, escrow of process know-how, or a clean exit.</span></li>
+      </ul></div>
+    </details>
+    <details class="acc">
+      <summary>Food safety and regulatory <span class="cnt">8 items</span></summary>
+      <div class="acc-body"><ul class="wd">
+        <li><b>GRAS status</b><span>Self-GRAS dossier with independent expert panel, intended uses and maximum levels; timeline to file a GRAS notice.</span></li>
+        <li><b>Supplier approval</b><span>Hub supplier questionnaire, food safety plan, audit or GFSI certificate, FDA facility registration.</span></li>
+        <li><b>Imports</b><span>If made outside the US, the importer of record must run a Foreign Supplier Verification Program<sup><a href="#s24" data-src>24</a></sup>.</span></li>
+        <li><b>Traceability</b><span>Lot codes from raw material to bakery delivery; one-step-forward, one-step-back records.</span></li>
+        <li><b>Recall plan</b><span>Roles, contacts and a mock recall before launch.</span></li>
+        <li><b>Labeling</b><span>Ingredient name for bakers' labels, allergen wording, any claims reviewed.</span></li>
+        <li><b>Insurance</b><span>Start-up product liability cover naming the hub as additional insured; minimum amount set by Puratos risk.</span></li>
+        <li><b>Canada and Mexico</b><span>Not in the first cohort; Health Canada and COFEPRIS rules differ from GRAS.</span></li>
+      </ul></div>
+    </details>
+    <details class="acc">
+      <summary>Logistics and packaging <span class="cnt">5 items</span></summary>
+      <div class="acc-body"><ul class="wd">
+        <li><b>Pack size</b><span>Artisan-friendly formats (for example 1–5 kg) versus bulk; who repacks and where.</span></li>
+        <li><b>Warehousing</b><span>Hub stock at Pennsauken or a 3PL; temperature control; FIFO and lot tracking.</span></li>
+        <li><b>Delivery route</b><span>Ship with regular Puratos deliveries to the baker, or through the baker's distributor.</span></li>
+        <li><b>Incoterms and freight</b><span>Who pays freight from the start-up to Pennsauken and from Pennsauken to bakers.</span></li>
+        <li><b>Returns and waste</b><span>Expired or damaged stock: who takes the loss.</span></li>
+      </ul></div>
+    </details>
+    <details class="acc">
+      <summary>Commercial terms <span class="cnt">7 items</span></summary>
+      <div class="acc-body"><ul class="wd">
+        <li><b>Transfer price</b><span>What the hub pays the start-up per kg, and how it drops as volume grows.</span></li>
+        <li><b>Hub margin and baker price</b><span>Puratos margin on the ingredient and the list price to bakers (see the calculator).</span></li>
+        <li><b>Success fee</b><span>Optional percentage on the start-up's later sales beyond the cohort.</span></li>
+        <li><b>Payment terms</b><span>Buy-and-resell, or consignment during pilots to limit Puratos inventory risk.</span></li>
+        <li><b>IP and data</b><span>Start-up keeps its IP; Puratos owns application know-how it creates; who owns Sensobus and sales data.</span></li>
+        <li><b>Right of first refusal</b><span>Puratos first right to distribute the ingredient after graduation, without exclusivity that blocks the start-up.</span></li>
+        <li><b>Exit</b><span>How either side leaves, and what happens to stock and bakers' supply.</span></li>
+      </ul></div>
+    </details>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="cohort">← Baker cohort</button><button class="btn ghost" data-go="role">Next: Puratos role &amp; money →</button></div>
+</section>
+
+<!-- ============ ROLE & MONEY ============ -->
+<section class="view" data-view="role" hidden>
+  <div class="view-head">
+    <span class="eyebrow">Where Puratos plays</span>
+    <h2>Puratos as orchestrator, seller and scale-up partner</h2>
+    <p>Puratos already owns most of what an incubator needs. The table shows where it plays at each step, and the calculator shows how the money could work.</p>
+  </div>
+  <div class="grid4" id="roles"></div>
+
+  <h3>Who sells the ingredient?</h3>
+  <div class="grid3">
+    <div class="card"><span class="tag">Option A</span><h3>Puratos sells under its name</h3><p class="small">Full Puratos supplier approval applies, which is today's blocker. Most control, most liability, slowest.</p></div>
+    <div class="card" style="border:2px solid var(--red)"><span class="tag" style="background:var(--red-soft)">Option B · Recommended</span><h3>A ring-fenced hub entity sells</h3><p class="small">A separate company (for example under Sparkalis) with its own insurance and a published entry checklist. The start-up indemnifies the hub. Mirrors the Bühler, Givaudan and Migros Cultured Hub joint venture<sup><a href="#s16" data-src>16</a></sup>.</p></div>
+    <div class="card"><span class="tag">Option C</span><h3>Puratos only matchmakes</h3><p class="small">The start-up sells direct to bakers; Puratos sells services. Least liability, but the least margin and data.</p></div>
+  </div>
+
+  <div class="panel">
+    <div style="display:grid;gap:6px">
+      <span class="eyebrow">Interactive · illustrative numbers</span>
+      <h3>How Puratos makes money from one ingredient in one cohort</h3>
+      <p class="small">Move the sliders. All defaults are assumptions to replace with real ingredient data.</p>
+    </div>
+    <div class="calc">
+      <div class="inputs" id="calcInputs"></div>
+      <div class="results">
+        <div class="res-big">
+          <div class="hl"><b id="oPur">–</b><span>Puratos gross profit per year</span></div>
+          <div><b id="oStart">–</b><span>Start-up revenue per year</span></div>
+          <div><b id="oKg">–</b><span>Ingredient volume per year</span></div>
+        </div>
+        <div>
+          <div class="stackbar" id="oBar" aria-hidden="true"></div>
+          <div class="legend" style="margin-top:8px"><span><i style="background:var(--red)"></i>Margin on ingredient</span><span><i style="background:var(--gold)"></i>Extra sales of core Puratos products</span><span><i style="background:var(--teal)"></i>Fee on end sales</span></div>
+        </div>
+        <div>
+          <div class="res-row"><span>Price to baker per kg</span><b id="oPrice">–</b></div>
+          <div class="res-row"><span>Ingredient cost per finished product</span><b id="oUnit">–</b></div>
+          <div class="res-row"><span>…as a share of the product's shelf price</span><b id="oShare">–</b></div>
+          <div class="res-row"><span>Margin on ingredient</span><b id="oM1">–</b></div>
+          <div class="res-row"><span>Pull-through gross profit</span><b id="oM2">–</b></div>
+          <div class="res-row"><span>Fee on bakers' end sales</span><b id="oM3">–</b></div>
+          <div class="res-row"><span>Baker's total extra cost per product (ingredient + fee)</span><b id="oBaker">–</b></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="callout">
+      <h3>Revenue streams for Puratos</h3>
+      <ul>
+        <li><b>Margin on the ingredient</b> as seller of record. Simple and familiar to bakers.</li>
+        <li><b>Pull-through</b>: launch recipes also use Puratos mixes, fillings, sourdoughs and chocolate.</li>
+        <li><b>Fee on end sales</b>: a percentage of the bakers' sales of the launched product. Possible, but it needs sales reporting and is unusual in B2B. A success fee paid by the start-up is easier.</li>
+        <li><b>Service fees</b>: Pennsauken pilot bakery days, regulatory dossier support, Sensobus studies, charged to start-ups or covered by Sparkalis.</li>
+        <li><b>Equity upside</b> through Sparkalis in the winners.</li>
+      </ul>
+    </div>
+    <div class="callout warn">
+      <h3>Read the calculator with care</h3>
+      <p>Try setting the fee on end sales to 1%. It brings in more than the whole ingredient margin, but it almost doubles the baker's extra cost per product. Margin plus pull-through is the simpler pitch to bakers. A fee on end sales works best as an option for bakers who want a lower ingredient price.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>Regulatory support the hub provides</h3>
+    <div class="grid3">
+      <div class="card"><b>GRAS triage</b><p class="small">Gap analysis of the start-up's self-GRAS file, intended uses and levels in bakery.</p></div>
+      <div class="card"><b>Expert panel access</b><p class="small">Shortlist of independent GRAS panels and toxicology labs, with negotiated rates.</p></div>
+      <div class="card"><b>Use-condition data</b><p class="small">Pennsauken trials give real use levels and process data for the GRAS notice.</p></div>
+      <div class="card"><b>Label and claims review</b><p class="small">Ingredient naming, allergens and claims for bakers' labels.</p></div>
+      <div class="card"><b>GRAS notice support</b><p class="small">Help preparing and filing the notice once the artisan launch is running.</p></div>
+      <div class="card"><b>Policy watch</b><p class="small">Track the FDA GRAS rule and file comments where it affects the hub.</p></div>
+    </div>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="supply">← Supply chain</button><button class="btn ghost" data-go="precedents">Next: Precedents →</button></div>
+</section>
+
+<!-- ============ PRECEDENTS ============ -->
+<section class="view" data-view="precedents" hidden>
+  <div class="view-head">
+    <span class="eyebrow">What has worked elsewhere</span>
+    <h2>Seven precedents and the lesson each one offers</h2>
+    <p>No B2B ingredient company today runs a paid launch channel with small customers for start-up ingredients. These models each solve part of the problem.</p>
+  </div>
+  <div class="grid4">
+    <article class="card"><span class="tag">Pilot to partnership</span><h3>Unilever Foundry</h3><div class="big">45 of 95</div><p class="small">pilots scaled after a €18M program<sup><a href="#s13" data-src>13</a></sup>.</p><p class="lesson">Pay for small pilots, avoid IP grabs and exclusivity.</p></article>
+    <article class="card"><span class="tag">Speed to shelf</span><h3>Nestlé R+D Accelerator</h3><div class="big">6 months</div><p class="small">idea to test launch; about 80 products tested in 18 countries<sup><a href="#s14" data-src>14</a></sup>.</p><p class="lesson">Embed start-ups in R&amp;D centres and test in limited real markets.</p></article>
+    <article class="card"><span class="tag">Shared consortium</span><h3>Givaudan MISTA</h3><div class="big">4 founders</div><p class="small">Givaudan, Danone, Mars and Ingredion shared a San Francisco centre (2018)<sup><a href="#s15" data-src>15</a></sup>.</p><p class="lesson">Neutral ground lowers start-up distrust.</p></article>
+    <article class="card"><span class="tag">Shared scale-up</span><h3>The Cultured Hub</h3><div class="big">3-way JV</div><p class="small">Bühler, Givaudan and Migros built a shared scale-up plant (2022)<sup><a href="#s16" data-src>16</a></sup>.</p><p class="lesson">A separate entity can carry operational risk.</p></article>
+    <article class="card"><span class="tag">Commercial, not equity</span><h3>Tate &amp; Lyle</h3><div class="big">Ventures closed</div><p class="small">Moved to milestone-based commercial collaborations and MassChallenge<sup><a href="#s17" data-src>17</a></sup>.</p><p class="lesson">Equity can misalign interests; milestones reduce friction.</p></article>
+    <article class="card"><span class="tag">Small channel first</span><h3>Whole Foods LEAP</h3><div class="big">12 weeks</div><p class="small">of curriculum, then regional shelf space before national<sup><a href="#s18" data-src>18</a></sup>.</p><p class="lesson">The closest analogue: prove locally, then graduate.</p></article>
+    <article class="card"><span class="tag" style="background:var(--red-soft)">Puratos today</span><h3>Sparkalis</h3><div class="big">Since 2021</div><p class="small">Seed investment, mentoring and Taste Tomorrow access; stakes in Fooditive and California Cultured<sup><a href="#s2" data-src>2</a></sup><sup><a href="#s19" data-src>19</a></sup><sup><a href="#s20" data-src>20</a></sup>.</p><p class="lesson">The investment engine exists; the paid launch channel is missing.</p></article>
+    <article class="card"><span class="tag">Research</span><h3>What the studies say</h3><p class="small">Non-equity programs trade control for speed<sup><a href="#s21" data-src>21</a></sup>. Start-ups join when they expect market access and revenue, and hold back over fear of misappropriation and single-customer dependence<sup><a href="#s22" data-src>22</a></sup>.</p><p class="lesson">Promise paying customers fast, leave IP with the start-up, name one decision-maker.</p></article>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="role">← Puratos role &amp; money</button><button class="btn ghost" data-go="roadmap">Next: Plan &amp; KPIs →</button></div>
+</section>
+
+<!-- ============ ROADMAP ============ -->
+<section class="view" data-view="roadmap" hidden>
+  <div class="view-head">
+    <span class="eyebrow">Pilot plan</span>
+    <h2>One region, one cohort, 24 months</h2>
+  </div>
+  <div class="timeline">
+    <div class="phase"><span class="eyebrow">Months 0–3</span><h3>Set up</h3><ul><li>Legal structure and insurance</li><li>Hub lead appointed</li><li>Entry checklist and agreements</li><li>Recruit 10–20 bakers</li></ul></div>
+    <div class="phase"><span class="eyebrow">Months 3–9</span><h3>Select and develop</h3><ul><li>Scout and screen 15–20 start-ups</li><li>3–5 enter incubation</li><li>Application work at Pennsauken</li><li>Supply set-up</li></ul></div>
+    <div class="phase"><span class="eyebrow">Months 9–15</span><h3>Pilot and launch</h3><ul><li>Baker co-creation pilots</li><li>Sensobus rounds</li><li>First artisan launches on shelf</li><li>GRAS notice preparation</li></ul></div>
+    <div class="phase"><span class="eyebrow">Months 15–24</span><h3>Scale and decide</h3><ul><li>1–2 ingredients into the national artisan catalog</li><li>GRAS notices filed</li><li>Decision on cohort 2 and a second region</li></ul></div>
+  </div>
+  <div class="tbl">
+    <table>
+      <thead><tr><th>Measure</th><th>Target, cohort 1</th><th>Reference point</th></tr></thead>
+      <tbody>
+        <tr><td>Days from first contact to first paid bakery order</td><td class="num">≤ 270</td><td>Nestlé: idea to test launch in about 6 months<sup><a href="#s14" data-src>14</a></sup></td></tr>
+        <tr><td>Share of incubated ingredients reaching artisan launch</td><td class="num">≥ 40%</td><td>Unilever Foundry: 45 of 95 pilots scaled<sup><a href="#s13" data-src>13</a></sup></td></tr>
+        <tr><td>Cohort bakers who launch at least one product</td><td class="num">≥ 70%</td><td>Proposed</td></tr>
+        <tr><td>Repeat-order rate 3 months after launch</td><td class="num">≥ 60%</td><td>Proposed</td></tr>
+        <tr><td>On-time, in-full supply to bakers</td><td class="num">≥ 95%</td><td>Proposed</td></tr>
+        <tr><td>Quality or safety incidents</td><td class="num">0 serious</td><td>Proposed</td></tr>
+        <tr><td>GRAS notices filed by graduates</td><td class="num">1–2</td><td>FDA review 6–9+ months<sup><a href="#s8" data-src>8</a></sup></td></tr>
+        <tr><td>Puratos gross profit (ingredient + pull-through)</td><td class="num">set after pricing</td><td>See calculator</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="grid2">
+    <div class="card"><h3>Main risks</h3><ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px"><li>Brand risk if a pilot ingredient has a safety issue</li><li>Start-up runs out of cash mid-launch</li><li>Channel conflict with industrial customers wanting the same innovation</li><li>FDA rule timing changes the self-GRAS window</li></ul></div>
+    <div class="card"><h3>Mitigations</h3><ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px"><li>Ring-fenced entity, insurance, strict Gate 2 checklist</li><li>Sparkalis cash check at Gate 2; continuity plan in the supply agreement</li><li>Time-limited exclusivity, then open to all channels</li><li>Every graduate files a full GRAS notice regardless</li></ul></div>
+  </div>
+  <div class="view-nav"><button class="btn ghost" data-go="precedents">← Precedents</button><button class="btn ghost" data-go="sources">Next: Sources →</button></div>
+</section>
+
+<!-- ============ SOURCES ============ -->
+<section class="view" data-view="sources" hidden>
+  <div class="view-head"><span class="eyebrow">Sources</span><h2>Public sources used</h2><p>Figures marked as illustrative or proposed are assumptions for discussion, not sourced facts.</p></div>
+  <ol class="src">
+    <li id="s1">Puratos, "Our organisation." <a href="https://www.puratos.com/about-puratos/our-organisation">puratos.com</a></li>
+    <li id="s2">Puratos, "Puratos is launching a new foodtech venture called Sparkalis," 11 March 2021. <a href="https://www.puratos.com/news/puratos-is-launching-a-new-foodtech-venture-called-sparkalis">puratos.com</a></li>
+    <li id="s3">Puratos, "Sensobus." <a href="https://puratos.com/services/grow-your-business-with-our-services/market-insights/sensobus">puratos.com</a></li>
+    <li id="s4">Puratos, "Taste Tomorrow." <a href="https://www.puratos.com/services/grow-your-business-with-our-services/market-insights/taste-tomorrow">puratos.com</a></li>
+    <li id="s5">Snack Food &amp; Wholesale Bakery, "Puratos unveils 2024 consumer reports." <a href="https://snackandbakery.com/articles/109844-puratos-unveils-2024-consumer-reports-in-bakery-patisserie-and-chocolate">snackandbakery.com</a></li>
+    <li id="s6">Puratos USA, "Puratos and AMF Bakery Systems launch cutting-edge pilot bakery plant at Puratos USA headquarters in Pennsauken, NJ," June 2025. <a href="https://www.puratos.us/en/news/puratos-and-amf-bakery-systems-launch-cutting-edge-pilot-bakery-">puratos.us</a> · NJBIZ, 10 June 2025 (10,000 sq ft). <a href="https://njbiz.com/puratos-south-jersey-pilot-bakery-innovation">njbiz.com</a></li>
+    <li id="s7">ChemLinked, "US GRAS regulation." <a href="https://food.chemlinked.com/foodpedia/us-generally-recognized-as-safe-regulation">food.chemlinked.com</a></li>
+    <li id="s8">Maven Regulatory Solutions, "GRAS vs. self-affirmed GRAS," November 2024. <a href="https://www.mavenrs.com/blog/gras-vs-self-affirmed-gras-regulatory-pathway">mavenrs.com</a></li>
+    <li id="s9">Morrison Foerster, "GRAS overhaul: less onerous than feared, but legal battle likely," August 2026. <a href="https://www.mofo.com/resources/news/260810-gras-overhaul-less-onerous-than-feared-but-legal-battle-likely">mofo.com</a></li>
+    <li id="s10">Alston &amp; Bird, "FDA proposes to eliminate self-affirmed GRAS pathway," 11 August 2026. <a href="https://www.alston.com/en/insights/publications/2026/08/fda-proposes-eliminate-self-affirmed-gras-pathway">alston.com</a></li>
+    <li id="s11">Venable, "New details emerge on FDA's GRAS rulemaking," July 2026. <a href="https://www.venable.com/insights/publications/2026/07/new-details-emerge-on-fdas-gras-rulemaking">venable.com</a></li>
+    <li id="s12">National Sustainable Agriculture Coalition, "Modified requirements for qualified facilities." <a href="https://sustainableagriculture.net/fsma/learn-about-the-issues/modified-requirements-for-qualified-facilities/">sustainableagriculture.net</a></li>
+    <li id="s13">FoodNavigator, "Unilever Foundry creator" interview, 8 March 2016. <a href="https://www.foodnavigator.com/Article/2016/03/08/start-ups-are-inventing-the-future-big-business-needs-to-partner-now-unilever-foundry-creator/">foodnavigator.com</a></li>
+    <li id="s14">NutraIngredients, "Nestlé launches largest R+D Accelerator," 7 September 2021. <a href="https://www.nutraingredients.com/Article/2021/09/07/Nestle-launches-largest-R-D-Accelerator-for-food-and-drink-innovation">nutraingredients.com</a></li>
+    <li id="s15">Givaudan, "Givaudan launches MISTA," 29 November 2018. <a href="https://www.givaudan.com/print/16511">givaudan.com</a></li>
+    <li id="s16">Food Business MEA, "Bühler, Givaudan and Migros launch the Cultured Hub," June 2022. <a href="https://www.foodbusinessmea.com/buhler-givaudan-and-migros-launch-the-cultured-hub-to-support-food-innovation/">foodbusinessmea.com</a></li>
+    <li id="s17">AgFunderNews via Agroempresario, "Tate &amp; Lyle expands open innovation strategy," November 2025. <a href="https://agroempresario.com/publicacion/113394/tate-lyle-expands-open-innovation-strategy-as-it-seeks-faster-flexible-collaborations-with-startups/">agroempresario.com</a></li>
+    <li id="s18">Nosh, "Whole Foods Market unveils first cohort for Local and Emerging Accelerator Program," 2022. <a href="https://www.nosh.com/news/2022/whole-foods-market-unveils-first-cohort-for-local-and-emerging-accelerator-program/">nosh.com</a></li>
+    <li id="s19">Food Business MEA, "Puratos venture fund acquires minority stake in Fooditive Group," March 2023. <a href="https://www.foodbusinessmea.com/?p=2080735">foodbusinessmea.com</a></li>
+    <li id="s20">Vegconomist, "Puratos invests in California Cultured," October 2024. <a href="https://vegconomist.com/investments-finance/chocolate-giant-puratos-investment-california-cultured-cell-based-cacao/">vegconomist.com</a></li>
+    <li id="s21">Weiblen, T. &amp; Chesbrough, H. (2015). "Engaging with startups to enhance corporate innovation." California Management Review 57(2). <a href="https://cmr.berkeley.edu/2015/02/57-2-engaging-with-startups-to-enhance-corporate-innovation">cmr.berkeley.edu</a></li>
+    <li id="s22">Corvello, V. et al. (2024). "The rules of courtship: What drives a start-up to collaborate with a large company?" Technological Forecasting &amp; Social Change 200. <a href="https://iris.unito.it/bitstream/2318/1949731/1/TFSC%20corvello%202023.pdf">open-access PDF</a></li>
+    <li id="s23">Cooper, R. G. (1990). "Stage-Gate systems: A new tool for managing new products." Business Horizons 33(3). Summary: <a href="https://agilebrandguide.com/wiki/models/stage-gate-process/">agilebrandguide.com</a></li>
+    <li id="s24">U.S. FDA, Foreign Supplier Verification Programs for Importers of Food (final guidance). <a href="https://fda.gov/media/98577/download">fda.gov</a></li>
+  </ol>
+  <div class="view-nav"><button class="btn ghost" data-go="roadmap">← Plan &amp; KPIs</button><button class="btn ghost" data-go="overview">Back to overview</button></div>
+</section>
+
+</main>
+<footer><div class="wrap">Draft proposal for internal discussion. Not an official Puratos publication and not legal or regulatory advice.</div></footer>
+
+<script>
+(function(){
+  /* ---------- views ---------- */
+  var views = Array.prototype.slice.call(document.querySelectorAll('[data-view]'));
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('#tabs button'));
+  var names = views.map(function(v){ return v.getAttribute('data-view'); });
+  function show(name, scroll){
+    if (names.indexOf(name) < 0) name = 'overview';
+    views.forEach(function(v){ v.hidden = v.getAttribute('data-view') !== name; });
+    tabs.forEach(function(t){
+      if (t.getAttribute('data-go') === name) { t.setAttribute('aria-current','page'); try { t.scrollIntoView({block:'nearest', inline:'center'}); } catch(e){} }
+      else t.removeAttribute('aria-current');
+    });
+    try { if (location.hash !== '#' + name) history.replaceState(null, '', '#' + name); } catch(e){}
+    if (scroll) window.scrollTo(0, 0);
+  }
+  document.addEventListener('click', function(e){
+    var b = e.target.closest('[data-go]');
+    if (b) { e.preventDefault(); show(b.getAttribute('data-go'), true); return; }
+    var s = e.target.closest('a[data-src]');
+    if (s) { e.preventDefault(); show('sources', false); var el = document.querySelector(s.getAttribute('href')); if (el) { el.scrollIntoView({block:'center'}); el.style.background = 'var(--gold-soft)'; setTimeout(function(){ el.style.background=''; }, 1600); } }
+  });
+  window.addEventListener('hashchange', function(){ show(location.hash.slice(1), true); });
+  show((location.hash || '').slice(1), false);
+
+  /* ---------- stage gate ---------- */
+  var steps = [
+    { type:'stage', k:'Stage 0', n:'Discover & scout', d:'Ongoing', lead:'Hub lead + Sparkalis',
+      obj:'Build a pipeline of start-up ingredients that solve real artisan bakery problems.',
+      act:['Pull deal flow from Sparkalis, accelerators and trade shows','Use Taste Tomorrow trends (plant-forward, gut health, clean label) to set themes','Collect "problem briefs" from cohort bakers','First call with founders; mutual NDA'],
+      pur:'Sparkalis network, Taste Tomorrow insight, technical advisors\' view of what bakers ask for.',
+      out:['One-page start-up profile','Theme fit score','Sample request'] },
+    { type:'gate', k:'Gate 1', n:'Fit screen', who:'Hub lead, monthly',
+      crit:['Solves a named bakery need or trend','Working samples available in kg, not grams','Regulatory status is known (self-GRAS, notified, or none)','Founders want a commercial partner, not only investment','No obvious safety or allergen red flag'],
+      go:'Enter Stage 1 scoping', rec:'Ask for more data or samples; revisit in 3 months', kill:'Decline politely; keep in Sparkalis watch list' },
+    { type:'stage', k:'Stage 1', n:'Scope & regulatory triage', d:'4–6 weeks', lead:'Regulatory/QA + R&D',
+      obj:'Find out quickly whether the ingredient can be sold safely and profitably to bakers.',
+      act:['Bench tests at the Pennsauken Innovation Center','Regulatory gap analysis: GRAS dossier, intended uses, maximum levels','Allergen, labeling and claims check','Supply capacity, MOQ and lead time check','First cost-in-use estimate per finished product'],
+      pur:'Regulatory review at no charge, R&D bench time, early cost modelling.',
+      out:['Scoping report','Risk rating: green / amber / red','Draft incubation term sheet'] },
+    { type:'gate', k:'Gate 2', n:'Enter incubation', who:'Gate committee',
+      crit:['Self-GRAS dossier with independent expert panel exists, or will within 3 months','Cost-in-use below an agreed share of shelf price (for example 2%)','Capacity covers the cohort pilot volume','Product liability insurance in place or committed','Start-up has 12+ months of cash, or Sparkalis support agreed','Incubation agreement signed: fees, IP, data, right of first refusal'],
+      go:'Start application development', rec:'Fix gaps (dossier, insurance, capacity) and return', kill:'Stop; give written feedback' },
+    { type:'stage', k:'Stage 2', n:'Application development', d:'6–10 weeks', lead:'Puratos R&D',
+      obj:'Turn the ingredient into 2–3 bakery applications that work in real production.',
+      act:['Develop prototypes (for example croissant, sourdough, filling) at the Innovation Center','Scale recipes on the Pennsauken pilot bakery lines','Shelf-life and process-tolerance tests','Finalize spec, COA format, artisan pack size and label wording','Internal sensory panel'],
+      pur:'R&D formulation, pilot bakery time, combining with core Puratos products (mixes, fillings, sourdough).',
+      out:['Application guide and recipes','Final spec sheet and COA template','Label and allergen pack','Pilot lot plan'] },
+    { type:'gate', k:'Gate 3', n:'Go to baker pilot', who:'Gate committee',
+      crit:['Prototypes pass internal sensory against the current product','Pilot lot made and released against spec','Supplier approval checklist complete','Insurance certificate names the hub','Recall and complaint process tested with a mock recall'],
+      go:'Start baker co-creation pilot', rec:'More R&D or supply work', kill:'Stop; ingredient does not perform' },
+    { type:'stage', k:'Stage 3', n:'Baker co-creation pilot', d:'8–12 weeks', lead:'Technical advisors',
+      obj:'Prove that real bakers can make and sell the product, and that consumers like it.',
+      act:['3–5 cohort bakers make small batches in their own kitchens','Training day for baker teams at the Pennsauken pilot bakery','Technical advisors on site for first runs','One Sensobus round at a cohort store','Test price points and messaging'],
+      pur:'Technical advisors, Sensobus, pilot pricing, marketing story from Taste Tomorrow.',
+      out:['Pilot report per baker','Sensobus liking and price results','Validated cost and price','Baker launch intent'] },
+    { type:'gate', k:'Gate 4', n:'Go to artisan launch', who:'Gate committee + baker reps',
+      crit:['Consumer liking at parity or better versus the current product','At least 60% of pilot bakers intend to launch','No quality or safety incidents','Unit economics work for baker, hub and start-up','Supply secured for launch volume plus safety stock'],
+      go:'Launch across the cohort', rec:'Reformulate or re-price, re-pilot', kill:'Stop; share learnings' },
+    { type:'stage', k:'Stage 4', n:'Artisan launch', d:'3–6 months', lead:'Hub lead + Sales',
+      obj:'Put the product on shelves across the cohort and prove repeat demand.',
+      act:['Launch in 10–20 cohort bakeries, often as a seasonal or limited-time item','Hub sells the ingredient; delivery with regular Puratos orders','Co-marketing: "Launched first at…"','Monthly sales, reorder and complaint tracking','Start GRAS notice preparation using real use data'],
+      pur:'Seller of record (via hub entity), distribution, sales support, regulatory support for the GRAS notice.',
+      out:['Sales and reorder dashboard','Complaint log','GRAS notice draft','Launch case study'] },
+    { type:'gate', k:'Gate 5', n:'Go to full commercialization', who:'Gate committee + NAM leadership',
+      crit:['Repeat-order rate of 60% or more at 3 months','On-time, in-full supply of 95% or more','Margins at target for all three parties','No serious incidents','GRAS notice filed or scheduled','Start-up can supply national artisan demand, directly or via a contract manufacturer'],
+      go:'Roll out to the national artisan network', rec:'Extend the cohort phase', kill:'Exit; manage remaining stock' },
+    { type:'stage', k:'Stage 5', n:'Full artisan commercialization', d:'6–12 months+', lead:'NAM Sales + Supply chain',
+      obj:'Make the ingredient a standard offer to artisan bakers across North America.',
+      act:['List in the Puratos artisan catalog and price list','Train all technical advisors and distributors','Scale recipes for small chains and central kitchens on the Pennsauken pilot bakery','Long-term supply agreement and contract manufacturing','Post-launch reviews at 6 and 12 months'],
+      pur:'National sales force, catalog listing, pilot bakery scale-up, supply contract, Sparkalis investment option.',
+      out:['Catalog listing','Supply agreement','Post-launch review','Optional: Gate 6 to industrial and retail once FDA "no questions" letter is received'] }
+  ];
+  var track = document.getElementById('sgTrack');
+  var detail = document.getElementById('sgDetail');
+  var cur = 0;
+  steps.forEach(function(s, i){
+    var item = document.createElement('div');
+    item.className = 'sg-item';
+    item.style.flex = s.type === 'gate' ? '0 0 40px' : '1 0 128px';
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.setAttribute('aria-pressed','false');
+    b.dataset.i = i;
+    if (s.type === 'stage') { b.className = 'sg-stage'; b.innerHTML = '<span class="k">'+s.k+'</span><span class="n">'+s.n+'</span><span class="d">'+s.d+'</span>'; }
+    else { b.className = 'sg-gate'; b.title = s.k + ': ' + s.n; b.setAttribute('aria-label', s.k + ': ' + s.n); b.innerHTML = '<span><i>'+s.k.replace('Gate ','G')+'</i></span>'; }
+    b.addEventListener('click', function(){ select(i); });
+    item.appendChild(b);
+    track.appendChild(item);
+  });
+  function li(a){ return '<ul>' + a.map(function(x){ return '<li>'+x+'</li>'; }).join('') + '</ul>'; }
+  function select(i){
+    cur = i;
+    var s = steps[i];
+    track.querySelectorAll('button').forEach(function(b){ b.setAttribute('aria-pressed', String(+b.dataset.i === i)); });
+    var html;
+    if (s.type === 'stage') {
+      html = '<div class="detail-head"><div><span class="eyebrow">'+s.k+'</span><h3 style="font-size:1.4rem">'+s.n+'</h3></div><div class="meta"><span class="chip">Duration: '+s.d+'</span><span class="chip">Leads: '+s.lead+'</span></div></div>' +
+        '<div class="detail-body"><div><h4>Objective</h4><p>'+s.obj+'</p></div><div><h4>Key activities</h4>'+li(s.act)+'</div><div class="pur"><h4>Where Puratos plays</h4><p style="font-size:0.92rem">'+s.pur+'</p></div><div><h4>Deliverables for the next gate</h4>'+li(s.out)+'</div></div>';
+    } else {
+      html = '<div class="detail-head"><div><span class="eyebrow">'+s.k+' · decision point</span><h3 style="font-size:1.4rem">'+s.n+'</h3></div><div class="meta"><span class="chip">Decided by: '+s.who+'</span></div></div>' +
+        '<div class="gate-box"><div><h4 style="color:var(--red-ink);font-size:0.78rem;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px">Pass criteria</h4><ul class="criteria">'+s.crit.map(function(c){return '<li><span>'+c+'</span></li>';}).join('')+'</ul></div>' +
+        '<div class="decisions"><div class="dec go"><b>Go</b><span>'+s.go+'</span></div><div class="dec recycle"><b>Recycle</b><span>'+s.rec+'</span></div><div class="dec kill"><b>Kill</b><span>'+s.kill+'</span></div></div></div>';
+    }
+    detail.innerHTML = html;
+    document.getElementById('sgPrev').disabled = i === 0;
+    document.getElementById('sgNext').disabled = i === steps.length - 1;
+  }
+  document.getElementById('sgPrev').addEventListener('click', function(){ if (cur > 0) select(cur - 1); });
+  document.getElementById('sgNext').addEventListener('click', function(){ if (cur < steps.length - 1) select(cur + 1); });
+  select(0);
+
+  /* ---------- roles ---------- */
+  var roles = [
+    ['Scouting','Sparkalis and Taste Tomorrow pick the themes and the start-ups.',2],
+    ['Regulatory support','GRAS triage, label review, help with the GRAS notice.',3],
+    ['R&D and applications','Innovation Center turns the ingredient into bakery recipes.',3],
+    ['Pennsauken pilot bakery','10,000 sq ft pilot plant with AMF, opened June 2025, for scale-up and training.',3],
+    ['Supply chain','Lot release, stock, artisan pack sizes, delivery with Puratos orders.',3],
+    ['Sales to bakers','Technical advisors and the artisan sales team run pilots and launches.',3],
+    ['Consumer proof','Sensobus at cohort stores; Taste Tomorrow stories for marketing.',2],
+    ['Investment','Sparkalis equity in winners, optional.',1]
+  ];
+  var rh = '';
+  roles.forEach(function(r){
+    var bars = ''; for (var j=1;j<=3;j++) bars += '<i class="'+(j<=r[2]?'on':'')+'"></i>';
+    rh += '<div class="card role"><div style="display:flex;justify-content:space-between;gap:8px;align-items:center"><b>'+r[0]+'</b><span class="lvl" title="Puratos involvement">'+bars+'</span></div><p class="small">'+r[1]+(r[0]==='Pennsauken pilot bakery'?'<sup><a href="#s6" data-src>6</a></sup>':'')+'</p></div>';
+  });
+  document.getElementById('roles').innerHTML = rh;
+
+  /* ---------- calculator ---------- */
+  var defs = [
+    {id:'cost', label:'Start-up price to the hub ($/kg)', min:2, max:40, step:1, v:12, f:function(x){return '$'+x;}},
+    {id:'margin', label:'Puratos margin on ingredient (% of baker price)', min:5, max:45, step:1, v:25, f:function(x){return x+'%';}},
+    {id:'dose', label:'Ingredient per product (g)', min:0.5, max:20, step:0.5, v:3, f:function(x){return x+' g';}},
+    {id:'shelf', label:'Product shelf price ($)', min:1, max:12, step:0.25, v:4.5, f:function(x){return '$'+x.toFixed(2);}},
+    {id:'units', label:'Products per baker per day', min:20, max:1500, step:10, v:300, f:function(x){return x;}},
+    {id:'bakers', label:'Bakers (or stores) selling it', min:1, max:60, step:1, v:15, f:function(x){return x;}},
+    {id:'pull', label:'Extra core Puratos products per product ($)', min:0, max:1, step:0.05, v:0.1, f:function(x){return '$'+x.toFixed(2);}},
+    {id:'pullm', label:'Gross margin on core products (%)', min:10, max:60, step:1, v:35, f:function(x){return x+'%';}},
+    {id:'fee', label:'Fee on bakers’ end sales (%)', min:0, max:3, step:0.25, v:0, f:function(x){return x.toFixed(2)+'%';}}
+  ];
+  var box = document.getElementById('calcInputs');
+  defs.forEach(function(d){
+    var w = document.createElement('div'); w.className = 'field';
+    w.innerHTML = '<label for="in-'+d.id+'"><span>'+d.label+'</span><output id="out-'+d.id+'"></output></label><input type="range" id="in-'+d.id+'" min="'+d.min+'" max="'+d.max+'" step="'+d.step+'" value="'+d.v+'">';
+    box.appendChild(w);
+  });
+  var usd = function(x){ return '$' + Math.round(x).toLocaleString('en-US'); };
+  function calc(){
+    var v = {};
+    defs.forEach(function(d){ v[d.id] = parseFloat(document.getElementById('in-'+d.id).value); document.getElementById('out-'+d.id).textContent = d.f(v[d.id]); });
+    var price = v.cost / (1 - v.margin/100);
+    var unitCost = price * v.dose / 1000;
+    var products = v.units * v.bakers * 360;
+    var kg = products * v.dose / 1000;
+    var m1 = kg * (price - v.cost);
+    var m2 = products * v.pull * v.pullm/100;
+    var m3 = products * v.shelf * v.fee/100;
+    var tot = m1 + m2 + m3;
+    document.getElementById('oPur').textContent = usd(tot);
+    document.getElementById('oStart').textContent = usd(kg * v.cost);
+    document.getElementById('oKg').textContent = (kg >= 1000 ? (kg/1000).toFixed(1) + ' t' : Math.round(kg) + ' kg');
+    document.getElementById('oPrice').textContent = '$' + price.toFixed(2);
+    document.getElementById('oUnit').textContent = '$' + unitCost.toFixed(3);
+    document.getElementById('oShare').textContent = (unitCost / v.shelf * 100).toFixed(2) + '%';
+    document.getElementById('oM1').textContent = usd(m1);
+    document.getElementById('oM2').textContent = usd(m2);
+    document.getElementById('oM3').textContent = usd(m3);
+    document.getElementById('oBaker').textContent = '$' + (unitCost + v.shelf * v.fee/100).toFixed(3);
+    var bar = document.getElementById('oBar');
+    var parts = [[m1,'var(--red)'],[m2,'var(--gold)'],[m3,'var(--teal)']];
+    bar.innerHTML = parts.filter(function(p){return p[0]>0;}).map(function(p){ return '<span style="width:'+(tot>0?p[0]/tot*100:0)+'%;background:'+p[1]+'"></span>'; }).join('');
+  }
+  box.addEventListener('input', calc);
+  calc();
+})();
+</script>
+
+</body>
+</html>
