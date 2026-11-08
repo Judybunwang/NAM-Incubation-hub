@@ -1,0 +1,55 @@
+name: Refresh food-tech news
+
+# Pulls the latest Food-Tech Scout brief (private repo Judybunwang/PuratosScouting)
+# into news/latest.json, which the "Food-tech news" tab of the site reads.
+# The scout collects at 10:00 UTC and Claude scores it at about 10:45 UTC, so this
+# runs twice a day after that (GitHub often starts scheduled runs late).
+#
+# One-time setup: add a repository secret SCOUT_REPO_TOKEN, a fine-grained personal
+# access token with read-only "Contents" access to Judybunwang/PuratosScouting.
+on:
+  schedule:
+    - cron: "30 12 * * *"
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the scout's data
+        uses: actions/checkout@v4
+        with:
+          repository: Judybunwang/PuratosScouting
+          token: ${{ secrets.SCOUT_REPO_TOKEN }}
+          path: scout
+          sparse-checkout: |
+            config.toml
+            data/items.json
+            data/claude
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build news/latest.json
+        run: python scripts/build_news.py scout
+
+      - name: Commit if the news changed
+        run: |
+          git config user.name "food-tech-news"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/latest.json
+          git diff --cached --quiet && { echo "no new items"; exit 0; }
+          git commit -m "Food-tech news $(date -u +%F)"
+          git pull --rebase origin main && git push

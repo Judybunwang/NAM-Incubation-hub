@@ -223,6 +223,31 @@ ol.src { font-size: 0.84rem; color: var(--char-2); padding-left: 22px; display: 
 ol.src li { overflow-wrap: anywhere; }
 
 .view-nav { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 18px; margin-top: 8px; }
+/* food-tech news */
+.news-bar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; }
+.news-filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.news-filters button { border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: 0.86rem; }
+.news-filters button[aria-pressed="true"] { background: var(--red); border-color: var(--red); color: var(--on-red); font-weight: 700; }
+.news-issue { display: flex; gap: 8px; align-items: center; font-size: 0.86rem; color: var(--char-2); }
+.news-issue select { font: inherit; color: var(--char); background: var(--surface); border: 1.5px solid var(--line); border-radius: 8px; padding: 6px 10px; }
+.news-sum ol { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+.news-top { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 0; padding: 0; overflow: hidden; }
+.news-top .img { background: var(--sand) center / cover no-repeat; min-height: 220px; }
+.news-top .body { padding: 20px 22px; display: grid; gap: 8px; align-content: start; }
+.news-top h3 { font-size: 1.35rem; }
+@media (max-width: 720px) { .news-top { grid-template-columns: 1fr; } .news-top .img { min-height: 160px; } }
+.news-card h3 a, .news-top h3 a { color: var(--char); text-decoration: none; }
+.news-card h3 a:hover, .news-top h3 a:hover { color: var(--red-ink); text-decoration: underline; }
+.news-meta { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: center; font-size: 0.78rem; color: var(--muted); }
+.news-why { font-size: 0.88rem; border-left: 3px solid var(--gold); padding-left: 10px; }
+.news-why b { color: var(--gold); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; display: block; }
+.news-units { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 0.76rem; color: var(--char-2); }
+.news-units span { display: inline-flex; align-items: center; gap: 5px; }
+.news-units i { display: inline-block; width: 40px; height: 5px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.news-units i b { display: block; height: 100%; background: var(--red); }
+.tag.h-short { background: var(--red-soft); } .tag.h-medium { background: var(--gold-soft); } .tag.h-long { background: var(--teal-soft); }
+.news-empty { color: var(--char-2); }
+
 footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
 
 @media (max-width: 640px) { .brand small { display: none; } .panel, .hero { padding: 16px; } }
@@ -244,6 +269,7 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
         <li><button data-go="role">Puratos role &amp; money</button></li>
         <li><button data-go="precedents">Precedents</button></li>
         <li><button data-go="roadmap">Plan &amp; KPIs</button></li>
+        <li><button data-go="news">Food-tech news</button></li>
         <li><button data-go="sources">Sources</button></li>
       </ul>
     </nav>
@@ -816,7 +842,31 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
     <div class="card"><h3>Main risks</h3><ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px"><li>Brand risk if a pilot ingredient has a safety issue</li><li>Start-up runs out of cash mid-launch</li><li>Channel conflict with industrial customers wanting the same innovation</li><li>FDA rule timing changes the self-GRAS window</li></ul></div>
     <div class="card"><h3>Mitigations</h3><ul class="small" style="margin:0;padding-left:18px;display:grid;gap:4px"><li>Ring-fenced entity, insurance, strict Gate 2 checklist</li><li>Sparkalis cash check at Gate 2; continuity plan in the supply agreement</li><li>Time-limited exclusivity, then open to all channels</li><li>Every graduate files a full GRAS notice regardless</li></ul></div>
   </div>
-  <div class="view-nav"><button class="btn ghost" data-go="precedents">← Precedents</button><button class="btn ghost" data-go="sources">Next: Sources →</button></div>
+  <div class="view-nav"><button class="btn ghost" data-go="precedents">← Precedents</button><button class="btn ghost" data-go="news">Next: Food-tech news →</button></div>
+</section>
+
+<!-- ============ FOOD-TECH NEWS ============ -->
+<section class="view" data-view="news" hidden>
+  <div class="view-head">
+    <span class="eyebrow">Scouting new food techs · daily brief</span>
+    <h2 id="newsHeadline">Today's food-tech brief</h2>
+    <p id="newsLede">Every morning the Puratos Food-Tech Scout scans scholarly papers, patents, grants, trade press and FDA/USDA notices, and scores each find for Bakery, Patisserie and Chocolate. This page shows the latest brief.</p>
+  </div>
+  <div class="news-bar">
+    <div class="news-filters" id="newsFilters" role="group" aria-label="Filter by business unit">
+      <button data-f="all" aria-pressed="true">All</button>
+      <button data-f="Bakery" aria-pressed="false">Bakery</button>
+      <button data-f="Patisserie" aria-pressed="false">Patisserie</button>
+      <button data-f="Chocolate" aria-pressed="false">Chocolate</button>
+      <button data-f="regulatory" aria-pressed="false">Regulatory</button>
+    </div>
+    <label class="news-issue">Brief from <select id="newsIssue"></select></label>
+  </div>
+  <div class="ask news-sum" id="newsSum" hidden><h3>Executive summary</h3><ol id="newsSumList"></ol></div>
+  <div id="newsTop"></div>
+  <div class="grid3" id="newsGrid" aria-live="polite"><p class="news-empty">Loading the latest brief…</p></div>
+  <div class="callout"><p><b>How this feeds the hub.</b> "Act now" start-ups and ingredients that score high here are the deal flow for <button class="btn ghost" data-go="stagegate" style="padding:2px 10px;font-size:0.85rem">Stage 0: Discover &amp; scout</button>. Summaries and scores are AI-written from the article text; open the source before acting on one.</p></div>
+  <div class="view-nav"><button class="btn ghost" data-go="roadmap">← Plan &amp; KPIs</button><button class="btn ghost" data-go="sources">Next: Sources →</button></div>
 </section>
 
 <!-- ============ SOURCES ============ -->
@@ -850,7 +900,7 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
     <li id="s25">Puratos USA, "Puratos Bakery School Foundation and Puratos U.S. open first U.S. Bakery School at Pennsauken High School," September 2022. <a href="https://www.puratos.us/en/news/puratos-bakery-school-foundation-and-puratos-u-s--open-first-u-s">puratos.us</a></li>
     <li id="s26">Puratos USA, "Puratos Bakery Academy." <a href="https://puratos.us/en/campaign/puratos-bakery-academy">puratos.us</a></li>
   </ol>
-  <div class="view-nav"><button class="btn ghost" data-go="roadmap">← Plan &amp; KPIs</button><button class="btn ghost" data-go="overview">Back to overview</button></div>
+  <div class="view-nav"><button class="btn ghost" data-go="news">← Food-tech news</button><button class="btn ghost" data-go="overview">Back to overview</button></div>
 </section>
 
 </main>
@@ -1032,6 +1082,85 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
   }
   box.addEventListener('input', calc);
   calc();
+})();
+
+/* ---------- food-tech news: renders news/latest.json, refreshed daily by .github/workflows/news.yml ---------- */
+(function(){
+  var data = null, issue = null, filter = 'all';
+  var $ = function(id){ return document.getElementById(id); };
+  var HZ = { short: ['Act now','h-short'], mid: ['Watch','h-medium'], medium: ['Watch','h-medium'], long: ['Explore','h-long'] };
+  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function fmtDay(d, long){ try { return new Date(d + 'T12:00:00Z').toLocaleDateString('en-US', long ? {weekday:'long', month:'long', day:'numeric', year:'numeric'} : {weekday:'short', month:'short', day:'numeric'}); } catch(e){ return d; } }
+  function link(it){
+    if (!it.url) return document.createTextNode(it.title);
+    var a = el('a', null, it.title); a.href = it.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; return a;
+  }
+  function meta(it, reg){
+    var m = el('div', 'news-meta');
+    var h = reg ? ['Regulatory',''] : (HZ[it.horizon] || [it.horizon || '', '']);
+    if (h[0]) { var t = el('span', 'tag ' + (reg ? '' : h[1]), h[0]); if (reg) t.style.background = 'var(--red-soft)'; m.appendChild(t); }
+    if (!reg && it.unit) m.appendChild(el('span', 'chip', it.unit));
+    if (it.category) m.appendChild(el('span', null, it.category));
+    return m;
+  }
+  function body(it, reg){
+    var f = document.createDocumentFragment();
+    f.appendChild(meta(it, reg));
+    var h = el('h3'); h.appendChild(link(it)); f.appendChild(h);
+    if (it.summary) f.appendChild(el('p', 'small', it.summary));
+    if (it.why) { var w = el('p', 'news-why'); w.appendChild(el('b', null, 'Why it matters for Puratos')); w.appendChild(document.createTextNode(it.why)); f.appendChild(w); }
+    var u = el('div', 'news-units');
+    ['Bakery','Patisserie','Chocolate'].forEach(function(k){
+      var v = (it.scores || {})[k]; if (v == null) return;
+      var s = el('span'); s.appendChild(document.createTextNode(k + ' ' + v)); var bar = el('i'); var fill = el('b'); fill.style.width = (v * 10) + '%'; bar.appendChild(fill); s.appendChild(bar); u.appendChild(s);
+    });
+    f.appendChild(u);
+    f.appendChild(el('div', 'news-meta', [it.source, it.region, it.published && it.published <= issue.date && fmtDay(it.published)].filter(Boolean).join(' · ')));
+    return f;
+  }
+  function pick(){
+    if (filter === 'regulatory') return issue.regulatory.map(function(it){ return [it, true]; });
+    var list = issue.items.map(function(it){ return [it, false]; });
+    if (filter === 'all') return list.concat(issue.regulatory.map(function(it){ return [it, true]; }));
+    return list.filter(function(p){ return p[0].unit === filter || ((p[0].scores || {})[filter] || 0) >= 6; })
+      .sort(function(a, b){ return ((b[0].scores||{})[filter]||0) - ((a[0].scores||{})[filter]||0); });
+  }
+  function render(){
+    var n = issue.items.length + issue.regulatory.length;
+    $('newsHeadline').textContent = issue.headline || 'Food-tech brief for ' + fmtDay(issue.date, true);
+    $('newsLede').textContent = 'Findings from ' + fmtDay(issue.date, true) + ': ' + n + ' top items out of ' + issue.scanned + ' relevant finds' +
+      ' from papers, patents, grants, trade press and FDA/USDA notices. Updated daily' + (data.updated ? ' (last refresh ' + data.updated.replace('T', ' ').replace('Z', ' UTC') + ')' : '') + '.';
+    var sl = $('newsSumList'); sl.textContent = '';
+    (issue.summary || []).forEach(function(s){ sl.appendChild(el('li', null, s)); });
+    $('newsSum').hidden = !(issue.summary || []).length;
+    var items = pick(), top = $('newsTop'), grid = $('newsGrid');
+    top.textContent = ''; grid.textContent = '';
+    if (!items.length) { grid.appendChild(el('p', 'news-empty', 'Nothing in this brief for that filter.')); return; }
+    var first = items[0], card = el('article', 'card news-top');
+    var img = el('div', 'img'); if (first[0].image) img.style.backgroundImage = 'url("' + first[0].image.replace(/["\\()]/g, function(c){ return '%' + c.charCodeAt(0).toString(16); }) + '")'; else img.hidden = true;
+    if (!first[0].image) card.style.gridTemplateColumns = '1fr';
+    var b = el('div', 'body'); b.appendChild(el('span', 'eyebrow', 'Top story')); b.appendChild(body(first[0], first[1]));
+    card.appendChild(img); card.appendChild(b); top.appendChild(card);
+    items.slice(1).forEach(function(p){ var c = el('article', 'card news-card'); c.appendChild(body(p[0], p[1])); grid.appendChild(c); });
+  }
+  function choose(i){ issue = data.issues[i]; render(); }
+  $('newsFilters').addEventListener('click', function(e){
+    var b = e.target.closest('button[data-f]'); if (!b || !issue) return;
+    filter = b.getAttribute('data-f');
+    Array.prototype.forEach.call(this.querySelectorAll('button'), function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+    render();
+  });
+  $('newsIssue').addEventListener('change', function(){ choose(+this.value); });
+  fetch('news/latest.json?d=' + new Date().toISOString().slice(0, 13), {cache: 'no-cache'})
+    .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(d){
+      if (!d || !d.issues || !d.issues.length) throw new Error('empty');
+      data = d;
+      var sel = $('newsIssue');
+      d.issues.forEach(function(x, i){ var o = el('option', null, fmtDay(x.date) + (i === 0 ? ' (latest)' : '')); o.value = i; sel.appendChild(o); });
+      choose(0);
+    })
+    .catch(function(){ var g = $('newsGrid'); g.textContent = ''; g.appendChild(el('p', 'news-empty', 'The news feed could not be loaded right now. Try again later.')); });
 })();
 </script>
 
