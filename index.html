@@ -149,6 +149,45 @@ svg text[fill="#fff"] { fill: #fff; }
 .dec.go b { color: var(--teal); } .dec.recycle b { color: var(--gold); } .dec.kill b { color: var(--red-ink); }
 .criteria { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .criteria li { display: grid; grid-template-columns: 22px 1fr; gap: 8px; font-size: 0.93rem; }
+.score-wrap { padding: 18px 22px 22px; display: grid; gap: 16px; }
+.gk-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.gk { font-size: 0.78rem; padding: 3px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+.gk.chair { border-color: var(--char-2); font-weight: 700; }
+.gk.adv { border-style: dashed; color: var(--char-2); }
+.gk.final { background: var(--char); color: var(--bg); border-color: var(--char); }
+.tbl.score-tbl table { min-width: 680px; }
+.score-tbl td { vertical-align: middle; }
+@media (max-width: 700px) {
+  .tbl.score-tbl table, .tbl.score-tbl tbody { display: block; min-width: 0; width: 100%; }
+  .score-tbl thead { display: none; }
+  .score-tbl tr { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 10px; padding: 12px; border-bottom: 1px solid var(--line); }
+  .score-tbl td { border: 0; padding: 0; min-width: 0; overflow-wrap: anywhere; }
+  .score-tbl td:first-child { grid-column: 1 / -1; }
+  .score-tbl td:nth-child(3)::before { content: "Weight "; color: var(--muted); font-size: 0.8rem; }
+  .score-tbl td:nth-child(4) { grid-column: 1 / -1; }
+}
+.must { font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 2px 7px; border-radius: 4px; background: var(--red-soft); color: var(--red-ink); font-weight: 700; white-space: nowrap; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; background: var(--surface); padding: 6px 0; width: 34px; cursor: pointer; font-weight: 700; font-variant-numeric: tabular-nums; border-left: 1px solid var(--line); }
+.seg button:first-child { border-left: 0; }
+.seg button[aria-pressed="true"] { background: var(--char); color: var(--bg); }
+.seg button.low[aria-pressed="true"] { background: var(--red); color: var(--on-red); }
+.result { display: grid; grid-template-columns: minmax(150px, 210px) 1fr; gap: 18px; align-items: center; background: var(--panel); border-radius: 10px; padding: 16px 18px; }
+@media (max-width: 640px) { .result { grid-template-columns: 1fr; } }
+.result .pct { font-size: 2.4rem; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.verdict { display: inline-block; margin-top: 6px; padding: 4px 12px; border-radius: 999px; font-weight: 700; font-size: 0.85rem; letter-spacing: 0.06em; }
+.verdict.go { background: var(--teal); color: #fff; } .verdict.recycle { background: var(--gold); color: #fff; } .verdict.kill { background: var(--red); color: var(--on-red); }
+.gauge { position: relative; height: 14px; border-radius: 7px; background: linear-gradient(90deg, var(--red-soft) 0 var(--rc), var(--gold-soft) var(--rc) var(--gc), var(--teal-soft) var(--gc) 100%); }
+.gauge i { position: absolute; top: -4px; width: 4px; height: 22px; border-radius: 2px; background: var(--char); transform: translateX(-2px); }
+.gauge-lbl { font-size: 0.78rem; color: var(--char-2); margin-top: 6px; }
+.gauge-lbl span { position: absolute; transform: translateX(-50%); white-space: nowrap; }
+.reason { font-size: 0.9rem; color: var(--char-2); margin-top: 8px; }
+.rules { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+.rules .card p { font-size: 0.88rem; }
+.scale { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: 0.86rem; }
+.scale b { display: inline-block; width: 22px; }
+.mx td.c b { display: inline-block; min-width: 24px; padding: 1px 6px; border-radius: 4px; font-size: 0.78rem; }
+.mx .S { background: var(--teal-soft); } .mx .Ch { background: var(--sand); } .mx .Ad { border: 1px dashed var(--line); font-weight: 400; } .mx .F { background: var(--char); color: var(--bg); }
 .criteria li::before { content: ""; width: 14px; height: 14px; border: 2px solid var(--teal); border-radius: 3px; margin-top: 4px; }
 .pager { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
 
@@ -419,12 +458,45 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
   <div class="view-head">
     <span class="eyebrow">Full draft process</span>
     <h2>Stage-Gate: from choosing a start-up to full artisan commercialization</h2>
-    <p>Six stages, each ending in a gate where a small committee decides go, recycle or kill. Based on Cooper's Stage-Gate model<sup><a href="#s23" data-src>23</a></sup>, adapted so the first commercial launch is with the artisan baker cohort. Click any stage or gate.</p>
+    <p>Six stages, each ending in a gate where a small committee decides go, recycle or kill. Based on Cooper's Stage-Gate model<sup><a href="#s23" data-src>23</a></sup>, adapted so the first commercial launch is with the artisan baker cohort. Click any stage or gate. Each gate has a weighted scorecard you can try out.</p>
+  </div>
+  <div class="panel">
+    <h3>How every gate is scored</h3>
+    <div class="rules">
+      <div class="card"><b>1. Each gatekeeper scores their criteria 1–5</b>
+        <ul class="scale"><li><b>1</b>Not met, no plan</li><li><b>2</b>Major gaps</li><li><b>3</b>Partly met, credible plan to close</li><li><b>4</b>Met</li><li><b>5</b>Met with strong evidence</li></ul></div>
+      <div class="card"><b>2. Scores are weighted</b><p class="small">Each criterion carries a weight; weights add up to 100. The gate score is the weighted average, shown as 0–100%.</p></div>
+      <div class="card"><b>3. Compare to the gate's thresholds</b><p class="small"><span style="color:var(--teal);font-weight:700">Pass</span> at or above the Go line. <span style="color:var(--gold);font-weight:700">Recycle</span> between the two lines: fix and come back. <span style="color:var(--red-ink);font-weight:700">Block</span> below the Recycle line. The lines rise gate by gate, from 60% at Gate 1 to 80% at Gate 5.</p></div>
+      <div class="card"><b>4. Must-pass criteria override the score</b><p class="small">Safety, regulatory and supply criteria marked <span class="must">Must-pass</span> need at least a 3. A 2 forces Recycle and a 1 blocks the gate, whatever the total. An ingredient can recycle at most twice at the same gate.</p></div>
+    </div>
   </div>
   <div class="sg-track" id="sgTrack" role="group" aria-label="Stages and gates"></div>
   <div class="sg-legend"><span><span class="blk"></span>Stage: the work</span><span><span class="dia"></span>Gate: the decision</span><span>Total: about 12–18 months to artisan launch, 18–30 months to full artisan roll-out</span></div>
   <div class="detail" id="sgDetail" aria-live="polite"></div>
   <div class="pager"><button class="btn ghost" id="sgPrev">← Previous step</button><button class="btn primary" id="sgNext">Next step →</button></div>
+
+  <h3>Gatekeepers</h3>
+  <div class="grid4">
+    <div class="card"><b>Hub lead</b><p class="small">Chairs every gate, checks the evidence pack is complete, records the decision. Does not score.</p></div>
+    <div class="card"><b>R&amp;D</b><p class="small">Innovation Center and pilot bakery. Product fit, performance, sensory, scale-up.</p></div>
+    <div class="card"><b>Regulatory &amp; QA</b><p class="small">GRAS status, allergens, spec and lot release, supplier approval, incidents.</p></div>
+    <div class="card"><b>Marketing</b><p class="small">Consumer need, Taste Tomorrow fit, Sensobus results, launch story and claims.</p></div>
+    <div class="card"><b>Sales (artisan channel)</b><p class="small">With technical advisors: baker interest, pilot results, launch intent, repeat orders.</p></div>
+    <div class="card"><b>Supply chain &amp; procurement</b><p class="small">Capacity, MOQ, lead time, safety stock, on-time-in-full delivery.</p></div>
+    <div class="card"><b>Finance</b><p class="small">Cost-in-use, pricing, margins for baker, hub and start-up.</p></div>
+    <div class="card"><b>Legal</b><p class="small">Incubation agreement, IP and data terms, insurance and indemnity.</p></div>
+    <div class="card"><b>Sparkalis</b><p class="small">Start-up quality, founders, funding runway, investment option.</p></div>
+    <div class="card"><b>Cohort baker panel</b><p class="small">Two rotating cohort bakers. Advisory voice at Gates 4 and 5; they do not score.</p></div>
+    <div class="card"><b>NAM leadership</b><p class="small">Final sign-off at Gate 5, because full roll-out commits national sales and supply.</p></div>
+    <div class="card"><b>Quorum</b><p class="small">A gate can only decide when every owner of a must-pass criterion is present.</p></div>
+  </div>
+  <div class="tbl mx">
+    <table>
+      <thead><tr><th>Gatekeeper</th><th>Gate 1<br>Fit screen</th><th>Gate 2<br>Enter incubation</th><th>Gate 3<br>Baker pilot</th><th>Gate 4<br>Artisan launch</th><th>Gate 5<br>Full roll-out</th></tr></thead>
+      <tbody id="gkMatrix"></tbody>
+    </table>
+  </div>
+  <p class="small"><b style="background:var(--teal-soft);padding:1px 6px;border-radius:4px">S</b> scores criteria · <b style="background:var(--sand);padding:1px 6px;border-radius:4px">Chair</b> runs the gate · <b style="border:1px dashed var(--line);padding:1px 6px;border-radius:4px;font-weight:400">Adv</b> advisory, no score · <b style="background:var(--char);color:var(--bg);padding:1px 6px;border-radius:4px">Final</b> final sign-off. Thresholds and weights are a proposed starting point for the gate committee to agree.</p>
 
   <h3>Who does what (RACI)</h3>
   <div class="tbl">
@@ -938,41 +1010,46 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
       act:['Pull deal flow from Sparkalis, accelerators and trade shows','Use Taste Tomorrow trends (plant-forward, gut health, clean label) to set themes','Collect "problem briefs" from cohort bakers','First call with founders; mutual NDA'],
       pur:'Sparkalis network, Taste Tomorrow insight, technical advisors\' view of what bakers ask for.',
       out:['One-page start-up profile','Theme fit score','Sample request'] },
-    { type:'gate', k:'Gate 1', n:'Fit screen', who:'Hub lead, monthly',
-      crit:['Solves a named bakery need or trend','Working samples available in kg, not grams','Regulatory status is known (self-GRAS, notified, or none)','Founders want a commercial partner, not only investment','No obvious safety or allergen red flag'],
-      go:'Enter Stage 1 scoping', rec:'Ask for more data or samples; revisit in 3 months', kill:'Decline politely; keep in Sparkalis watch list' },
+    { type:'gate', k:'Gate 1', n:'Fit screen', who:'Gate committee, monthly',
+      go:60, rc:45, keepers:{chair:['Hub lead'], s:['R&D','Regulatory & QA','Marketing','Sales','Sparkalis']},
+      score:[['Solves a named bakery need or consumer trend','Marketing',25,0,4],['Fits Puratos bakery, patisserie or chocolate applications','R&D',15,0,4],['Working samples available in kg, not grams','R&D',15,0,3],['Regulatory status known; no obvious safety or allergen red flag','Regulatory & QA',20,1,4],['Founders want a commercial partner, not only investment','Sparkalis',10,0,4],['Early interest from artisan bakers or technical advisors','Sales',15,0,3]],
+      go_txt:'Enter Stage 1 scoping', rec:'Ask for more data or samples; revisit in 3 months', kill:'Decline politely; keep in Sparkalis watch list' },
     { type:'stage', k:'Stage 1', n:'Scope & regulatory triage', d:'4–6 weeks', lead:'Regulatory/QA + R&D',
       obj:'Find out quickly whether the ingredient can be sold safely and profitably to bakers.',
       act:['Bench tests at the Pennsauken Innovation Center','Regulatory gap analysis: GRAS dossier, intended uses, maximum levels','Allergen, labeling and claims check','Supply capacity, MOQ and lead time check','First cost-in-use estimate per finished product'],
       pur:'Regulatory review at no charge, R&D bench time, early cost modelling.',
       out:['Scoping report','Risk rating: green / amber / red','Draft incubation term sheet'] },
     { type:'gate', k:'Gate 2', n:'Enter incubation', who:'Gate committee',
-      crit:['Self-GRAS dossier with independent expert panel exists, or will within 3 months','Cost-in-use below an agreed share of shelf price (for example 2%)','Capacity covers the cohort pilot volume','Product liability insurance in place or committed','Start-up has 12+ months of cash, or Sparkalis support agreed','Incubation agreement signed: fees, IP, data, right of first refusal'],
-      go:'Start application development', rec:'Fix gaps (dossier, insurance, capacity) and return', kill:'Stop; give written feedback' },
+      go:65, rc:50, keepers:{chair:['Hub lead'], s:['R&D','Regulatory & QA','Supply chain','Finance','Legal','Sparkalis']},
+      score:[['Self-GRAS dossier with independent expert panel exists, or will within 3 months','Regulatory & QA',25,1,3],['Cost-in-use below the agreed share of shelf price (for example 2%)','Finance',20,0,4],['Capacity covers the cohort pilot volume','Supply chain',15,1,3],['Product liability insurance in place or committed','Legal',10,1,4],['12+ months of cash, or Sparkalis support agreed','Sparkalis',15,0,3],['Incubation terms agreed: fees, IP, data, right of first refusal','Legal',15,0,4]],
+      go_txt:'Start application development', rec:'Fix gaps (dossier, insurance, capacity) and return', kill:'Stop; give written feedback' },
     { type:'stage', k:'Stage 2', n:'Application development', d:'6–10 weeks', lead:'Puratos R&D',
       obj:'Turn the ingredient into 2–3 bakery applications that work in real production.',
       act:['Develop prototypes (for example croissant, sourdough, filling) at the Innovation Center','Scale recipes on the Pennsauken pilot bakery lines','Shelf-life and process-tolerance tests','Finalize spec, COA format, artisan pack size and label wording','Internal sensory panel'],
       pur:'R&D formulation, pilot bakery time, combining with core Puratos products (mixes, fillings, sourdough).',
       out:['Application guide and recipes','Final spec sheet and COA template','Label and allergen pack','Pilot lot plan'] },
     { type:'gate', k:'Gate 3', n:'Go to baker pilot', who:'Gate committee',
-      crit:['Prototypes pass internal sensory against the current product','Pilot lot made and released against spec','Supplier approval checklist complete','Insurance certificate names the hub','Recall and complaint process tested with a mock recall'],
-      go:'Start baker co-creation pilot', rec:'More R&D or supply work', kill:'Stop; ingredient does not perform' },
+      go:70, rc:55, keepers:{chair:['Hub lead'], s:['R&D','Regulatory & QA','Supply chain','Marketing','Sales']},
+      score:[['Prototypes match or beat the current product in internal sensory','R&D',30,1,4],['Pilot lot made and released against spec','Regulatory & QA',20,1,4],['Supplier approval complete and mock recall passed','Regulatory & QA',15,1,3],['Launch story and label claims drafted and checked','Marketing',15,0,3],['3–5 cohort bakers confirmed for the pilot','Sales',20,0,4]],
+      go_txt:'Start baker co-creation pilot', rec:'More R&D or supply work', kill:'Stop; ingredient does not perform' },
     { type:'stage', k:'Stage 3', n:'Baker co-creation pilot', d:'8–12 weeks', lead:'Technical advisors',
       obj:'Prove that real bakers can make and sell the product, and that consumers like it.',
       act:['3–5 cohort bakers make small batches in their own kitchens','Training day for baker teams at the Pennsauken pilot bakery, run as a Bakery Academy module on the new ingredient','Technical advisors on site for first runs','One Sensobus round at a cohort store','Test price points and messaging'],
       pur:'Technical advisors, Bakery Academy training, Sensobus, pilot pricing, marketing story from Taste Tomorrow.',
       out:['Pilot report per baker','Sensobus liking and price results','Validated cost and price','Baker launch intent'] },
     { type:'gate', k:'Gate 4', n:'Go to artisan launch', who:'Gate committee + baker reps',
-      crit:['Consumer liking at parity or better versus the current product','At least 60% of pilot bakers intend to launch','No quality or safety incidents','Unit economics work for baker, hub and start-up','Supply secured for launch volume plus safety stock'],
-      go:'Launch across the cohort', rec:'Reformulate or re-price, re-pilot', kill:'Stop; share learnings' },
+      go:75, rc:60, keepers:{chair:['Hub lead'], s:['Marketing','Sales','Finance','Supply chain','Regulatory & QA'], adv:['Cohort baker panel']},
+      score:[['Sensobus liking at parity or better versus the current product','Marketing',25,1,4],['At least 60% of pilot bakers intend to launch','Sales',25,0,4],['Unit economics work for baker, hub and start-up','Finance',20,0,3],['Supply secured for launch volume plus safety stock','Supply chain',15,1,4],['No quality or safety incidents in the pilot','Regulatory & QA',15,1,5]],
+      go_txt:'Launch across the cohort', rec:'Reformulate or re-price, re-pilot', kill:'Stop; share learnings' },
     { type:'stage', k:'Stage 4', n:'Artisan launch', d:'3–6 months', lead:'Hub lead + Sales',
       obj:'Put the product on shelves across the cohort and prove repeat demand.',
       act:['Launch in 10–20 cohort bakeries, often as a seasonal or limited-time item','Hub sells the ingredient; delivery with regular Puratos orders','Co-marketing: "Launched first at…"','Monthly sales, reorder and complaint tracking','Start GRAS notice preparation using real use data'],
       pur:'Seller of record (via hub entity), distribution, sales support, regulatory support for the GRAS notice.',
       out:['Sales and reorder dashboard','Complaint log','GRAS notice draft','Launch case study'] },
     { type:'gate', k:'Gate 5', n:'Go to full commercialization', who:'Gate committee + NAM leadership',
-      crit:['Repeat-order rate of 60% or more at 3 months','On-time, in-full supply of 95% or more','Margins at target for all three parties','No serious incidents','GRAS notice filed or scheduled','Start-up can supply national artisan demand, directly or via a contract manufacturer'],
-      go:'Roll out to the national artisan network', rec:'Extend the cohort phase', kill:'Exit; manage remaining stock' },
+      go:80, rc:65, keepers:{chair:['Hub lead'], s:['R&D','Regulatory & QA','Marketing','Sales','Supply chain','Finance'], adv:['Cohort baker panel'], fin:['NAM leadership']},
+      score:[['Repeat-order rate of 60% or more at 3 months','Sales',25,1,4],['On-time, in-full supply of 95% or more','Supply chain',15,0,4],['Margins at target for all three parties','Finance',20,0,4],['GRAS notice filed or scheduled','Regulatory & QA',15,1,3],['No serious incidents since launch','Regulatory & QA',10,1,5],['Start-up can supply national artisan demand, directly or via a co-manufacturer','R&D',15,0,3]],
+      go_txt:'Roll out to the national artisan network', rec:'Extend the cohort phase', kill:'Exit; manage remaining stock' },
     { type:'stage', k:'Stage 5', n:'Full artisan commercialization', d:'6–12 months+', lead:'NAM Sales + Supply chain',
       obj:'Make the ingredient a standard offer to artisan bakers across North America.',
       act:['List in the Puratos artisan catalog and price list','Train all technical advisors and distributors','Scale recipes for small chains and central kitchens on the Pennsauken pilot bakery','Long-term supply agreement and contract manufacturing','Move growing cohort bakers up the training path (Academy 200 level, pilot-line runs) toward semi-industrial volumes','Post-launch reviews at 6 and 12 months'],
@@ -996,6 +1073,45 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
     item.appendChild(b);
     track.appendChild(item);
   });
+  var gateScores = {};
+  function scoreGate(i){
+    var s = steps[i], st = gateScores[i];
+    var tot = 0, wsum = 0, minMust = 5, lowMust = [];
+    s.score.forEach(function(c, j){ tot += c[2] * st[j] / 5; wsum += c[2]; if (c[3]) { if (st[j] < minMust) minMust = st[j]; if (st[j] < 3) lowMust.push(c[0]); } });
+    var pct = Math.round(tot / wsum * 100);
+    var v, reason;
+    if (minMust <= 1) { v = 'kill'; reason = 'Blocked by a must-pass criterion scored 1: ' + lowMust.join('; ') + '.'; }
+    else if (pct < s.rc) { v = 'kill'; reason = 'Score is below the ' + s.rc + '% recycle line.'; }
+    else if (minMust === 2) { v = 'recycle'; reason = 'Recycle: a must-pass criterion scored 2 (' + lowMust.join('; ') + '). Fix it, then return to the gate.'; }
+    else if (pct < s.go) { v = 'recycle'; reason = 'Score is between the ' + s.rc + '% and ' + s.go + '% lines. Close the gaps and return.'; }
+    else { v = 'go'; reason = 'Score clears the ' + s.go + '% Go line and every must-pass criterion scores 3 or more.'; }
+    var label = { go:'PASS · GO', recycle:'RECYCLE', kill:'BLOCK · KILL' }[v];
+    var r = document.getElementById('gateResult');
+    r.innerHTML = '<div><div class="pct">'+pct+'%</div><span class="verdict '+v+'">'+label+'</span></div>' +
+      '<div><div class="gauge" style="--rc:'+s.rc+'%;--gc:'+s.go+'%"><i style="left:'+pct+'%"></i></div>' +
+      '<div class="gauge-lbl">Recycle line '+s.rc+'% · Go line '+s.go+'%</div>' +
+      '<p class="reason">'+reason+'</p></div>';
+  }
+  detail.addEventListener('click', function(e){
+    var b = e.target.closest('.seg button');
+    if (b) { gateScores[cur][+b.dataset.c] = +b.dataset.v; b.parentNode.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', String(x === b)); }); scoreGate(cur); return; }
+    if (e.target.closest('#gateReset')) { delete gateScores[cur]; select(cur); }
+  });
+  (function(){
+    var people = ['Hub lead','R&D','Regulatory & QA','Marketing','Sales','Supply chain','Finance','Legal','Sparkalis','Cohort baker panel','NAM leadership'];
+    var gates = steps.filter(function(x){ return x.type === 'gate'; });
+    var esc = function(t){ return t.replace(/&/g,'&amp;'); };
+    document.getElementById('gkMatrix').innerHTML = people.map(function(p){
+      return '<tr><td>'+esc(p)+'</td>' + gates.map(function(g){
+        var k = g.keepers, t = '';
+        if ((k.chair||[]).indexOf(p) >= 0) t = '<b class="Ch">Chair</b>';
+        else if ((k.fin||[]).indexOf(p) >= 0) t = '<b class="F">Final</b>';
+        else if ((k.s||[]).indexOf(p) >= 0) t = '<b class="S">S</b>';
+        else if ((k.adv||[]).indexOf(p) >= 0) t = '<b class="Ad">Adv</b>';
+        return '<td class="c">'+(t||'<span class="small">–</span>')+'</td>';
+      }).join('') + '</tr>';
+    }).join('');
+  })();
   function li(a){ return '<ul>' + a.map(function(x){ return '<li>'+x+'</li>'; }).join('') + '</ul>'; }
   function select(i){
     cur = i;
@@ -1006,11 +1122,27 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
       html = '<div class="detail-head"><div><span class="eyebrow">'+s.k+'</span><h3 style="font-size:1.4rem">'+s.n+'</h3></div><div class="meta"><span class="chip">Duration: '+s.d+'</span><span class="chip">Leads: '+s.lead+'</span></div></div>' +
         '<div class="detail-body"><div><h4>Objective</h4><p>'+s.obj+'</p></div><div><h4>Key activities</h4>'+li(s.act)+'</div><div class="pur"><h4>Where Puratos plays</h4><p style="font-size:0.92rem">'+s.pur+'</p></div><div><h4>Deliverables for the next gate</h4>'+li(s.out)+'</div></div>';
     } else {
-      html = '<div class="detail-head"><div><span class="eyebrow">'+s.k+' · decision point</span><h3 style="font-size:1.4rem">'+s.n+'</h3></div><div class="meta"><span class="chip">Decided by: '+s.who+'</span></div></div>' +
-        '<div class="gate-box"><div><h4 style="color:var(--red-ink);font-size:0.78rem;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px">Pass criteria</h4><ul class="criteria">'+s.crit.map(function(c){return '<li><span>'+c+'</span></li>';}).join('')+'</ul></div>' +
-        '<div class="decisions"><div class="dec go"><b>Go</b><span>'+s.go+'</span></div><div class="dec recycle"><b>Recycle</b><span>'+s.rec+'</span></div><div class="dec kill"><b>Kill</b><span>'+s.kill+'</span></div></div></div>';
+      var st = gateScores[i] || (gateScores[i] = s.score.map(function(c){ return c[4]; }));
+      var chips = '';
+      (s.keepers.chair||[]).forEach(function(n){ chips += '<span class="gk chair">'+n+' · chair</span>'; });
+      (s.keepers.s||[]).forEach(function(n){ chips += '<span class="gk">'+n+'</span>'; });
+      (s.keepers.adv||[]).forEach(function(n){ chips += '<span class="gk adv">'+n+' · advisory</span>'; });
+      (s.keepers.fin||[]).forEach(function(n){ chips += '<span class="gk final">'+n+' · final sign-off</span>'; });
+      var rows = s.score.map(function(c, j){
+        var seg = '<span class="seg" role="group" aria-label="Score for '+c[0].replace(/"/g,'')+'">';
+        for (var v=1; v<=5; v++) seg += '<button type="button" data-c="'+j+'" data-v="'+v+'" class="'+(v<=2?'low':'')+'" aria-pressed="'+(st[j]===v)+'">'+v+'</button>';
+        seg += '</span>';
+        return '<tr><td>'+c[0]+(c[3]?' <span class="must">Must-pass</span>':'')+'</td><td class="small">'+c[1]+'</td><td class="num" style="text-align:right">'+c[2]+'</td><td>'+seg+'</td></tr>';
+      }).join('');
+      html = '<div class="detail-head"><div><span class="eyebrow">'+s.k+' · decision point</span><h3 style="font-size:1.4rem">'+s.n+'</h3></div><div class="meta"><span class="chip">Go ≥ '+s.go+'%</span><span class="chip">Recycle '+s.rc+'–'+(s.go-1)+'%</span><span class="chip">Block &lt; '+s.rc+'%</span></div></div>' +
+        '<div class="score-wrap"><div><h4 style="color:var(--red-ink);font-size:0.78rem;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:8px">Gatekeepers</h4><div class="gk-chips">'+chips+'</div></div>' +
+        '<div class="tbl score-tbl"><table><thead><tr><th>Criterion</th><th>Scored by</th><th style="text-align:right">Weight</th><th>Score (example)</th></tr></thead><tbody>'+rows+'</tbody></table></div>' +
+        '<div class="result" id="gateResult"></div>' +
+        '<div class="cta-row"><button type="button" class="btn ghost" id="gateReset">Reset to example scores</button></div>' +
+        '<div class="decisions"><div class="dec go"><b>Pass · Go</b><span>'+s.go_txt+'</span></div><div class="dec recycle"><b>Recycle</b><span>'+s.rec+'</span></div><div class="dec kill"><b>Block · Kill</b><span>'+s.kill+'</span></div></div></div>';
     }
     detail.innerHTML = html;
+    if (s.type === 'gate') scoreGate(i);
     document.getElementById('sgPrev').disabled = i === 0;
     document.getElementById('sgNext').disabled = i === steps.length - 1;
   }
