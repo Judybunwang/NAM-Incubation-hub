@@ -1,0 +1,279 @@
+{
+ "date": "2026-11-05",
+ "headline": "AB Enzymes anti-staling launch; Planet A cocoa powder replacer; WHO UPF profiling model",
+ "summary": [
+  "Barry Callebaut has launched Flavourcode, a controlled cocoa fermentation platform, putting direct pressure on Belcolade's own fermentation-flavour work.",
+  "Cocoa-saving solutions are multiplying, with Planet A Foods' new cocoa powder replacer and RFINE's coffee-ground cocoa extender competing directly with Belcolade's offer.",
+  "AB Enzymes launched Veron MaxiFresh, an amylase anti-staling enzyme, while clean-label mould inhibition stays a hot topic; benchmark against Puratos freshness ranges.",
+  "Ultra-processed food rules are taking shape, with a WHO profiling model and US labelling estimates showing most cost will be reformulation, which Puratos can support with clean-label solutions.",
+  "FDA approved three more natural colour additives as the US moves against synthetic dyes, easing reformulation of glazes, fillings and coloured chocolate."
+ ],
+ "scanned": 61,
+ "items": [
+  {
+   "id": "5317704157bf9095",
+   "title": "New enzyme ingredient extends shelf life in baked foods",
+   "url": "https://www.foodbusinessnews.net/articles/31310-new-enzyme-ingredient-extends-shelf-life-in-baked-foods",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 9,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "AB Enzymes launches Veron MaxiFresh, an amylase-based enzyme that extends the freshness and shelf life of baked goods.",
+   "why": "A direct competitor launch in anti-staling enzymes, a core Puratos freshness area; benchmark against Puratos Intens/Soft'r ranges.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/05/AdobeStock_2092633005.webp?t=1793889895",
+   "entities": [
+    "AB Enzymes"
+   ]
+  },
+  {
+   "id": "5812b6066855a686",
+   "title": "Planet A Foods Launches Cocoa Powder Replacer Amid Rising Cocoa Prices",
+   "url": "https://nuffoodsspectrum.asia/news/38/6811/planet-a-foods-launches-cocoa-powder-replacer-amid-rising-cocoa-prices.html",
+   "source": "NUFFOODS Spectrum ASIA",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Planet A Foods launches a cocoa powder replacer as cocoa prices stay high.",
+   "why": "Cocoa-free chocolate leader Planet A Foods (ChoViva) moving into cocoa powder replacement competes directly with Belcolade cocoa-saving products; evaluate or partner.",
+   "image": "https://nuffoodsspectrum.asia/uploads/articles/press_cocoa_booster-6811.jpg",
+   "entities": [
+    "Planet A Foods"
+   ]
+  },
+  {
+   "id": "70a675269be0e769",
+   "title": "Choosing clean label mold inhibitors without sacrificing shelf life",
+   "url": "https://www.bakingbusiness.com/articles/67193-choosing-clean-label-mold-inhibitors-without-sacrificing-shelf-life",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Shelf-life & Food Safety",
+   "region": "North America",
+   "summary": "Article on how bakers choose clean-label, natural mould inhibitors without losing shelf life.",
+   "why": "Clean-label mould inhibition is a core Puratos bakery solution area; use it to position Puratos fermentation-based preservation with US bakers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/04/1105-AdobeStock.webp?t=1793854898",
+   "entities": []
+  },
+  {
+   "id": "fdae337fdd598dd4",
+   "title": "Chocolate industry turns to financial markets to pay for cocoa",
+   "url": "https://www.swissinfo.ch/eng/food-supply-chains/chocolate-industry-turns-to-financial-markets-to-pay-for-cocoa/92321193",
+   "source": "SWI swissinfo.ch",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Report that chocolate makers are turning to financial markets and new financing tools to pay for cocoa amid price volatility.",
+   "why": "Cocoa financing and hedging shifts affect Belcolade's sourcing costs and customer pricing; worth tracking how competitors manage cocoa exposure.",
+   "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-587217015.jpg?ver=f5afc4b8&fit=1200,800",
+   "entities": []
+  },
+  {
+   "id": "7b28eb44e66a27fc",
+   "title": "WHO Proposes Food Profiling Model to Inform Regulation of Ultra-Processed Foods",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGFaTC14STNCRVFlQmluQy1iNEF6ZHpTVEh5UHFKQTQ5eG8xbmJNRnJqQjBMXzdUQ2lacFZGdHY5YzhscE1oN3otOTFqVThhcUVSUG01bFhnRWdOa2NEOU5DSF9pWjRwem5nVjNPRjhqbmlyWm1vaWV4cjNVeGw0WXplbG93dl9HQW1fcV94VndzbkxnS203UU85QWxybkxOSnotbXRLNDVoVnFhTXVVZ2QyVlpWMUVsNW1MMmZmTQ?oc=5",
+   "source": "Food Safety Magazine",
+   "kind": "regulation",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Global / Unknown",
+   "summary": "WHO proposes a nutrient-profiling model to guide how countries regulate ultra-processed foods.",
+   "why": "A WHO UPF profiling model could underpin labels, taxes and marketing limits on bread, cakes and chocolate worldwide; track the draft and prepare reformulation support for customers.",
+   "image": "",
+   "entities": [
+    "WHO"
+   ]
+  },
+  {
+   "id": "c43fa9bb182f6b9d",
+   "title": "FDA approves, expands 3 natural color additives after RFK Jr.'s plan to remove artificial food dyes",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjdKNkJZUGdwRWFTWFk5MjlZTXFKNk1mTUluOXQ2aGJpb2w4cEMycmxnY0RfSnF4NlZ3UWM2VkY4Rk5aVS1ncjNTS19CektCeklCOG9OenVpSU5HOGtVekQ2MVM0dzJ6OXZPeG1nMXltdHpmZm02U3dRWjhfa3JOcHZFVkFkcFJZVVdBUUhjQ2tJTnpnaUptb21MSXkwNUXSAaQBQVVfeXFMTmwxak1ONUdHSnJqcjhJb29TbkRseHZ1T2RXeTdndHJEYWpkT2xBdXJNUTZ2RlhGTGltcEEySTltdUpmV0pJUVBhRF8zazJoTmRyZDBIeC12VjhPXzBYTnVoTDJGVkdrQ1JBZ3ozbjNnZGRhNERjNFFtT3hzajVFT3dlZnFzMEx5QXB1Uy1RMGJYdFRkdVZ6SVE3OTBpUzVqNkhsTnc?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "kind": "regulation",
+   "published": "2026-11-03",
+   "day": "2026-11-05",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA approved or expanded three natural colour additives as the administration pushes to remove artificial food dyes.",
+   "why": "More approved natural colours ease the switch away from synthetic dyes in glazes, fillings, decorations and coloured chocolate; update Puratos and Belcolade colour options for US customers.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "5152d71f742741cb",
+   "title": "White sourdough bread high in protein and fiber with the substitution of cowpea tempeh flour and less yam tuber flour",
+   "url": "https://doi.org/10.26656/fr.2017.10(6).270",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Health & Nutrition",
+   "region": "Asia-Pacific",
+   "summary": "Indonesian study substituting wheat flour in white sourdough bread with cowpea tempeh and lesser yam flours to raise protein and fiber.",
+   "why": "A tempeh-flour sourdough route to high-protein, high-fibre bread is a product idea for Sapore sourdough and protein-enrichment solutions in Asia.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "87ae07d7a61fff93",
+   "title": "Revyve debuts yeast protein solution as whey supply challenges persist",
+   "url": "https://www.theplantbasemag.com/news/revyve-debuts-yeast-protein-solution-as-whey-supply-challenges-persist",
+   "source": "www.theplantbasemag.com",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 2
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Revyve launches a yeast-protein ingredient as an alternative to whey amid supply challenges.",
+   "why": "Yeast protein that replaces whey or egg functionality is a partner or supplier option for Puratos egg- and dairy-reduction in cakes and protein bakery.",
+   "image": "https://static.wixstatic.com/media/75b9b9_c96a3671cd504c4988266b01a067a81d~mv2.jpg/v1/fill/w_1200,h_675,al_c,q_85/75b9b9_c96a3671cd504c4988266b01a067a81d~mv2.jpg",
+   "entities": [
+    "Revyve"
+   ]
+  },
+  {
+   "id": "d603939f0bb6519d",
+   "title": "French yeast giant leverages Chinese talents, CIIE for growth",
+   "url": "https://www.bastillepost.com/global/article/6329207-french-yeast-giant-leverages-chinese-talents-ciie-for-growth",
+   "source": "巴士的報",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "A French yeast major (likely Lesaffre) is using Chinese talent and the CIIE import expo to grow in China.",
+   "why": "A yeast competitor stepping up in China affects Puratos's bakery ingredient position there; track its fermentation and improver offers.",
+   "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/11/8506915_1793877392002_a_FB.jpg",
+   "entities": [
+    "Lesaffre"
+   ]
+  },
+  {
+   "id": "104dd0d0b7dab92a",
+   "title": "Two-Thirds of the $14.2 Billion UPF Label Estimate Is Reformulation. Spend It Where You Grow.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGl5X2FwT2p5N0otN0ZNNl8yODgwSHB1V1JpS3pfWUw3aS1YQWp5ekE5eEtWVDBtdVd0SUNWQzlHaUJtSFc1bjRiVnRKS0M5ZEZORHlMVk43NkJUaEg5V2V0amhBOUt1QW5qR3doMlBtd05RMmxibzUwUU9UOXBlWWRSSWZHYlE4ZGFLdjg0d2x2MklWem80eGE5VWpyN244WUE2VEU3aVhxZUVuUUtudUhocGI1SU44VGVnRXVtSVIzWlduTGtUaXZoY01Pdw?oc=5",
+   "source": "Food Industry Executive",
+   "kind": "regulation",
+   "published": "2026-11-04",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Analysis arguing that two-thirds of a $14.2 billion estimated cost of UPF labelling would go to reformulation, and advising firms where to invest.",
+   "why": "If US UPF labelling arrives, most cost falls on reformulation; Puratos can position clean-label improvers, enzymes and sourdough as the reformulation toolkit for bread, cake and chocolate customers.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "d02cd01f3199c84e",
+   "title": "Is there a place for better-for-you pizza?",
+   "url": "https://www.bakingbusiness.com/articles/67194-is-there-a-place-for-better-for-you-pizza",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-04",
+   "day": "2026-11-05",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Article on whether better-for-you pizza has a place, with protein and fibre as opportunities.",
+   "why": "Protein- and fibre-enriched pizza crusts are a product idea for Puratos protein and fibre bakery solutions with US foodservice customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/04/1104-Nestle.webp?t=1793822797",
+   "entities": []
+  }
+ ]
+}

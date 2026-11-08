@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-23",
+ "headline": "Oobli & Cosun sugar replacer for chocolate; FDA GRAS overhaul; Galy cultured cocoa",
+ "summary": [
+  "Galy is bringing cell-cultured cocoa to US consumers (WunderHaus) and professional kitchens, a direct partnership target and competitive threat for Belcolade.",
+  "FDA proposed GRAS rule changes that would tighten oversight of self-affirmed ingredients; Puratos should audit US dossiers for enzymes, cultures and novel ingredients and track the comment period.",
+  "Sweet-protein start-up Oobli and Cosun Ingredients launched a sugar-replacer system for chocolate, a ready benchmark and possible partner for sugar-reduced Belcolade and fillings.",
+  "Pressure for a federal ultra-processed food definition is mounting while FDA's salt-substitute rule for 139 standardized foods takes effect December 14, so bakery customers will need clean-label and sodium-reduction solutions.",
+  "Grupo Bimbo is adding fibre and seeking product changes as North American volumes fall, opening sell-in for fibre, protein and taste solutions; MOA Foodtech and Espiga's bakery egg replacer is one to watch for Patisserie."
+ ],
+ "scanned": 68,
+ "items": [
+  {
+   "id": "9fe5151b653588ce",
+   "title": "Oobli, Cosun Ingredients Create Sugar Replacer for Chocolate Amid Sweet Protein Expansion",
+   "url": "https://www.greenqueen.com.hk/oobli-sweet-protein-cosun-ingredients-sugar-replacer-chocolate-monellin-brazzein/",
+   "source": "greenqueen.com.hk",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 6,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "US sweet-protein start-up Oobli co-developed a sugar replacement system for chocolate with Cosun Ingredients and is widening access to its monellin ingredient.",
+   "why": "A ready sugar-replacer system for chocolate from a start-up plus a major ingredient supplier: a partnership target and competitive benchmark for sugar-reduced Belcolade and fillings.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2026/10/oobli-sweet-protein-cosun-ingredients-sugar-replacer-chocolate-monellin-brazzein-1.png",
+   "entities": [
+    "Oobli",
+    "Cosun Ingredients"
+   ]
+  },
+  {
+   "id": "8ee5145aa25bc0b6",
+   "title": "Cocoa prices driving squeeze for confectionery makers",
+   "url": "https://insidefmcg.com.au/2026/10/23/cocoa-prices-driving-squeeze-for-confectionery-makers/",
+   "source": "Inside FMCG",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Headline report that high cocoa prices continue to squeeze confectionery makers' margins.",
+   "why": "Ongoing cocoa cost pressure keeps demand up for cocoa-saving recipes, compounds and alternatives from Belcolade.",
+   "image": "https://insidefmcg.com.au/wp-content/uploads/2026/10/ifmcg-ir-isb-720x400-3.png",
+   "entities": []
+  },
+  {
+   "id": "fe41dfadc95c82c2",
+   "title": "What Is Ultra-Processed Food? FDA Pushed To Give Definition",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1dGZlAta3pNMUFlVUxPbHcybmV1X0h6RUtlUlF3V1pWVDFKVWFKMHJST0Jmb1A2cHFCRFN1cm94V056cmZmRjMyR2lhRzZCSHBHbldjZ1lKSm9QcmR0Qldnb2Vmc3F5aHVlMWdHVDF0WnVRNml1dkNkZzBLRG5PaXdLbTRYdjJTTElRZlJvUWdHaWNwdWNN?oc=5",
+   "source": "Newsweek",
+   "kind": "regulation",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA is being pushed to publish a formal definition of ultra-processed food.",
+   "why": "A federal UPF definition would directly affect packaged bread, cakes and confectionery; prepare clean-label, fewer-additive reformulation options for customers.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "1d89674676d6a171",
+   "title": "Nutrition experts press White House to release ultra-processed food definition",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjNUaXp4MTl5TVZCcHlBcHRid0k3NUdfVlpoSzJRZkhZN0U0dmtBeU0wMEdtMW9QRHlXZzF0M3hLajY4d0dCVHZMSnNPWDZ6eWNaRnFhWHhzMTVWaTVmOEgyRkFPbWIyQ2hwdWxvN2FIbjlmYWNNQmxlTWxfRGM0bGZ0MC1TVzRhNVFRMVZn?oc=5",
+   "source": "STAT",
+   "kind": "regulation",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Nutrition experts are pressing the White House to release its ultra-processed food definition.",
+   "why": "Signals a UPF definition may land soon; packaged bakery customers will look to Puratos for clean-label solutions.",
+   "image": "",
+   "entities": [
+    "White House"
+   ]
+  },
+  {
+   "id": "e50b517bd856d894",
+   "title": "FDA seeks greater oversight of food ingredients through proposed GRAS rule changes",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEdSbHZqdDloUXZKN2FxUndOZWlCQl9FVFVjNERtZ3piYWdoc3NyRndyTUVQVUZiNVpDckFRNTFWYkhaYUhDV213SlQ0UGptMEpsRy1vYlNFN0NhS1hhSzBBc1A1NnBhd1JVWWJYRFNUdllCeDZzQ3pPN1ZwYmdFTEVLSnJZeWF5ME93YllNVC1WYUNZVWFYNW10bll0MlJhaUtzRHgtcjVMYWxqd21rc1B6TGJkaFZf?oc=5",
+   "source": "Brownfield Ag News",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA has proposed GRAS rule changes that would give it more oversight of food ingredients, likely curbing self-affirmed GRAS.",
+   "why": "Many enzymes, cultures and novel ingredients rely on self-affirmed GRAS; Puratos should audit its US ingredient dossiers and watch the comment period.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "0287feb6863d8030",
+   "title": "Bimbo has the capacity but where are the bakery buyers?",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/10/23/bimbos-bakery-challenge-as-north-american-volumes-fall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Grupo Bimbo's margins are improving but North American volumes keep falling, pushing it to new channels and product changes.",
+   "why": "The largest NA customer seeking product changes to regain volume is a sell-in opening for health, fibre and taste solutions.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/A3N3LAQ635BSTKIVKR5SNR6XA4.jpg?auth=5a9324169dcb7622dad4a8c6349199da70f446925a66d8d773439172d0cb2aeb&smart=true&width=3840&height=2160",
+   "entities": [
+    "Grupo Bimbo"
+   ]
+  },
+  {
+   "id": "8dc521899362b2b8",
+   "title": "Could climate change leave bakers with flour that won’t perform?",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/10/23/could-climate-change-leave-bakers-with-flour-that-wont-perform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Global / Unknown",
+   "summary": "Trade article on whether climate change will yield flour with weaker baking performance.",
+   "why": "Variable flour quality raises demand for enzymes and improvers that correct it, core to S500 and Bakery services.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/ACD75NY4PVDEFDIQPPZKCCE6CM.jpg?auth=ef7be0966fc1449c6985d6852bdce01107a5df3e75ea3f8dc47f62bac431c521&smart=true&width=2121&height=1414",
+   "entities": []
+  },
+  {
+   "id": "c7c0df241b3527ad",
+   "title": "Thermal Processing of Watermeal for High-Protein Gluten-Free Rice Bread: Effects on Functional and Quality Properties",
+   "url": "https://doi.org/10.3390/foods15203755",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-21",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Asia-Pacific",
+   "summary": "Vacuum-dried watermeal (Wolffia) powder at up to 20% raised protein and fibre in gluten-free rice bread and strengthened the batter.",
+   "why": "A novel aquatic-plant protein for gluten-free, high-protein bread mixes; early-stage but on-theme for Bakery enrichment.",
+   "image": "",
+   "entities": [
+    "Chiang Mai University",
+    "Oklahoma State University"
+   ]
+  },
+  {
+   "id": "0e846c87af9c1d09",
+   "title": "Valorization of Wheat Milling Co-Products in Carasau Bread: Effects of Their Addition as Powders or After Fermentation on Physicochemical Properties, Volatile Profile and Sensory Characteristics",
+   "url": "https://doi.org/10.3390/foods15203754",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-21",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Wheat germ, bran and middlings were added to Sardinian carasau bread either as powders or after sourdough fermentation, changing aroma, texture and consumer liking.",
+   "why": "Shows fermenting milling by-products before use tunes flavour, an upcycled sourdough ingredient idea for Sapore.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "57c93ee026a7f953",
+   "title": "Dirty Dozen™ food chemicals: Titanium dioxide",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0xTU0xNLUU2ZkhTU3Bxam84VWtOcFZHSVBXS09pTG1KNzBKMkJLZm95X3FXYXBZUFFGWXhTdUMyN0lfcmRnNjBlSE0zRGJNaWdOUXlJbnlIOUJ3VlJnR1c2bjNub1M1SWJ1Ul9VVl85b3kxZU5OT3QxazF3cUNKYndxTzZCU2duR2tIekJyT1NicTRLZ21n?oc=5",
+   "source": "Environmental Working Group",
+   "kind": "regulation",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "EWG lists titanium dioxide among its 'Dirty Dozen' food chemicals, adding pressure for its removal.",
+   "why": "Titanium dioxide whitening in icings, decorations and coatings faces growing US pressure; have TiO2-free alternatives ready for Patisserie and Chocolate customers.",
+   "image": "",
+   "entities": [
+    "Environmental Working Group"
+   ]
+  },
+  {
+   "id": "e681d0c9c842d218",
+   "title": "Why candy prices are scary high ahead of Halloween",
+   "url": "https://www.fooddive.com/news/halloween-candy-inflation-2026-hershey-mondelez/833754/",
+   "source": "fooddive.com",
+   "kind": "news",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Rising ingredient costs have pushed Halloween candy prices up, with Hershey adding salty snacks to its options.",
+   "why": "Cocoa costs are reshaping confectioners' portfolios; an opening for cocoa-saving Belcolade and compound solutions.",
+   "image": "https://imgproxy.divecdn.com/WwapC75FVlbeT0DPEyQC-OXZ-keqZ0AsANEFVw5JaMU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MjIwMjA0LmpwZw==.webp",
+   "entities": [
+    "Hershey"
+   ]
+  },
+  {
+   "id": "414e3eaa1261380f",
+   "title": "WinCo Foods hoagie rolls recalled in 7 states over undeclared sesame",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWxYaG0yMzdfXzhCTEtsMF8xN25MRWV6a21Ma1psTmwtX0tTU1hieGRXUE9vZzJrajJSMEQ1Uzd2WVJYQm9nbVhteXJnWjRRN01fXzhyckVCeGNBR182cVVMRFphdC15MVJkNjQxZ1pGOU85Q0hFckJORS1TRXNKNTdPNVY0QnZ5X1JTODlnLTh0YVpXQjlOTEdyVWxnQkV0SHVQZA?oc=5",
+   "source": "WPTV",
+   "kind": "regulation",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "WinCo Foods hoagie rolls were recalled in seven states over undeclared sesame.",
+   "why": "Another sesame recall in rolls; bakery customers must keep sesame cross-contact controls and labelling tight since it became a major allergen.",
+   "image": "",
+   "entities": [
+    "WinCo Foods"
+   ]
+  },
+  {
+   "id": "313dbcf7408af344",
+   "title": "Publisher's Platform: The food Traceability Rule has been law since 2022 – nobody has to follow it until 2028. Here is how that happened, and what FDA is doing with the time.",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOS1VjWWpmMkpUWVdnUjU5ZEMyemZONWxyR19HQ1BrZklyYUFKeDRGcG9sRmY5Y3hhQWtBYmtGT2lTeHJYVmgtUGtDeV9MZEJGVUZ5YlFtTmRJUTdrWDdON3VxSnZMMFdBbHJxUzJyUXlHVDJRWFBHMWhnLUJGWTZRV042eTJnNWZvSFJQaHl2eHU2WWhfWUhJSEc5NGo1RTBHcmt0ZkJsYmFwUE90ZXRNajRuY04xdWFGbXFMZ0tOUGFZWWplOW1TajdVN1pUdHd4OHItRV80Z3lpS2NnSnM2TENrMndRQTdLWDJsbFBBcG5FOFAtYmNpcERxNDkzOExocnpFZEFFbVRZODhaQ1lhOGJVbmlSdE96X0dRYXJ6NXgtU21hSzIxVVJIMmpPbGtn?oc=5",
+   "source": "Food Safety News",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 4,
+    "Chocolate": 3
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Commentary on why FDA's Food Traceability Rule, final since 2022, now has a 2028 compliance date and what FDA is doing in the meantime.",
+   "why": "Gives customers until 2028 for lot-level traceability; plan supplier record systems on that timeline.",
+   "image": "",
+   "entities": [
+    "FDA",
+    "Food Safety News"
+   ]
+  },
+  {
+   "id": "a5d3d231b064437a",
+   "title": "WinCo Foods LLC Issues Allergy Alert on Undeclared Sesame in Hoagie Rolls",
+   "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/winco-foods-llc-issues-allergy-alert-undeclared-sesame-hoagie-rolls",
+   "source": "FDA",
+   "kind": "regulation",
+   "published": "2026-10-22",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA posted WinCo Foods' allergy alert on undeclared sesame in its hoagie rolls.",
+   "why": "Reinforces FDA attention on sesame labelling in bread; customers should review allergen controls.",
+   "image": "",
+   "entities": [
+    "WinCo Foods",
+    "FDA"
+   ]
+  },
+  {
+   "id": "922afdf8c0c2ef8f",
+   "title": "Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Availability",
+   "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21669/hazard-analysis-and-risk-based-preventive-controls-for-human-food-draft-guidance-for-industry",
+   "source": "Federal Register (Proposed Rule)",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-23",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA released a draft Chapter 12, Control of Chemical Hazards, of its preventive-controls guidance for human food.",
+   "why": "Plants and customers will need to reflect FDA's chemical-hazard expectations in food safety plans; review with QA.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  }
+ ]
+}

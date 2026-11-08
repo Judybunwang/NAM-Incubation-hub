@@ -1,7 +1,8 @@
 name: Refresh food-tech news
 
 # Pulls the latest Food-Tech Scout brief (private repo Judybunwang/PuratosScouting)
-# into news/latest.json, which the "Food-tech news" tab of the site reads.
+# into news/archive/ (one file per day) and rolls it up into news/latest.json
+# (weekly, monthly and quarterly periods), which the "Food-tech news" tab reads.
 # The scout collects at 10:00 UTC and Claude scores it at about 10:45 UTC, so this
 # runs twice a day after that (GitHub often starts scheduled runs late).
 #
@@ -49,7 +50,7 @@ jobs:
         run: |
           git config user.name "food-tech-news"
           git config user.email "actions@users.noreply.github.com"
-          git add news/latest.json
+          git add news
           git diff --cached --quiet && { echo "no new items"; exit 0; }
           git commit -m "Food-tech news $(date -u +%F)"
           git pull --rebase origin main && git push
