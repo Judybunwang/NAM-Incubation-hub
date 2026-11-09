@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-08T16:29Z",
+ "updated": "2026-11-09T13:25Z",
  "periods": [
   {
    "id": "2026-W45",
    "kind": "week",
    "label": "Nov 2 – 8, 2026",
-   "note": "this week, so far",
+   "note": "",
    "start": "2026-11-02",
    "end": "2026-11-08",
    "first_day": "2026-11-02",
-   "last_day": "2026-11-07",
-   "days": 6,
-   "scanned": 459,
-   "headline": "AB Enzymes anti-staling launch; cocoa-saving replacers multiply; Barry Callebaut sales fall 15%",
+   "last_day": "2026-11-08",
+   "days": 7,
+   "scanned": 498,
+   "headline": "AB Enzymes anti-staling launch; cocoa replacers multiply; bird flu hits US egg supply",
    "summary": [
-    "AB Enzymes launched Veron MaxiFresh, an amylase anti-staling enzyme, a direct competitor move against Puratos freshness ranges; get the spec and benchmark it.",
-    "Cocoa-saving products are multiplying: Planet A Foods' cocoa powder replacer, RFINE's coffee-based KAFFIKA cocoa extender and pladis's accelerator call for cocoa alternatives are all partner or competitor signals for Belcolade.",
-    "Barry Callebaut reported full-year sales down 15% while pushing its new fermentation platform, which may open customer and pricing room for Belcolade.",
-    "Clean-label mould inhibition and shelf life were a recurring trade-press theme, a chance to position Puratos fermentation-based preservation with US bakers.",
+    "AB Enzymes launched Veron MaxiFresh, an amylase anti-staling enzyme, and other extended-freshness enzymes were promoted too, a direct competitor move against Puratos freshness improvers; get the specs and benchmark them.",
+    "A California bird flu outbreak hit 1.3 million laying hens before the holiday baking rush, so push egg-replacement solutions to US cake and sweet-goods customers now.",
+    "Cocoa-saving options are multiplying, with Planet A Foods' cocoa powder replacer, RFINE's coffee-based KAFFIKA extender and pladis's accelerator call for cocoa alternatives, while Barry Callebaut reported sales down 15% and launched a fermentation platform; all are partner or competitor signals for Belcolade.",
+    "Clean-label mould inhibition was a recurring theme, and a Brazilian study found kefir-whey and sourdough extended bread mould-free life by 40-70% over yeast bread, supporting Puratos sourdough shelf-life claims.",
     "Regulatory: FDA approved three more natural colour additives and WHO proposed an ultra-processed food profiling model, both pushing customers toward reformulation Puratos can support."
    ],
    "summary_by": "claude",
@@ -253,6 +253,30 @@
      "coverage": 2
     },
     {
+     "id": "cdc0000056efef2e",
+     "title": "Your next chocolate bar might not contain a single cocoa bean",
+     "url": "https://www.dagens.com/food/your-next-chocolate-bar-might-not-contain-a-single-cocoa-bean",
+     "source": "Dagens.com",
+     "kind": "news",
+     "published": "2026-11-07",
+     "day": "2026-11-07",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 1,
+      "Patisserie": 5,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "mid",
+     "category": "Cocoa & Chocolate",
+     "region": "Global / Unknown",
+     "summary": "Consumer news piece on the rise of chocolate made without cocoa beans, reflecting growing cocoa-free alternatives.",
+     "why": "Cocoa-free chocolate is a direct competitive and partnership topic for Belcolade as cocoa prices stay volatile; keep mapping the start-ups behind it.",
+     "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2025/08/shutterstock_2453558413.webp",
+     "entities": [],
+     "coverage": 1
+    },
+    {
      "id": "70a675269be0e769",
      "title": "Choosing clean label mold inhibitors without sacrificing shelf life",
      "url": "https://www.bakingbusiness.com/articles/67193-choosing-clean-label-mold-inhibitors-without-sacrificing-shelf-life",
@@ -300,30 +324,6 @@
      "entities": [
       "Palsgaard"
      ],
-     "coverage": 1
-    },
-    {
-     "id": "8b77ccda52d0991d",
-     "title": "Pro Tip: Understanding that shelf life is more than mold control",
-     "url": "https://www.bakingbusiness.com/articles/67188-pro-tip-understanding-that-shelf-life-is-more-than-mold-control",
-     "source": "bakingbusiness.com",
-     "kind": "news",
-     "published": "2026-11-04",
-     "day": "2026-11-04",
-     "unit": "Bakery",
-     "scores": {
-      "Bakery": 8,
-      "Patisserie": 5,
-      "Chocolate": 0
-     },
-     "relevance": 8.0,
-     "horizon": "short",
-     "category": "Shelf-life & Food Safety",
-     "region": "North America",
-     "summary": "Baking Business tip on shelf life beyond mould control: keeping texture, aroma and eating quality.",
-     "why": "Directly about Puratos's freshness positioning (enzymes plus mould inhibition); good content for US customer education.",
-     "image": "https://www.bakingbusiness.com/ext/resources/2026/10/06/PTRC2025.webp?t=1791345817",
-     "entities": [],
      "coverage": 1
     }
    ],
