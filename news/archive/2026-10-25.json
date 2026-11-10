@@ -1,0 +1,169 @@
+{
+ "date": "2026-10-25",
+ "headline": "Galy cultured cocoa hits US; Oobli-Cosun sugar replacer; FDA salt-substitute rule for breads",
+ "summary": [
+  "Galy is taking cell-cultured cocoa to US consumers (WunderHaus) and professional kitchens, a direct partnership target and competitive threat for Belcolade.",
+  "Oobli and Cosun launched a sweet-protein sugar replacer for chocolate, a benchmark and potential partner for sugar-reduced Belcolade lines and fillings.",
+  "FDA will allow salt substitutes in 139 standardized foods, including breads and rolls, from December 14, 2026, a sell-in moment for Puratos sodium-reduction solutions.",
+  "US policy pressure on ultra-processed foods and GRAS keeps building even as MAHA advocate Calley Means resigns, so customers will want clean-label reformulation options and Puratos should audit its GRAS dossiers.",
+  "Grupo Bimbo and other NA bakers are adding fibre and protein, and a new sesame recall on WinCo rolls is a reminder that allergen control remains a live customer concern."
+ ],
+ "scanned": 44,
+ "items": [
+  {
+   "id": "a4e2a61429931e25",
+   "title": "Revolutionizing egg-free baking: alkaline-extracted plant proteins as sustainable modifiers of muffin structure and palatability",
+   "url": "https://doi.org/10.1007/s13197-026-06970-8",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-23",
+   "day": "2026-10-25",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 7,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Asia-Pacific",
+   "summary": "Indian researchers use alkaline-extracted plant proteins to replace egg in muffins and assess structure and palatability.",
+   "why": "Egg-free muffin data supports Patisserie's egg-replacement cake mixes; worth benchmarking against Puratos egg-reduction solutions.",
+   "image": "",
+   "entities": [
+    "Karunya University",
+    "Malla Reddy University"
+   ]
+  },
+  {
+   "id": "b2c270c8c8981691",
+   "title": "Dry fractionation of chickpea flour: balancing protein enrichment, coproduct functionality and environmental sustainability",
+   "url": "https://europepmc.org/article/PMC/PMC13687277",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-10-24",
+   "day": "2026-10-25",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Aarhus University, NTUA and Hosokawa Alpine assess dry fractionation of chickpea flour into protein-rich fractions and coproducts, weighing functionality and environmental impact.",
+   "why": "Dry-fractionated pulse protein is a lower-footprint route to protein-enriched bread and mixes; Hosokawa Alpine is a possible process partner for Bakery.",
+   "image": "",
+   "entities": [
+    "Aarhus University",
+    "National Technical University of Athens",
+    "Hosokawa Alpine AG"
+   ]
+  },
+  {
+   "id": "433f038b46e45c27",
+   "title": "WinCo Recalls Hoagie Rolls in Seven Western States Over Undeclared Sesame, With Best-By Dates Through November 3",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3lRcHNpblRDY2UtLWtQZHJJdTVpZHpUMnlvRWlDUURkNWpzemxObGxTbW4xbjZQMFh4bkU3TXY3WDBfb2FsZ0pobDE0cENNbjhsZWZrVVF4YjRPaFBJay1YNEtCMDBxNm1KelFaSnpFWkVMeC0xUUY4OGtyY2d5RUR5cTZlUQ?oc=5",
+   "source": "Medical Daily",
+   "kind": "regulation",
+   "published": "2026-10-25",
+   "day": "2026-10-25",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "WinCo is recalling hoagie rolls in seven western US states because of undeclared sesame, with best-by dates through November 3.",
+   "why": "Another sesame-labelling recall in US rolls is a reminder for bakery customers to check sesame cross-contact and labelling since sesame became a major US allergen; Puratos can support with allergen-controlled ingredients.",
+   "image": "",
+   "entities": [
+    "WinCo Foods"
+   ]
+  },
+  {
+   "id": "fc937716b98e9cd4",
+   "title": "Millet fermentations: a review on microorganisms, fermentation parameters, nutrients bio-utilization, and future prospects",
+   "url": "https://europepmc.org/article/PMC/PMC13687797",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-10-24",
+   "day": "2026-10-25",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Jiangsu and Shanghai Jiao Tong universities review microorganisms, parameters and nutrient effects of millet fermentations.",
+   "why": "Millet fermentation know-how supports ancient-grain and gluten-free sourdough ideas for Sapore.",
+   "image": "",
+   "entities": [
+    "Jiangsu University",
+    "Shanghai Jiao Tong University"
+   ]
+  },
+  {
+   "id": "98cdb7330a28358b",
+   "title": "WinCo Foods LLC Hoagie Rolls Recall: Idaho’s WinCo Foods LLC Launches Voluntary Recall for Hoagie Rolls Over Undisclosed Sesame Allergen – Check How to Return",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMHU1Vmhkd3JyczBiWnBLR2lKaTJfcTdsamdEaURMTkNxSS14bVJqWmNHc1FBaUlyTFZ0bkt2ZTg4ZExNS1RNRlRSb3hXZDJUcTBFU3dzMHo5NDlIQ21STGNrMTdWUGt2SExBekRlMzcyb1ktT2huOV9FbUpjSFNjNGY3MnFpM3BpUE1DNkszUmxGcndMTkxJdHVKeUVtYUhXREJmSUtXUmVVSGtISGZ0ZVJGeEpXMHJqYkdJOU5mN05MNlJETjFlNEF1SlJDRFZJNFkzU2dMdnZ4VFJqTTZRSm1PTS1ReFlZZWc4N2R2di00dVVGaWhlWmdTWGpKX05tRE9Ca3NkTm43S3pCcmZlcFI5a3lxQkhUSWVqM0hYdGs0blItUzV6MUgtSdIBqwJBVV95cUxPMHU1Vmhkd3JyczBiWnBLR2lKaTJfcTdsamdEaURMTkNxSS14bVJqWmNHc1FBaUlyTFZ0bkt2ZTg4ZExNS1RNRlRSb3hXZDJUcTBFU3dzMHo5NDlIQ21STGNrMTdWUGt2SExBekRlMzcyb1ktT2huOV9FbUpjSFNjNGY3MnFpM3BpUE1DNkszUmxGcndMTkxJdHVKeUVtYUhXREJmSUtXUmVVSGtISGZ0ZVJGeEpXMHJqYkdJOU5mN05MNlJETjFlNEF1SlJDRFZJNFkzU2dMdnZ4VFJqTTZRSm1PTS1ReFlZZWc4N2R2di00dVVGaWhlWmdTWGpKX05tRE9Ca3NkTm43S3pCcmZlcFI5a3lxQkhUSWVqM0hYdGs0blItUzV6MUgtSQ?oc=5",
+   "source": "The Sunday Guardian",
+   "kind": "regulation",
+   "published": "2026-10-25",
+   "day": "2026-10-25",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 2,
+    "Chocolate": 1
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "WinCo Foods voluntarily recalls hoagie rolls over undeclared sesame.",
+   "why": "Sesame allergen recalls in bakery keep allergen control high on US customers' agenda; a prompt to review sesame labelling support.",
+   "image": "",
+   "entities": [
+    "WinCo Foods"
+   ]
+  },
+  {
+   "id": "2a78bb7f743efb20",
+   "title": "Calley Means, a Key MAHA Advocate, Resigns as a Top RFK Jr. Adviser",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGIwNG5DVDdZQ0FBRWxFNDZ2Mm1qdGRwcVhvbTV1TVF6aXI2V01QRnh2OG9XYjhSekMwUk1lU1FYMjRnbXVTMTh6VU4wcUhhcFFhcVNiaUpMUXBTRHhNb0pYRkJIbE0xNFNaUFFjNktTeHZkTFZkSi02LWR1OXBZQzRDeFRSSTg1allvbUp6Ty1jQnlDanoycDFCOG9Fci1qTWU0V3VPcmlPMXh3R0dsa09DYjdZdjIyblFiTEJpVUFwQQ?oc=5",
+   "source": "Food Manufacturing",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-25",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Calley Means, a key MAHA advocate and adviser to HHS Secretary RFK Jr., resigns.",
+   "why": "Losing a leading MAHA voice could slow or reshape the ultra-processed food definition and dye/additive push that bakery and confectionery customers are preparing for; keep reformulation plans but watch the timeline.",
+   "image": "",
+   "entities": [
+    "HHS",
+    "MAHA"
+   ]
+  }
+ ]
+}

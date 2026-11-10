@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-08",
+ "headline": "Bird flu tightens egg supply; new freshness enzymes; EPS sourdough fixes gluten-free muffins",
+ "summary": [
+  "A California bird flu outbreak hit 1.3 million laying hens before the holiday baking rush, so push egg-replacement solutions to US cake and sweet-goods customers now.",
+  "Newly promoted extended-freshness baking enzymes compete directly with Puratos anti-staling improvers; identify the supplier and benchmark the claims.",
+  "An EPS-producing Weissella cibaria sourdough gave gluten-free muffins near-wheat volume and softness, a clean-label route for Puratos gluten-free and sourdough ranges.",
+  "Spanish data show cakes supply 27.6% of sugar in shopping baskets and chocolate tops sugar and saturated fat, signalling where reformulation pressure will land.",
+  "Univar is expanding Roquette plant-protein distribution in North America, and low-antinutrient faba beans showed good breadmaking, both relevant to protein enrichment."
+ ],
+ "scanned": 39,
+ "items": [
+  {
+   "id": "95be63e936970ec0",
+   "title": "Functional Role of Weissella cibaria N4 Exopolysaccharides in Improving the Technological Properties of Gluten‐Free Muffins",
+   "url": "https://doi.org/10.1002/cche.70126",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-08",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 7,
+    "Chocolate": 1
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "Turkish researchers fermented a rice-flour Type II sourdough with the exopolysaccharide-producing Weissella cibaria N4 and found in-situ EPS gave gluten-free muffins volume and softness close to a wheat control.",
+   "why": "An EPS-producing sourdough culture is a clean-label texturiser for gluten-free cakes and breads, a fit for Puratos sourdough and gluten-free ranges.",
+   "image": "",
+   "entities": [
+    "Istanbul Technical University",
+    "Yıldız Technical University"
+   ]
+  },
+  {
+   "id": "efd2b2252beea5f7",
+   "title": "Extended Freshness Baking Enzymes",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QQTYxQ1BmaDY2aGREWUllNVRqbENJSHJXNHFIT0JBdHVkOE5jdDlrejVqQnhKcllzMUlUcVl5Q2N6M2FrU3NKMU5iOHdMZEtSVTRSTllGMnhvUnktTHZSTVRZT3FQRHh2bFhLWWdOa2IwVXNwRjdJ?oc=5",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-11-08",
+   "day": "2026-11-08",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Trend Hunter spotlights newly launched baking enzymes marketed for extended freshness and shelf life.",
+   "why": "Freshness-enzyme launches are direct competition for Puratos's anti-staling enzyme and improver portfolio; worth identifying the supplier and claims.",
+   "image": "",
+   "entities": [
+    "Trend Hunter"
+   ]
+  },
+  {
+   "id": "169c28f26946ccc2",
+   "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVlYRUViTldLNm1aeWc0aTc2T2RTYWh6V2VCNjIxVUVlaVBfZW5GV3dBdkZIT2hrcThaU2hCeC14ajZvY0RZU3AtdWt1RWlXRU9ZNEpMRF9vcnNlYjU1bzhyX19KSjREN2w4Z3pEQjB0b1V3bThQdDlSdnFmemN4MnQ4YVd6T2hNY1V2TWJLcw?oc=5",
+   "source": "The Cool Down",
+   "kind": "news",
+   "published": "2026-11-08",
+   "day": "2026-11-08",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 7,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "A bird flu outbreak in California has hit 1.3 million laying hens ahead of the holiday baking season, tightening egg supply.",
+   "why": "Renewed egg shortages raise demand for egg-replacement and egg-reduction solutions in cakes and sweet goods, a sales opening for Puratos patisserie and bakery ranges.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "675f8118a078b81d",
+   "title": "Exploratory screening of faba bean germplasm for winter adaptation and seed quality in Northwestern Europe",
+   "url": "https://doi.org/10.1007/s10681-026-03830-6",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-08",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Belgian two-year field study of winter and spring faba bean lines found NIRS predicts protein and vicine/convicine, and several low-VC accessions gave competitive loaf volume at 10% wheat substitution.",
+   "why": "Low-antinutrient faba flour with good breadmaking performance is a European protein-enrichment option for Puratos bakery ingredients.",
+   "image": "",
+   "entities": [
+    "Ghent University",
+    "Aberystwyth University",
+    "Julius Kühn-Institut"
+   ]
+  },
+  {
+   "id": "47aaabdf8335b0c2",
+   "title": "Food composition database of products available on the Spanish market in 2022: A tool for the design, implementation and monitoring of policies to improve food environments",
+   "url": "https://doi.org/10.1016/j.jfca.2026.109680",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-06",
+   "day": "2026-11-08",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Europe",
+   "summary": "The Spanish food agency's branded food composition database for 2022 shows cakes contribute 27.6% of sugar in the Spanish basket, and chocolate is among the highest in sugar and saturated fat.",
+   "why": "Spain's reformulation policy will target cakes and chocolate first, so Puratos patisserie and chocolate customers there need sugar and fat reduction solutions.",
+   "image": "",
+   "entities": [
+    "AESAN"
+   ]
+  },
+  {
+   "id": "8854baa0efb9d2ca",
+   "title": "Papaya and Roselle Seed Oils as Partial Shortening Replacers in Cupcakes: Implications for Lipid Quality, Oxidative Stability, and Microbiological Quality",
+   "url": "https://doi.org/10.1002/fsh3.70127",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-06",
+   "day": "2026-11-08",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Middle East & Africa",
+   "summary": "Egyptian researchers replaced up to 20% of shortening in cupcakes with papaya or roselle seed oil, lowering oxidation and microbial counts, though 20% roselle oil reduced some sensory scores.",
+   "why": "Upcycled seed oils as partial shortening replacers point to fat-quality improvement and natural antioxidant routes for cake formulations.",
+   "image": "",
+   "entities": [
+    "National Research Centre",
+    "Al-Azhar University"
+   ]
+  },
+  {
+   "id": "e68aafd7e5d301a8",
+   "title": "Does Red 40 Cause Cancer? Food Dye Safety and Cancer Risk Explained",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4RnFyaEtmR1k5V2hrd0pkZkVsbFFjaVpnLWZEbGh3Vi1STHZqdnJtamdpc1ZzbWphTDBjcjBFcXFxTXFVdmhiRjdXZVhZQjJxcGxxYTMyX3IxS0haeGxwVg?oc=5",
+   "source": "Oncodaily",
+   "kind": "regulation",
+   "published": "2026-11-08",
+   "day": "2026-11-08",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 4
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Explainer on whether the synthetic dye Red 40 causes cancer, amid ongoing US scrutiny of petroleum-based food colours.",
+   "why": "Consumer concern over Red 40 keeps pressure on US customers to move icings, decorations and coated confections to natural colours; Puratos can push its natural-colour alternatives.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}
