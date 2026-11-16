@@ -1,0 +1,387 @@
+{
+ "date": "2026-11-12",
+ "headline": "AB Enzymes sugar-tolerant anti-staling enzyme; NY additive ban veto fight; Callebaut 2027 trends",
+ "summary": [
+  "AB Enzymes launched a sugar-tolerant enzyme for longer shelf life in sweet bakery, a direct challenge to Puratos's anti-staling and softness improvers that should be benchmarked quickly.",
+  "Industry is pressing New York Governor Hochul to veto a food additive ban; if signed, US customers selling in New York may need reformulated icings, decorations and coatings, so natural-colour alternatives should be ready.",
+  "Barry Callebaut published nine chocolate trends for 2027 and Mondelēz outlined its AI- and acquisition-led confectionery strategy, useful benchmarks for Belcolade positioning against Taste Tomorrow insights.",
+  "A new US Food Policy Accelerator is targeting ultra-processed foods, a policy thread that could reach packaged bread and cakes and favours clean-label, minimally processed solutions.",
+  "Cocoa research from Cameroon shows bean-spreading preconditioning shifts aroma and sourcing contracts improve farm practices, both relevant to origin flavour and Cacao-Trace sustainability work."
+ ],
+ "scanned": 64,
+ "items": [
+  {
+   "id": "093da649bf67027b",
+   "title": "AB Enzymes targets bakery shelf life with new sugar-tolerant enzyme",
+   "url": "https://www.foodingredientsfirst.com/news/ab-enzymes-maxifresh-bakery-enzyme",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 9,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "AB Enzymes has launched a sugar-tolerant enzyme aimed at extending the shelf life (anti-staling) of sweet bakery goods.",
+   "why": "Bakery: direct competitor launch in anti-staling enzymes for high-sugar doughs (brioche, sweet buns), the core of S500/softness ranges; benchmark it and check Puratos's sugar-tolerant enzyme claims.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639300747783772303buns_slider_image.jpg",
+   "entities": [
+    "AB Enzymes"
+   ]
+  },
+  {
+   "id": "2bb4579fab0cad34",
+   "title": "Barry Callebaut unveils nine chocolate trends shaping confectionery innovation in 2027 and beyond",
+   "url": "https://www.comunicaffe.com/barry-callebaut-unveils-nine-chocolate-trends-shaping-confectionery-innovation-in-2027-and-beyond/",
+   "source": "Comunicaffe International",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 6,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Barry Callebaut has published nine chocolate trends it sees shaping confectionery innovation in 2027 and beyond.",
+   "why": "Chocolate: the leading competitor's trend agenda signals where Callebaut will push launches; compare with Taste Tomorrow insights to position Belcolade and patisserie offers.",
+   "image": "https://www.comunicaffe.com/wp-content/uploads/2018/11/barrycallebaut595x335_2-e1658477640851.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "6e9eff7a7ebb7417",
+   "title": "Industry Urges Hochul to Veto NY Food Additive Ban Over $620 Cost Claim",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVVkWnNiX09XXzFIalpza3lINkJhQmtmVFdjeTVwd2tQLWpPLXVwdzNTdGtvYkpVQ1ZDdHF0WHMtNGRHMEJEYWVMRHR2cXlQaHFuRVdjRWQteEgwV3dSdzdiU3Q3cndGRkRmdTJoZnctZGJUMm9EUHpOelNKMUpzaHVfOXZWSF81NTZEWWs4OUx5Umh4ajlaMnd6NmhyTzVqM1IxaTNqbUlXejJhS0t0UFQtM1BCeFpwQllQVzBiZGE5Zw?oc=5",
+   "source": "Bushwick Daily",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 6
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Industry groups are urging New York Governor Hochul to veto a food additive ban, citing a $620 cost per household claim.",
+   "why": "Patisserie and Chocolate: if signed, New York's additive ban (likely including synthetic dyes and other additives) would force reformulation of coloured icings, decorations and coatings sold there; prepare natural-colour alternatives for US customers.",
+   "image": "",
+   "entities": [
+    "New York State"
+   ]
+  },
+  {
+   "id": "c09b19d8e5b41dfb",
+   "title": "Modulation of volatile aroma compounds by bean spreading preconditioning in fermented and dried cocoa beans from the Cameroonian Amelonado “German cocoa” variety",
+   "url": "https://doi.org/10.1016/j.jfca.2026.109685",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-12",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Study of how spreading beans before fermentation (preconditioning) changes aroma compounds in fermented, dried Cameroonian Amelonado cocoa.",
+   "why": "Chocolate: post-harvest preconditioning is a practical lever for cocoa flavour; relevant to Belcolade origin and fermentation-driven flavour work.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "3d3d277e31019e11",
+   "title": "Mondelēz vision for the future of confectionery and snacking",
+   "url": "https://www.foodnavigator.com/Article/2026/11/12/mondelez-vision-for-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-12",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Mondelēz outlines how it uses innovation, AI, acquisitions and brand heritage to shape confectionery and snacking.",
+   "why": "Chocolate: Mondelēz's strategy signals demand shifts in chocolate and baked snacks among major industrial customers.",
+   "image": "https://www.foodnavigator.com/resizer/v2/PDUDAQLV4JKENNRCRXOKJ6RJQQ.jpg?auth=2a486371b891b9f797b874c30dfed1cbfe03d3677c71f70421918fb8168e7f7c&smart=true&width=1024&height=768",
+   "entities": [
+    "Mondelēz"
+   ]
+  },
+  {
+   "id": "74175d6c4a8ad7fd",
+   "title": "Rheology-driven and texture-driven soft sensors for differentiating animal and plant-based proteins in diverse wheat flour systems",
+   "url": "https://doi.org/10.1016/j.foohum.2026.101630",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Processing & Automation",
+   "region": "North America",
+   "summary": "Purdue researchers built rheology- and texture-based soft sensors that can tell animal from plant proteins in different wheat flour systems.",
+   "why": "Bakery: inline sensing of protein type and dough behaviour could support QC of protein-enriched or plant-based doughs; Purdue is a nearby US academic partner.",
+   "image": "",
+   "entities": [
+    "Purdue University"
+   ]
+  },
+  {
+   "id": "7b316c0c23ba3e65",
+   "title": "Ultrasound-assisted enzymatic and chemical modification of wheat gluten for enhanced bread and noodle quality",
+   "url": "https://doi.org/10.1007/s11696-026-06003-w",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Indian study combining ultrasound with enzymatic and chemical treatment to modify wheat gluten and improve bread and noodle quality.",
+   "why": "Bakery: ultrasound-assisted enzymatic gluten modification is adjacent to Puratos's enzyme and improver work and worth tracking for weak-flour applications.",
+   "image": "",
+   "entities": [
+    "Kavayitri Bahinabai Chaudhari North Maharashtra University"
+   ]
+  },
+  {
+   "id": "88f5e05ee9da995c",
+   "title": "Effects of Market Contracts on Agroecological Implementation Intensity in Cocoa (Theobroma cacao L.) Production Systems: Evidence from Smallholder Farmers in the Mbam and Kim Division, Cameroon",
+   "url": "https://doi.org/10.14738/dafs.1406.12456",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-12",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Survey of 120 Cameroonian cocoa farmers finds written market contracts are linked to more soil-health and input-reduction practices, but adoption of agroecology stays partial.",
+   "why": "Chocolate: evidence that sourcing contracts can drive farm practice is relevant to Cacao-Trace style sustainability programmes in West/Central Africa.",
+   "image": "",
+   "entities": [
+    "Université de Dschang",
+    "IRAD Cameroon"
+   ]
+  },
+  {
+   "id": "e4b9795a94e5445e",
+   "title": "Germinated Cereal Flours Exhibit Distinct Technological Properties, Water Sorption Behaviours, and Bioactive and Mineral Profiles",
+   "url": "https://doi.org/10.1007/s11483-026-10251-4",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Latin America",
+   "summary": "Brazilian study comparing flours from germinated maize, rice and rye for technological properties, water sorption, phenolics and minerals.",
+   "why": "Bakery: sprouted-grain flours fit clean-label and nutrition claims; the functional data (water absorption, emulsion stability) can guide sprouted-grain bread and gluten-free formulations.",
+   "image": "",
+   "entities": [
+    "Universidade Federal de Campina Grande",
+    "Universidade Federal do Ceará",
+    "Universidade Federal do Rio Grande do Norte"
+   ]
+  },
+  {
+   "id": "56b2cc26453228d6",
+   "title": "New Food Policy Accelerator focuses on UPFs",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xdWltc0tWLUxMRHdBSThXNEc2anJwVG9JdnV5b3lPbEZ2ZE9oYUdXZ09QeXRUTk9VeExYeEVaZzA3cU9xeHNVd3I3V1pTVS1uNV9EQ2pHeUE1UU9hcnhZcE11RGlWdVUtS3BXY1ZyZ3liSTk1b2NxdExqbllwdw?oc=5",
+   "source": "Commercial Baking",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "A new Food Policy Accelerator has launched with a focus on ultra-processed foods (UPFs).",
+   "why": "All units: UPF policy work could lead to definitions or labels that hit packaged bread, cakes and confectionery; track it and prepare clean-label, minimally processed positioning.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "6ee3089d83159c34",
+   "title": "Natural bread trends test brands’ ability to adapt",
+   "url": "https://www.bakingbusiness.com/articles/67214-natural-bread-trends-test-brands-ability-to-adapt",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Podcast with Rudi's Bakery CEO Jane Miller on how the natural/organic bread brand is handling market pressures.",
+   "why": "Bakery: insight into how US natural-bread brands are adapting, useful context for clean-label improver and sourdough sales in North America.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/10/SSB-Rudis.webp?t=1794424109",
+   "entities": [
+    "Rudi's Bakery"
+   ]
+  },
+  {
+   "id": "b8afd793f0744bfe",
+   "title": "These Popular U.S. Bakery Brands Are Owned By A Mexican Company",
+   "url": "https://finance.yahoo.com/small-business/articles/popular-u-bakery-brands-owned-113000145.html",
+   "source": "Yahoo Finance",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Latin America",
+   "summary": "Article on popular US bakery brands owned by a Mexican company (Grupo Bimbo).",
+   "why": "Bakery: a reminder of Grupo Bimbo's scale in US packaged bread, a key industrial customer.",
+   "image": "https://s.yimg.com/lo/mysterio/api/1c4120e6840f0c11ec84e709e85af51adf4fd3d96efba523bb250819eb36b7e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoney_digest_articles_438%2F65d1702244fedf32cd31030e24deb58e.jpg",
+   "entities": [
+    "Grupo Bimbo"
+   ]
+  },
+  {
+   "id": "dc21ab5080847e45",
+   "title": "Ovens and proofers offering easy operation appeal to producers",
+   "url": "https://www.snackandbakery.com/articles/116634-ovens-and-proofers-offering-easy-operation-appeal-to-producers",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Processing & Automation",
+   "region": "North America",
+   "summary": "Trade article on demand for easy-to-operate ovens and proofers among bakery producers.",
+   "why": "Bakery: equipment simplicity trend reflects labour shortages, supporting robust improvers and easy-process solutions.",
+   "image": "https://www.snackandbakery.com/ext/resources/SFWB/2026/Nov/Rademaker---Pizza-Topping-Line.jpg?height=635&t=1794413398&width=1200",
+   "entities": []
+  },
+  {
+   "id": "ae291990cdd681e1",
+   "title": "Ghirardelli brings festive twist to Peppermint Bark collection",
+   "url": "https://www.bakemag.com/articles/22217-ghirardelli-brings-festive-twist-to-peppermint-bark-collection",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-12",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Ghirardelli adds baking wafers and gift packaging to its seasonal Peppermint Bark range.",
+   "why": "Chocolate: shows US premium brands extending into baking chocolate formats, a competitive space for Belcolade in retail and foodservice.",
+   "image": "https://www.bakemag.com/ext/resources/2026/11/12/Ghirardelli-Image.webp?t=1794503236",
+   "entities": [
+    "Ghirardelli"
+   ]
+  },
+  {
+   "id": "c445c74fe39f73a9",
+   "title": "Microbial safety and shelf‐life dynamics of sprouted wheat: technological interventions and quality management",
+   "url": "https://doi.org/10.1002/jsfa.71223",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-12",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Europe",
+   "summary": "Review of microbial risks and shelf-life problems in sprouted wheat, and interventions to manage them.",
+   "why": "Bakery: relevant to safely using sprouted-grain flours in bread, covering pathogen and enzyme (amylase) control.",
+   "image": "",
+   "entities": [
+    "INRAE",
+    "CNRS"
+   ]
+  }
+ ]
+}

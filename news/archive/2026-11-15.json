@@ -1,0 +1,163 @@
+{
+ "date": "2026-11-15",
+ "headline": "Coffee-ground cocoa alternative; high-fibre white bread wheat; '0g sugar' keto bread lawsuit",
+ "summary": [
+  "An entrepreneur profiled by CBC is turning spent coffee grounds into a cocoa replacer to offset high cocoa costs, a scouting or partnership lead for Belcolade compounds.",
+  "A UK consortium led by John Innes Centre and Imperial College sets out how high-fibre white-flour wheat can deliver more fibre in white bread, which could shift demand for Puratos fibre-enrichment solutions.",
+  "A US class action over Lewis Bake Shop's '0g sugar' keto bread claim shows the legal risk of sugar claims, so Puratos should help bakery customers substantiate low-sugar labels.",
+  "New research on how sourdough microbial communities establish in artisanal bakeries supports Sapore starter development.",
+  "Chocolate processors keep investing despite cocoa pressures, and Asian-style bakery chains and fast-growing bagel brands are expanding in the US as potential Puratos customers."
+ ],
+ "scanned": 41,
+ "items": [
+  {
+   "id": "537e9624ef548c3a",
+   "title": "Exploiting New Opportunities to Deliver High Fibre in White Bread and Other Bakery Products",
+   "url": "https://doi.org/10.1111/nbu.70074",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-14",
+   "day": "2026-11-15",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Europe",
+   "summary": "UK expert meeting report on breeding wheat with higher soluble fibre in white flour and getting high-fibre white bread to consumers.",
+   "why": "High-fibre white flour wheat could reshape fibre-enrichment demand; Puratos Bakery could position improvers and partner with John Innes on high-DF flour bread performance.",
+   "image": "",
+   "entities": [
+    "John Innes Centre",
+    "Imperial College London",
+    "British Nutrition Foundation",
+    "Newcastle University"
+   ]
+  },
+  {
+   "id": "8da3cf2fd9819641",
+   "title": "Could old coffee grounds help offset high cocoa costs? This entrepreneur is betting on it",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2dacVA2NEFTNFJjT0dFc1lSZ054ODE1TWVzNERXTWpHSVJQNjM4dnJEOWhLX0VXZWk4OGNmelAxN1pTenJGWXd5R2diM1lpRVFBME1HU3l2ZHRLbl9tbHdoRXdOMlI2Snd2U1pleHJVMm5tN2lDeG96NkhraGdMNlJ4aFU5ZVZ2RUpvTFpSOXVBUEREakxGV3RzQ0hfdGtkdDVwcjZUWjUxakl0dldhaWc0N1p5TlctQXI3Y0RjT1RQcUhCLVVJb0ZBRHgxaUI4T1MtU2tUckc?oc=5",
+   "source": "CBC",
+   "kind": "news",
+   "published": "2026-11-14",
+   "day": "2026-11-15",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "CBC profiles an entrepreneur developing a cocoa alternative made from spent coffee grounds to offset high cocoa costs.",
+   "why": "An upcycled coffee-ground cocoa replacer is a potential partnership or scouting target for Belcolade compound and cocoa-reduced products.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "0c7c2578857d92c6",
+   "title": "Parallel microbial community successions during sourdough establishment in artisanal bakeries",
+   "url": "https://doi.org/10.1016/j.ferfo.2026.100028",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-15",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Study tracking how microbial communities develop in parallel as sourdoughs are established in artisanal bakeries.",
+   "why": "Insight into sourdough establishment dynamics supports Sapore starter design and the Puratos sourdough library.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "50f91ae5a7cf6020",
+   "title": "Lewis Bake Shop Keto Bread “0g Sugar” Lawsuit",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFlnTFl4Ml9lUVZkcVNRUnNqZmtYd25HTW5ZcXd5QUs2TWRnR0trb2p4UGlNZXpiRGdkZlJ5RmxLYmN5dHVRZGZ1VHYzNXJfODBmVWRER2dCUU4xb3k4MXFlQU9DdGpzV2dQNDZwMk1ZX1duM1VXSEdfRWNtZDAyZUhHeHd1QkRZTEhPNk1IVXVnRHd0VTc0dmlUZTVPVlAwNWZ3WGZ1QnV0NFVyYU1Iam03MmhvRVk5aDd5cmZmckZWeHM?oc=5",
+   "source": "openclassactions.com",
+   "kind": "regulation",
+   "published": "2026-11-14",
+   "day": "2026-11-15",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Class action against Lewis Bake Shop alleging its keto bread's '0g sugar' label is misleading.",
+   "why": "US keto/low-sugar bread makers face litigation risk on sugar claims; Puratos Bakery should help customers substantiate sugar claims (including sugars formed during baking) when supplying sugar-reduction solutions.",
+   "image": "",
+   "entities": [
+    "Lewis Bake Shop"
+   ]
+  },
+  {
+   "id": "4fe04898f0020852",
+   "title": "Chocolate processing forging ahead despite global tests",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTFKYVgzU2tWM0lxNTBjN3Zqak1pSk9pY0h1RkRWXzBST2dmajRWN2NGdVlIbEJTaDFRUGZhQzdNMkdMdUQwTEVrWWYtbEE2TFRrclAzT001RGNvUk1Dc28tT2czNFpzMTJLUnQtTjdSSElfelBPczN6eHBtdmxRUUFzWlp0UXVDeVFoVV9rUHpHM1J4b29maWxfS25NRWZqTUxIaTVfOWNEeVJfN09V?oc=5",
+   "source": "Confectionery Production",
+   "kind": "news",
+   "published": "2026-11-14",
+   "day": "2026-11-15",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Confectionery Production feature on chocolate processors continuing to invest despite global cocoa price and supply pressures.",
+   "why": "Signals how chocolate processors are adapting to cocoa volatility; Belcolade should benchmark its processing and sourcing moves against peers.",
+   "image": "",
+   "entities": [
+    "Confectionery Production"
+   ]
+  },
+  {
+   "id": "ef8b3feee3189296",
+   "title": "Effects of pumpkin (Cucurbita pepo L.) flesh waste flour on the technological, textural, and sensory properties of bread",
+   "url": "https://doi.org/10.1038/s41598-026-72266-8",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-15",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Turkish study substituting bread flour with pumpkin flesh waste flour (2.5-20%); 2.5% kept loaf volume while higher levels cut volume and darkened crumb.",
+   "why": "Upcycled vegetable flours are usable only at low inclusion in bread, a useful benchmark for upcycled-fibre improver or mix concepts.",
+   "image": "",
+   "entities": [
+    "Nevşehir Hacı Bektaş Veli University"
+   ]
+  }
+ ]
+}

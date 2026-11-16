@@ -1,0 +1,380 @@
+{
+ "date": "2026-11-11",
+ "headline": "Independent study backs Sapore sourdough in salt-free bread; AMA pushes US additive overhaul",
+ "summary": [
+  "An independent Moldovan-Romanian study found that 1-2% of Puratos Sapore inactive sourdough raises loaf volume and softness in salt-free wheat bread, which gives Bakery ready evidence for sodium-reduction selling.",
+  "US additive rules are tightening on several fronts: the AMA adopted a policy calling for an overhaul, FDA revoked some colour-additive production substances, and GRAS reform gains momentum with Democrats winning Congress, so the US team should audit self-affirmed GRAS ingredients and colours now.",
+  "Chocolate costs face new pressure from El Niño while Norway weighs a graduated sugar tax on chocolate, strengthening the case for Belcolade reduced-sugar and cost-optimised ranges.",
+  "Hershey's push into multi-texture bars and baked-snack collaborations, plus pandan and pistachio rising as flavours, point to opportunities for Belcolade inclusions and Patisserie fillings.",
+  "Colombia's cocoa sector is aligning with EU deforestation and cadmium rules, making it a credible origin for traceable fine-flavour cocoa."
+ ],
+ "scanned": 79,
+ "items": [
+  {
+   "id": "d46d66ee64942e5a",
+   "title": "Effect of Different Types of Sourdough on Wheat Dough Rheology and Bread Quality",
+   "url": "https://doi.org/10.3390/app162211145",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "Moldovan and Romanian researchers tested four commercial inactive sourdoughs (Puratos Sapore Rigoletto, Medea, Othello, Traviata) at 1-4% in salt-free wheat bread, measuring rheology, volume, texture, colour, sodium and sensory acceptance. Low doses (1-2%) improved gas production, volume and softness; higher doses firmed the crumb.",
+   "why": "Independent data on Puratos's own Sapore range in salt-free bread gives Bakery usable dosage guidance (1-2%) and supports sodium-reduction claims for customers.",
+   "image": "",
+   "entities": [
+    "Technical University of Moldova",
+    "Ştefan cel Mare University of Suceava",
+    "Puratos"
+   ]
+  },
+  {
+   "id": "db5b6a8d9db7c41f",
+   "title": "Norway Expert Panel Proposes Graduated Sugar Tax on Chocolate and Soft Drinks",
+   "url": "https://www.global-agriculture.com/food-nutrition-wellness/norway-expert-panel-proposes-graduated-sugar-tax-on-chocolate-and-soft-drinks/",
+   "source": "Global Agriculture",
+   "kind": "news",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Europe",
+   "summary": "A Norwegian expert panel has proposed a graduated sugar tax that would hit chocolate and soft drinks according to sugar content.",
+   "why": "Graduated sugar taxes on chocolate would favour Belcolade's reduced-sugar ranges; Chocolate and Patisserie teams selling into Nordic markets should prepare reformulation options.",
+   "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Norway-Expert-Panel-Proposes-Graduated-Sugar-Tax-on-Chocolate-and-Soft-Drinks.jpg",
+   "entities": []
+  },
+  {
+   "id": "e4be406b43155ac6",
+   "title": "Replacing Eggs in Pâtisserie: The Five Jobs of the Egg and a Five-Replacer Framework from 129 Eggless Recipes",
+   "url": "https://doi.org/10.5281/zenodo.24098553",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 7,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Global / Unknown",
+   "summary": "A practitioner's framework from 129 eggless pâtisserie recipes breaks the egg into five jobs (structure, leavening, emulsification, moisture, richness) and shows that two or more replacers must be stacked.",
+   "why": "The five-job framework is a ready checklist for Patisserie's egg-replacement solutions and customer training on eggless cakes and pastries.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "8449b7d667c45b16",
+   "title": "FDA Revokes Authorizations of Substances for Use in Color Additive Production",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3lXMXBZaDRhR0x4ajh2UlJRUzFjLVJPYkE1djMyM1FpYXUxZlhoTE0xak5zenUwSmtTS3lhWENPWVpvQjUzejJHWDc0dUpJSjV2WmEzYzg4Yi1mRHdpWDB5VEZjYTdYbjhSV09sdG1fSVpOdnV1MUt2ZERYT0xzeU1zYVhCZDhvVlA5QThtMmtCV2R5WENndUlOR0Z0eWJSMkHSAacBQVVfeXFMTjd0OFBMWkE3OGZzQk8xTWdlaUphcDlRTjNsVGtjWHd3OERtTVBQcF9nS0pYZE5JbTh2Q3BRTTRRMGZtVHd3WTYzMjE2ME9XTHRFZncxellOd25La3FILW9iVVNtY2RxbzZ4WDlQZTlNTzF1RUpxYjloSW1VLUFsUVQxcnlVMl80c3dxTDBkVEVrd1M1bDhabGZyeEVGNi1kMTJMaFdjdjQ?oc=5",
+   "source": "The National Law Review",
+   "kind": "regulation",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 7,
+    "Chocolate": 4
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA has revoked authorisations for certain substances used to produce colour additives.",
+   "why": "Colour-related revocations add to US dye restrictions; Patisserie should check colour suppliers for decorations, glazes and fillings sold in the US.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "25dcab98555e6b2a",
+   "title": "Pandan rises as a standout in global flavor trends",
+   "url": "https://www.foodbusinessnews.net/articles/31335-pandan-rises-as-a-standout-in-global-flavor-trends",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 7,
+    "Chocolate": 3
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Global / Unknown",
+   "summary": "Pandan is emerging as a standout global flavour in launches, with pistachio and saffron also gaining.",
+   "why": "Pandan, pistachio and saffron are timely flavour cues for Patisserie fillings, creams and glazes.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/10/110926_Pandan.webp?t=1794416493",
+   "entities": []
+  },
+  {
+   "id": "12c8d191481ad6be",
+   "title": "Slideshow: The Hershey Co. doubles down on innovation",
+   "url": "https://www.foodbusinessnews.net/articles/31338-the-hershey-co-doubles-down-on-innovation",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 5,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Hershey has launched multi-texture bars, cheese puffs and baked-snack collaborations as it doubles down on innovation.",
+   "why": "Hershey's push into multi-texture bars and baked snacks signals competitor and customer demand for inclusions, fillings and coatings that Belcolade can supply.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/10/Slideshow-lead.webp?t=1794409307",
+   "entities": [
+    "The Hershey Company"
+   ]
+  },
+  {
+   "id": "ab0f3a019035ab6c",
+   "title": "Enhanced non-covalent interactions and structural reorganization in gluten networks enable low-glycemic bread with 30% modified rice bran",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.113590",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-04",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Health & Nutrition",
+   "region": "Global / Unknown",
+   "summary": "A Food Hydrocolloids study shows that 30% modified rice bran can be built into a gluten network to give a low-glycemic bread.",
+   "why": "Rice bran as an upcycled fibre for low-GI bread is worth tracking for Bakery's fibre-enrichment and health-claim pipeline.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "1af9cce9c42508e2",
+   "title": "Constructing quality from below: convention theory and regulatory alignment in the Colombian cocoa value chain",
+   "url": "https://doi.org/10.1080/00167223.2026.2755052",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Interviews with 22 Colombian cocoa stakeholders show how quality conventions (agroforestry, cadmium testing, traceability, fine-flavour recognition) are aligning the sector with EU deforestation and cadmium rules.",
+   "why": "Colombia's progress on EUDR and cadmium compliance makes it a candidate origin for Belcolade's diversified, traceable fine-flavour cocoa sourcing.",
+   "image": "",
+   "entities": [
+    "Alliance Bioversity International - CIAT",
+    "University of Copenhagen"
+   ]
+  },
+  {
+   "id": "5f54b7895d3c36c9",
+   "title": "AMA Adopts New Policy Aimed at Overhauling U.S. Food Additive Regulations",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcVhSMk00cWxCdi1aMGhVNVQ2eFlIMC1MUHNJdzhPRWJNb0thdWdQMTZpSHdEdU5TYzJtMzFVV3FUaDJ2VVVSZHllSVJWRkEyVWdxWURfTmVPSjNKTU9WbC1vRDl5WXp6ODhDY1Y1dy14cTRXaUotYnNxWVcxOUR0TkxMOERDQWFXM2NiUi0zbWZsV2F6eVZMR0pLY21kSUp5QlkwLWVPZlpkU3RCTnhCVk8tU19RTHdhdzNBaWpB?oc=5",
+   "source": "Florida Hospital News and Healthcare Report",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "The American Medical Association adopted a policy calling for an overhaul of US food additive regulation.",
+   "why": "AMA backing adds momentum to tighter US additive rules (GRAS, dyes); all units should map additives in North American formulations that could face scrutiny.",
+   "image": "",
+   "entities": [
+    "American Medical Association"
+   ]
+  },
+  {
+   "id": "7b4d23617c150efd",
+   "title": "AMA adopts policy aimed at overhauling U.S. food additive regulations",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVJGemlRMWpOc2NHQ2toa1RzVG9Bdmd6M3FJS1R5YlEyekVBOE56a3FmS2tHRnVQNFdSbzBqMTdzTmY1ZEJQSDBta2pYMTZsUFJia1NDTy1xdjRxanZaQU1Yc1VJTmROMlF5ajFrRmF4Ylo3SkctSDVpWUNfaUxDdE9QZ08wQTQ4TGwxQXBHVUpmaEQ3NEVsTkVldmRuUU5lSDlRVlM1ZUN6VUdJLVktRUM4azVvclBlT29POUJB?oc=5",
+   "source": "American Medical Association | AMA",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "AMA announcement of its newly adopted policy to overhaul US food additive regulation, including how substances are deemed safe.",
+   "why": "Medical-association pressure raises the odds of stricter GRAS and additive rules; Bakery, Patisserie and Chocolate should review self-affirmed GRAS ingredients in US products.",
+   "image": "",
+   "entities": [
+    "American Medical Association"
+   ]
+  },
+  {
+   "id": "bf045350b9e1b0d6",
+   "title": "Americans are already paying more for candy. Could El Niño make chocolate even costlier this Christmas, Va",
+   "url": "https://m.economictimes.com/world/us/el-nio-threatens-to-drive-up-chocolate-prices-for-christmas-valentines-day-and-easter-in-the-us/articleshow/135712251.cms",
+   "source": "The Economic Times",
+   "kind": "news",
+   "published": "2026-11-10",
+   "day": "2026-11-11",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "US candy prices are already rising, and El Niño weather threatens to push chocolate costs higher again this Christmas.",
+   "why": "Renewed cocoa-price pressure from El Niño supports demand for Belcolade compounds, cocoa extenders and cost-saving recipes from North American customers.",
+   "image": "https://img.etimg.com/thumb/msid-135712251,width-1200,height-900,imgsize-163710,overlay-economictimes/articleshow.jpg",
+   "entities": []
+  },
+  {
+   "id": "23ce03ab280065aa",
+   "title": "US industry and advocates split on GRAS reform as Democrats win Congress",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVVBd0w5dFhaendrazcwSFExRTNENlZUeHJ4akRjSWVMMXpyLWZvbGdBTmk1STlnWkpwa3UweDc0LUVvYUYycnM0bURzY3ZuWGxYdkFXcXJCdWFib1o0a1VoamdPcE9DN0p4WHNmRXpNazlwcXBQYUx5M2dLTVJnTFpHN29WczFsVkNkM09TdGQ4aUNH?oc=5",
+   "source": "Nutrition Insight",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "US industry and consumer advocates are split over GRAS reform, and Democrats winning Congress changes the outlook for legislation.",
+   "why": "A new Congress could accelerate GRAS reform; Puratos US should track bills and prepare safety dossiers for self-affirmed GRAS ingredients used in bakery, patisserie and chocolate.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "042429b228ce908b",
+   "title": "GFF’s Erin Ball slices into bread",
+   "url": "https://www.bakingbusiness.com/articles/67181-gffs-erin-ball-slices-into-bread",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Grain Foods Foundation's Erin Ball discusses a GFF study on what is behind slow US bread sales.",
+   "why": "Insight into why US bread sales are slowing helps Bakery shape its message and product ideas for North American industrial customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/02/110226_Erin-Ball.webp?t=1794373273",
+   "entities": [
+    "Grain Foods Foundation"
+   ]
+  },
+  {
+   "id": "3b50f5633fbeedca",
+   "title": "Upcycled Brewing Protein Ingredients: Duynie Transforms Brewers' Spent Grain into Protein",
+   "url": "https://www.trendhunter.com/trends/upcycled-brewing-protein-ingredients",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Duynie is turning brewers' spent grain into a protein ingredient.",
+   "why": "Upcycled spent-grain protein is a fibre/protein enrichment candidate for Bakery and a possible sourcing partner.",
+   "image": "",
+   "entities": [
+    "Duynie"
+   ]
+  },
+  {
+   "id": "f87fd3622ce2405f",
+   "title": "Teamsters to Hochul: GRAS bill must be vetoed",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFYzTEFhSU0yOG15Ym1BdG5udGhEMXlyNUgzVi16M2ZwMXpfWDFENjNlT0otNnB6VlVIQ19JWmN1N2xfQXFBcWFvM3pCNGdRNVo3UVpHRFNiS0ZGMmVLMFJ1bGNfS3ZvZDhXNlNnY0UzZTN0eVRNeEo2cVhPWmt4N3Q5RQ?oc=5",
+   "source": "Empire Report",
+   "kind": "regulation",
+   "published": "2026-11-11",
+   "day": "2026-11-11",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 4
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "The Teamsters are urging New York Governor Hochul to veto a state GRAS bill.",
+   "why": "A New York GRAS disclosure law would affect ingredient suppliers selling into the state; Puratos US should watch the veto decision.",
+   "image": "",
+   "entities": [
+    "Teamsters"
+   ]
+  }
+ ]
+}

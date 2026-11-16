@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-13",
+ "headline": "Amyris buys sweet-protein start-up Oobli; Cargill bakery sugar cuts; FDA GRAS rule prep",
+ "summary": [
+  "Amyris is acquiring California sweet-protein start-up Oobli to scale precision-fermented sweet proteins, creating a stronger potential partner for deep sugar reduction in Puratos fillings, creams and chocolate.",
+  "Cargill is pushing new sugar-reduction solutions into bakery, a direct competitive move against Puratos reformulation offerings that sales teams should benchmark.",
+  "A US start-up has launched a gluten-free cocoa extender, a cost-relief option Belcolade and fillings teams should evaluate amid high cocoa prices.",
+  "Regulatory: lawyers urge companies to prepare now for FDA's proposed end of self-affirmed GRAS, so Puratos should audit US ingredients that rely on it and plan notifications.",
+  "Danish start-up 21st.Bio has filed for EU approval of animal-free whey protein, a future dairy alternative for creams and fillings."
+ ],
+ "scanned": 64,
+ "items": [
+  {
+   "id": "4c096e7702e9b754",
+   "title": "Food challenge winner launches gluten-free cocoa extender",
+   "url": "https://www.snackandbakery.com/articles/116646-food-challenge-winner-launches-gluten-free-cocoa-extender",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-13",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 6,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "A US food-challenge winner has launched a gluten-free cocoa extender ingredient that partially replaces cocoa powder.",
+   "why": "Cocoa extenders directly address cocoa cost pressure; Belcolade and fillings teams should evaluate it as a possible partner or competitor.",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/11/12/kaffika-cookies.png?height=635&t=1794501349&width=1200",
+   "entities": []
+  },
+  {
+   "id": "8aa116b5e86ffebb",
+   "title": "Oobli: US Sweet Protein Startup Acquired by Precision Fermentation Player Amyris",
+   "url": "https://www.greenqueen.com.hk/oobli-sweet-protein-amyris-precision-fermentation-acquisition/",
+   "source": "greenqueen.com.hk",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-13",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 7
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "US precision-fermentation firm Amyris has agreed to acquire Oobli, a California start-up making precision-fermented sweet proteins for sugar reduction; terms undisclosed.",
+   "why": "Sweet proteins could enable deep sugar cuts in fillings, creams and chocolate; Amyris-Oobli scale-up makes a supply or co-development partnership more realistic.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2025/09/oobli-sweet-proteins-oubli-fruit-brazzein-fda-approval-letter-1.png",
+   "entities": [
+    "Amyris",
+    "Oobli"
+   ]
+  },
+  {
+   "id": "5e1c9516fba3054e",
+   "title": "Amyris to acquire Oobli in bid to scale sweet proteins for sugar reduction",
+   "url": "https://www.foodingredientsfirst.com/news/amyris-oobli-sweet-protein-acquisition.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-12",
+   "day": "2026-11-13",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 7
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Amyris is acquiring sweet-protein start-up Oobli to scale precision-fermented sweet proteins for sugar reduction.",
+   "why": "Same deal as the Green Queen report: a scaled sweet-protein supplier could be a partner for sugar-reduced fillings and chocolate.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639300922317209996Amyris_slider_image.jpg",
+   "entities": [
+    "Amyris",
+    "Oobli"
+   ]
+  },
+  {
+   "id": "ce2f20b914a9a806",
+   "title": "Amyris to acquire sweet protein company Oobli",
+   "url": "https://www.foodbusinessnews.net/articles/31343-amyris-to-acquire-sweet-protein-company-oobli",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 7
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Amyris will acquire Oobli, which makes fermentation-derived sweet proteins for sugar reduction.",
+   "why": "Duplicate coverage of the Amyris-Oobli deal; potential sweet-protein supplier for sugar-reduced patisserie and chocolate.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/13/sim-Emeryville---Two-Workers-Handling-Samples-In-Pilot-Plant.webp?t=1794581218",
+   "entities": [
+    "Amyris",
+    "Oobli"
+   ]
+  },
+  {
+   "id": "9e0c183554ca831b",
+   "title": "Sourdough Bioactives from Fermentation to Human Physiology: Biosynthesis, Bioavailability, Mechanisms and Clinical Evidence",
+   "url": "https://doi.org/10.33003/fjs-2026-1023-6519",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Middle East & Africa",
+   "summary": "Review of how sourdough fermentation generates bioactives (organic acids, phenolics, peptides, EPS, GABA) and the clinical evidence for their health effects.",
+   "why": "Useful evidence base for health claims and positioning of Sapore sourdough products.",
+   "image": "",
+   "entities": [
+    "University of Jos"
+   ]
+  },
+  {
+   "id": "ab5f8ed932874d7a",
+   "title": "Cargill targets sugar reduction sweet spots with bakery and beverage innovations",
+   "url": "https://www.foodingredientsfirst.com/news/cargill-sweetmirror-craftiva-sugar-reduction.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 4
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Cargill is promoting new sugar-reduction solutions targeting bakery and beverage applications.",
+   "why": "Cargill is a direct competitor in sugar reduction for baked goods and sweet fillings; monitor its offering against Puratos reformulation solutions.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639301666090820117hand_checking_cookies_on_production_line_in_factory.jpg",
+   "entities": [
+    "Cargill"
+   ]
+  },
+  {
+   "id": "cb76bdfb889d8533",
+   "title": "Helping Ghanian Cocoa Farmers Prove Properties are Deforestation-Free",
+   "url": "https://today.uconn.edu/2026/11/helping-ghanian-cocoa-farmers-prove-properties-are-deforestation-free/",
+   "source": "UConn Today",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "UConn researchers are helping Ghanaian cocoa farmers document that their farms are deforestation-free.",
+   "why": "Farm-level deforestation proof supports EUDR compliance for Belcolade cocoa sourcing from Ghana.",
+   "image": "https://today.uconn.edu/wp-content/uploads/2026/11/training2.jpg",
+   "entities": [
+    "University of Connecticut"
+   ]
+  },
+  {
+   "id": "46e4b63d43a1abb0",
+   "title": "Spray-Dried Microencapsulation of Endophytic Yeast Using Maltodextrin–Whey Protein to Enhance Dough Fermentation and Bread Quality",
+   "url": "https://doi.org/10.1080/15428052.2026.2754413",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-12",
+   "day": "2026-11-13",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Endophytic yeast was spray-dried in a maltodextrin-whey protein matrix to keep it viable and improve dough fermentation and bread quality.",
+   "why": "Encapsulated alternative leavening strains are a technology to watch for yeast and fermentation-starter offerings.",
+   "image": "",
+   "entities": [
+    "Prefectural University of Hiroshima",
+    "University of Brawijaya"
+   ]
+  },
+  {
+   "id": "c7b6e78bc39b0880",
+   "title": "News bites: Utz, Baker & Baker and Lantmännen Unibake in the M&A spotlight",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/11/13/bakery-and-snack-ma-utz-baker-baker-lantmannen-unibake-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Bakery and snack M&A roundup: a proposed US$2.9bn take-private of Utz, Baker & Baker acquisitions in free-from and frozen bread, and a CMA-ordered UK plant sale by Lantmannen Unibake.",
+   "why": "Consolidation among Puratos customers (frozen and free-from bread) can shift purchasing decisions; account teams should track the new owners.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/UHVLFQR7TVBPTOE2LRW5ICG7GU.jpg?auth=3cd39ebeecd8479e72bfcc4cb33ef166ec30ed67c4d102e53db4e1e6605dd0d9&smart=true&width=800&height=450",
+   "entities": [
+    "Utz",
+    "Baker & Baker",
+    "Lantmannen Unibake",
+    "CMA"
+   ]
+  },
+  {
+   "id": "f9a1aa9a98fbaa14",
+   "title": "FDA’s Proposed GRAS Rule: Why Companies Should Prepare Now",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1NLNkdXYThPTHlSQ2tkZkUxUC1MQzVibF9WZlItSVRwcWFqSWJkZFQxdkF0a2ZzcTU0WFdKSUtxbm04YzQ2bHRDeVFzRURoZkV3MEp2Y0Nwdm9aREJBX2ZLaC0wZzd2VnJsUHFrQXF4Y3BpRkpNZnEzX2NfVDlDUUtIb180aXp0YmlMMjhOTWR1aFVlWjY2R9IBmAFBVV95cUxQd1NLNkdXYThPTHlSQ2tkZkUxUC1MQzVibF9WZlItSVRwcWFqSWJkZFQxdkF0a2ZzcTU0WFdKSUtxbm04YzQ2bHRDeVFzRURoZkV3MEp2Y0Nwdm9aREJBX2ZLaC0wZzd2VnJsUHFrQXF4Y3BpRkpNZnEzX2NfVDlDUUtIb180aXp0YmlMMjhOTWR1aFVlWjY2Rw?oc=5",
+   "source": "The National Law Review",
+   "kind": "regulation",
+   "published": "2026-11-12",
+   "day": "2026-11-13",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Law firm commentary urges companies to prepare for FDA's proposed rule ending self-affirmed GRAS.",
+   "why": "US ingredient launches by Puratos and its suppliers may need FDA notification; regulatory teams should audit self-affirmed GRAS ingredients and plan dossiers.",
+   "image": "",
+   "entities": [
+    "FDA",
+    "The National Law Review"
+   ]
+  },
+  {
+   "id": "0fa213a87569813c",
+   "title": "21st.Bio Files for EU Approval of Animal-Free Whey Protein, Calls for Faster Regulation",
+   "url": "https://www.greenqueen.com.hk/21st-bio-precision-fermentation-beta-lactoglobulin-eu-approval-efsa-novel-food/",
+   "source": "greenqueen.com.hk",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-13",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 6,
+    "Chocolate": 3
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Danish start-up 21st.Bio has filed an EU application to sell precision-fermented beta-lactoglobulin (whey protein) and calls for a fast-track approval pathway.",
+   "why": "Animal-free whey could replace dairy proteins in creams and fillings once EU approval lands; worth tracking as a future supplier.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2026/11/21st-bio-precision-fermentation-beta-lactoglobulin-eu-approval-efsa-novel-food-1.png",
+   "entities": [
+    "21st.Bio"
+   ]
+  }
+ ]
+}

@@ -1,6 +1,447 @@
 {
- "updated": "2026-11-09T13:25Z",
+ "updated": "2026-11-16T13:24Z",
  "periods": [
+  {
+   "id": "2026-W46",
+   "kind": "week",
+   "label": "Nov 9 – 15, 2026",
+   "note": "",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "first_day": "2026-11-09",
+   "last_day": "2026-11-15",
+   "days": 7,
+   "scanned": 437,
+   "headline": "AB Enzymes sugar-tolerant enzyme; Amyris buys Oobli; Barry Callebaut Flavourcode; FDA revokes colour solvents",
+   "summary": [
+    "AB Enzymes followed Veron MaxiFresh with a sugar-tolerant anti-staling enzyme for sweet bakery such as brioche and sweet buns, a direct challenge to Puratos softness improvers that should be benchmarked with key industrial accounts.",
+    "Amyris is acquiring US sweet-protein start-up Oobli to scale precision-fermented sweet proteins, while Cargill pushed new sugar reduction into bakery, so Patisserie and Belcolade should test Oobli as a supplier and prepare a competitive answer to Cargill.",
+    "Barry Callebaut launched its Flavourcode flavour platform and published nine chocolate trends for 2027, and new cocoa extenders appeared from a US gluten-free start-up and a spent-coffee-grounds venture, all partner or competitor signals for Belcolade amid high cocoa costs.",
+    "An independent Moldovan-Romanian study found 1-2% Puratos Sapore inactive sourdough raised volume and softness in salt-free wheat bread, ready evidence for sodium-reduction selling alongside the clean-label sourdough launches from Hovis and Toufayan.",
+    "Regulatory: FDA revoked authorizations for three cancer-linked solvents used in colour additives, and New York's additive ban awaits a veto decision while FDA prepares to end self-affirmed GRAS, so US coloured icings, glazes and decorations and GRAS-reliant ingredients need auditing now."
+   ],
+   "summary_by": "claude",
+   "items": [
+    {
+     "id": "093da649bf67027b",
+     "title": "AB Enzymes targets bakery shelf life with new sugar-tolerant enzyme",
+     "url": "https://www.foodingredientsfirst.com/news/ab-enzymes-maxifresh-bakery-enzyme",
+     "source": "Food Ingredients First",
+     "kind": "news",
+     "published": "2026-11-12",
+     "day": "2026-11-12",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 9,
+      "Patisserie": 6,
+      "Chocolate": 0
+     },
+     "relevance": 9.0,
+     "horizon": "short",
+     "category": "Fermentation & Enzymes",
+     "region": "Europe",
+     "summary": "AB Enzymes has launched a sugar-tolerant enzyme aimed at extending the shelf life (anti-staling) of sweet bakery goods.",
+     "why": "Bakery: direct competitor launch in anti-staling enzymes for high-sugar doughs (brioche, sweet buns), the core of S500/softness ranges; benchmark it and check Puratos's sugar-tolerant enzyme claims.",
+     "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639300747783772303buns_slider_image.jpg",
+     "entities": [
+      "AB Enzymes"
+     ],
+     "coverage": 3
+    },
+    {
+     "id": "2bb4579fab0cad34",
+     "title": "Barry Callebaut unveils nine chocolate trends shaping confectionery innovation in 2027 and beyond",
+     "url": "https://www.comunicaffe.com/barry-callebaut-unveils-nine-chocolate-trends-shaping-confectionery-innovation-in-2027-and-beyond/",
+     "source": "Comunicaffe International",
+     "kind": "news",
+     "published": "2026-11-11",
+     "day": "2026-11-12",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 2,
+      "Patisserie": 6,
+      "Chocolate": 9
+     },
+     "relevance": 9.0,
+     "horizon": "short",
+     "category": "Market & Competitors",
+     "region": "Europe",
+     "summary": "Barry Callebaut has published nine chocolate trends it sees shaping confectionery innovation in 2027 and beyond.",
+     "why": "Chocolate: the leading competitor's trend agenda signals where Callebaut will push launches; compare with Taste Tomorrow insights to position Belcolade and patisserie offers.",
+     "image": "https://www.comunicaffe.com/wp-content/uploads/2018/11/barrycallebaut595x335_2-e1658477640851.jpg",
+     "entities": [
+      "Barry Callebaut"
+     ],
+     "coverage": 2
+    },
+    {
+     "id": "38bee7f1083dd6c9",
+     "title": "Barry Callebaut launches Flavourcode, opening a new chapter in chocolate flavor innovation",
+     "url": "https://www.foodtechbiz.com/business-updates/barry-callebaut-launches-flavourcode-opening-a-new-chapter-in-chocolate-flavor-innovation",
+     "source": "FoodTechBiz",
+     "kind": "news",
+     "published": "2026-11-09",
+     "day": "2026-11-10",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 1,
+      "Patisserie": 4,
+      "Chocolate": 9
+     },
+     "relevance": 9.0,
+     "horizon": "short",
+     "category": "Cocoa & Chocolate",
+     "region": "Europe",
+     "summary": "Barry Callebaut launched Flavourcode, presented as a new platform for chocolate flavour innovation.",
+     "why": "A competitor move in chocolate flavour design; Belcolade should assess how Flavourcode positions against its own cocoa fermentation and flavour offers.",
+     "image": "https://media.assettype.com/foodtechbiz%2F2026-11-09%2Fu6o5aohc%2FBarry-Callebaut-launches-Flavourcode%E2%84%A2-opening-a-new-chapter-in-chocolate-flavor-innovation-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "entities": [
+      "Barry Callebaut"
+     ],
+     "coverage": 1
+    },
+    {
+     "id": "61cb2e50c413714c",
+     "title": "Amyris: Acquisition Of Oobli To Expand Sweet Protein Technology And Precision Fermentation Capabilities",
+     "url": "https://pulse2.com/amyris-acquisition-of-oobli-to-expand-sweet-protein-technology-and-precision-fermentation-capabilities/",
+     "source": "Pulse 2.0",
+     "kind": "news",
+     "published": "2026-11-14",
+     "day": "2026-11-14",
+     "unit": "Patisserie",
+     "scores": {
+      "Bakery": 5,
+      "Patisserie": 8,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Sugar/Fat/Salt Reduction",
+     "region": "North America",
+     "summary": "Amyris is acquiring Oobli, a US start-up making sweet proteins by precision fermentation for sugar reduction.",
+     "why": "Consolidation in precision-fermented sweet proteins gives Patisserie and Chocolate a scaled supplier to evaluate for sugar-reduced fillings and chocolate; watch supply terms after the deal.",
+     "image": "https://cdn.pulse2.com/cdn/2026/11/Amyris-Logo.jpeg",
+     "entities": [
+      "Amyris",
+      "Oobli"
+     ],
+     "coverage": 5
+    },
+    {
+     "id": "4c096e7702e9b754",
+     "title": "Food challenge winner launches gluten-free cocoa extender",
+     "url": "https://www.snackandbakery.com/articles/116646-food-challenge-winner-launches-gluten-free-cocoa-extender",
+     "source": "Snack Food & Wholesale Bakery",
+     "kind": "news",
+     "published": "2026-11-12",
+     "day": "2026-11-13",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 3,
+      "Patisserie": 6,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Cocoa & Chocolate",
+     "region": "North America",
+     "summary": "A US food-challenge winner has launched a gluten-free cocoa extender ingredient that partially replaces cocoa powder.",
+     "why": "Cocoa extenders directly address cocoa cost pressure; Belcolade and fillings teams should evaluate it as a possible partner or competitor.",
+     "image": "https://www.snackandbakery.com/ext/resources/2026/11/12/kaffika-cookies.png?height=635&t=1794501349&width=1200",
+     "entities": [],
+     "coverage": 1
+    },
+    {
+     "id": "1a385dbef6cda325",
+     "title": "7 confectionery trends set to dominate 2027",
+     "url": "https://www.foodnavigator.com/Article/2026/11/10/7-confectionery-trends-set-to-dominate-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+     "source": "foodnavigator-usa.com",
+     "kind": "news",
+     "published": "2026-11-10",
+     "day": "2026-11-10",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 1,
+      "Patisserie": 5,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Market & Competitors",
+     "region": "North America",
+     "summary": "FoodNavigator-USA outlines seven confectionery trends for 2027, from multisensory textures and nostalgia to functional treats, premiumisation and sustainability.",
+     "why": "Trend map for Belcolade and fillings teams on where Mars, Mondelēz, Nestlé, Ferrero, Hershey and Lindt are heading.",
+     "image": "https://www.foodnavigator.com/resizer/v2/C5PITTS5CJDUZPDHRESN7VHFCA.jpg?auth=28f270f7dc53265e7df6f18289b3417da7085d96494fd187bb5ab635ca013473&smart=true&width=2119&height=1414",
+     "entities": [
+      "Mars",
+      "Mondelēz",
+      "Nestlé",
+      "Ferrero",
+      "Hershey"
+     ],
+     "coverage": 1
+    },
+    {
+     "id": "426019e92a94d483",
+     "title": "Natural mold inhibitors offer bakers stronger shelf-life protection",
+     "url": "https://www.bakingbusiness.com/articles/67221-natural-mold-inhibitors-offer-bakers-stronger-shelf-life-protection",
+     "source": "Baking Business",
+     "kind": "news",
+     "published": "2026-11-10",
+     "day": "2026-11-10",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 8,
+      "Patisserie": 5,
+      "Chocolate": 0
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Shelf-life & Food Safety",
+     "region": "North America",
+     "summary": "Baking Business reports natural mould inhibitors giving bakers stronger shelf-life protection.",
+     "why": "Clean-label mould inhibition is a core Puratos bakery need; use it to benchmark and position its own natural preservation solutions in the US.",
+     "image": "https://www.bakingbusiness.com/ext/resources/2026/11/10/1110-AdobeStock.jpg?height=635&t=1794320173&width=1200",
+     "entities": [],
+     "coverage": 1
+    },
+    {
+     "id": "537e9624ef548c3a",
+     "title": "Exploiting New Opportunities to Deliver High Fibre in White Bread and Other Bakery Products",
+     "url": "https://doi.org/10.1111/nbu.70074",
+     "source": "OpenAlex",
+     "kind": "paper",
+     "published": "2026-11-14",
+     "day": "2026-11-15",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 8,
+      "Patisserie": 3,
+      "Chocolate": 0
+     },
+     "relevance": 8.0,
+     "horizon": "mid",
+     "category": "Health & Nutrition",
+     "region": "Europe",
+     "summary": "UK expert meeting report on breeding wheat with higher soluble fibre in white flour and getting high-fibre white bread to consumers.",
+     "why": "High-fibre white flour wheat could reshape fibre-enrichment demand; Puratos Bakery could position improvers and partner with John Innes on high-DF flour bread performance.",
+     "image": "",
+     "entities": [
+      "John Innes Centre",
+      "Imperial College London",
+      "British Nutrition Foundation",
+      "Newcastle University"
+     ],
+     "coverage": 1
+    },
+    {
+     "id": "8da3cf2fd9819641",
+     "title": "Could old coffee grounds help offset high cocoa costs? This entrepreneur is betting on it",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2dacVA2NEFTNFJjT0dFc1lSZ054ODE1TWVzNERXTWpHSVJQNjM4dnJEOWhLX0VXZWk4OGNmelAxN1pTenJGWXd5R2diM1lpRVFBME1HU3l2ZHRLbl9tbHdoRXdOMlI2Snd2U1pleHJVMm5tN2lDeG96NkhraGdMNlJ4aFU5ZVZ2RUpvTFpSOXVBUEREakxGV3RzQ0hfdGtkdDVwcjZUWjUxakl0dldhaWc0N1p5TlctQXI3Y0RjT1RQcUhCLVVJb0ZBRHgxaUI4T1MtU2tUckc?oc=5",
+     "source": "CBC",
+     "kind": "news",
+     "published": "2026-11-14",
+     "day": "2026-11-15",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 1,
+      "Patisserie": 4,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "mid",
+     "category": "Cocoa & Chocolate",
+     "region": "North America",
+     "summary": "CBC profiles an entrepreneur developing a cocoa alternative made from spent coffee grounds to offset high cocoa costs.",
+     "why": "An upcycled coffee-ground cocoa replacer is a potential partnership or scouting target for Belcolade compound and cocoa-reduced products.",
+     "image": "",
+     "entities": [],
+     "coverage": 1
+    },
+    {
+     "id": "0c7c2578857d92c6",
+     "title": "Parallel microbial community successions during sourdough establishment in artisanal bakeries",
+     "url": "https://doi.org/10.1016/j.ferfo.2026.100028",
+     "source": "Crossref",
+     "kind": "paper",
+     "published": "2026-12",
+     "day": "2026-11-15",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 8,
+      "Patisserie": 1,
+      "Chocolate": 0
+     },
+     "relevance": 8.0,
+     "horizon": "long",
+     "category": "Fermentation & Enzymes",
+     "region": "Global / Unknown",
+     "summary": "Study tracking how microbial communities develop in parallel as sourdoughs are established in artisanal bakeries.",
+     "why": "Insight into sourdough establishment dynamics supports Sapore starter design and the Puratos sourdough library.",
+     "image": "",
+     "entities": [],
+     "coverage": 1
+    },
+    {
+     "id": "c09b19d8e5b41dfb",
+     "title": "Modulation of volatile aroma compounds by bean spreading preconditioning in fermented and dried cocoa beans from the Cameroonian Amelonado “German cocoa” variety",
+     "url": "https://doi.org/10.1016/j.jfca.2026.109685",
+     "source": "Crossref",
+     "kind": "paper",
+     "published": "2026-12",
+     "day": "2026-11-12",
+     "unit": "Chocolate",
+     "scores": {
+      "Bakery": 0,
+      "Patisserie": 0,
+      "Chocolate": 8
+     },
+     "relevance": 8.0,
+     "horizon": "mid",
+     "category": "Cocoa & Chocolate",
+     "region": "Middle East & Africa",
+     "summary": "Study of how spreading beans before fermentation (preconditioning) changes aroma compounds in fermented, dried Cameroonian Amelonado cocoa.",
+     "why": "Chocolate: post-harvest preconditioning is a practical lever for cocoa flavour; relevant to Belcolade origin and fermentation-driven flavour work.",
+     "image": "",
+     "entities": [],
+     "coverage": 1
+    },
+    {
+     "id": "d46d66ee64942e5a",
+     "title": "Effect of Different Types of Sourdough on Wheat Dough Rheology and Bread Quality",
+     "url": "https://doi.org/10.3390/app162211145",
+     "source": "OpenAlex",
+     "kind": "paper",
+     "published": "2026-11-10",
+     "day": "2026-11-11",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 8,
+      "Patisserie": 2,
+      "Chocolate": 0
+     },
+     "relevance": 8.0,
+     "horizon": "mid",
+     "category": "Fermentation & Enzymes",
+     "region": "Europe",
+     "summary": "Moldovan and Romanian researchers tested four commercial inactive sourdoughs (Puratos Sapore Rigoletto, Medea, Othello, Traviata) at 1-4% in salt-free wheat bread, measuring rheology, volume, texture, colour, sodium and sensory acceptance. Low doses (1-2%) improved gas production, volume and softness; higher doses firmed the crumb.",
+     "why": "Independent data on Puratos's own Sapore range in salt-free bread gives Bakery usable dosage guidance (1-2%) and supports sodium-reduction claims for customers.",
+     "image": "",
+     "entities": [
+      "Technical University of Moldova",
+      "Ştefan cel Mare University of Suceava",
+      "Puratos"
+     ],
+     "coverage": 1
+    }
+   ],
+   "regulatory": [
+    {
+     "id": "b97406db341ddc45",
+     "title": "FDA Revokes Authorizations for Certain Chemicals Used in Food Color Additives",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmtqZnVaYk5mYVZpYmprZl9iR1lkb3I2OHhhNEpXaXdGa3NtbHpyLXV6clR6dllETmd2VkJsNklTOUJTYWRjUEdwNGl0SWNmRDJfSkdqX3c4MThUc1FYWG52WjRjenc0b0RiR0o3LWpGSGVlc1hncC10VFNtcDFRYVFlN09DMTlZV2dhQ2VRTUdlUGt5bE1vX3hFa2dFNmV3aTdMV2pUWlFZSDU1VWZTUXNmd2FSTy03VGI0bw?oc=5",
+     "source": "Food Safety Magazine",
+     "kind": "regulation",
+     "published": "2026-11-09",
+     "day": "2026-11-09",
+     "unit": "Patisserie",
+     "scores": {
+      "Bakery": 5,
+      "Patisserie": 8,
+      "Chocolate": 6
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Regulatory & Policy",
+     "region": "North America",
+     "summary": "FDA has revoked authorizations for certain chemicals used in food color additives.",
+     "why": "Puratos's colored glazes, icings, fillings and decorations in the US need checking against the revoked substances and reformulating where affected.",
+     "image": "",
+     "entities": [
+      "FDA"
+     ],
+     "coverage": 8
+    },
+    {
+     "id": "6e9eff7a7ebb7417",
+     "title": "Industry Urges Hochul to Veto NY Food Additive Ban Over $620 Cost Claim",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVVkWnNiX09XXzFIalpza3lINkJhQmtmVFdjeTVwd2tQLWpPLXVwdzNTdGtvYkpVQ1ZDdHF0WHMtNGRHMEJEYWVMRHR2cXlQaHFuRVdjRWQteEgwV3dSdzdiU3Q3cndGRkRmdTJoZnctZGJUMm9EUHpOelNKMUpzaHVfOXZWSF81NTZEWWs4OUx5Umh4ajlaMnd6NmhyTzVqM1IxaTNqbUlXejJhS0t0UFQtM1BCeFpwQllQVzBiZGE5Zw?oc=5",
+     "source": "Bushwick Daily",
+     "kind": "regulation",
+     "published": "2026-11-11",
+     "day": "2026-11-12",
+     "unit": "Patisserie",
+     "scores": {
+      "Bakery": 6,
+      "Patisserie": 8,
+      "Chocolate": 6
+     },
+     "relevance": 8.0,
+     "horizon": "short",
+     "category": "Regulatory & Policy",
+     "region": "North America",
+     "summary": "Industry groups are urging New York Governor Hochul to veto a food additive ban, citing a $620 cost per household claim.",
+     "why": "Patisserie and Chocolate: if signed, New York's additive ban (likely including synthetic dyes and other additives) would force reformulation of coloured icings, decorations and coatings sold there; prepare natural-colour alternatives for US customers.",
+     "image": "",
+     "entities": [
+      "New York State"
+     ],
+     "coverage": 1
+    },
+    {
+     "id": "50f91ae5a7cf6020",
+     "title": "Lewis Bake Shop Keto Bread “0g Sugar” Lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFlnTFl4Ml9lUVZkcVNRUnNqZmtYd25HTW5ZcXd5QUs2TWRnR0trb2p4UGlNZXpiRGdkZlJ5RmxLYmN5dHVRZGZ1VHYzNXJfODBmVWRER2dCUU4xb3k4MXFlQU9DdGpzV2dQNDZwMk1ZX1duM1VXSEdfRWNtZDAyZUhHeHd1QkRZTEhPNk1IVXVnRHd0VTc0dmlUZTVPVlAwNWZ3WGZ1QnV0NFVyYU1Iam03MmhvRVk5aDd5cmZmckZWeHM?oc=5",
+     "source": "openclassactions.com",
+     "kind": "regulation",
+     "published": "2026-11-14",
+     "day": "2026-11-15",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 7,
+      "Patisserie": 3,
+      "Chocolate": 1
+     },
+     "relevance": 7.0,
+     "horizon": "short",
+     "category": "Regulatory & Policy",
+     "region": "North America",
+     "summary": "Class action against Lewis Bake Shop alleging its keto bread's '0g sugar' label is misleading.",
+     "why": "US keto/low-sugar bread makers face litigation risk on sugar claims; Puratos Bakery should help customers substantiate sugar claims (including sugars formed during baking) when supplying sugar-reduction solutions.",
+     "image": "",
+     "entities": [
+      "Lewis Bake Shop"
+     ],
+     "coverage": 1
+    },
+    {
+     "id": "5f54b7895d3c36c9",
+     "title": "AMA Adopts New Policy Aimed at Overhauling U.S. Food Additive Regulations",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcVhSMk00cWxCdi1aMGhVNVQ2eFlIMC1MUHNJdzhPRWJNb0thdWdQMTZpSHdEdU5TYzJtMzFVV3FUaDJ2VVVSZHllSVJWRkEyVWdxWURfTmVPSjNKTU9WbC1vRDl5WXp6ODhDY1Y1dy14cTRXaUotYnNxWVcxOUR0TkxMOERDQWFXM2NiUi0zbWZsV2F6eVZMR0pLY21kSUp5QlkwLWVPZlpkU3RCTnhCVk8tU19RTHdhdzNBaWpB?oc=5",
+     "source": "Florida Hospital News and Healthcare Report",
+     "kind": "regulation",
+     "published": "2026-11-11",
+     "day": "2026-11-11",
+     "unit": "Bakery",
+     "scores": {
+      "Bakery": 6,
+      "Patisserie": 6,
+      "Chocolate": 5
+     },
+     "relevance": 6.0,
+     "horizon": "mid",
+     "category": "Regulatory & Policy",
+     "region": "North America",
+     "summary": "The American Medical Association adopted a policy calling for an overhaul of US food additive regulation.",
+     "why": "AMA backing adds momentum to tighter US additive rules (GRAS, dyes); all units should map additives in North American formulations that could face scrutiny.",
+     "image": "",
+     "entities": [
+      "American Medical Association"
+     ],
+     "coverage": 2
+    }
+   ]
+  },
   {
    "id": "2026-W45",
    "kind": "week",
