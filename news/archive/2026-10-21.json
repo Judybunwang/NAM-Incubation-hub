@@ -1,0 +1,1003 @@
+{
+ "date": "2026-10-21",
+ "headline": "Galy brings lab-grown cocoa chocolate to US; bakers add fiber; FDA clears salt substitutes",
+ "summary": [
+  "Galy will launch cell-cultured cocoa chocolate (WunderHaus) in the US in December: the first funded cocoa-alternative brand reaching this market, and both a partnership lead and a competitive signal for Belcolade.",
+  "Fibre is the bakery story of the day: Grupo Bimbo and Calise are adding fibre to everyday bread and rolls, a direct opening for Puratos fibre-enrichment solutions in North America.",
+  "Regulatory: FDA will allow salt substitutes in 139 standardized foods from December 14, 2026, giving bakery customers room to cut sodium, while HHS pressure on ultra-processed foods favours clean-label, fewer-additive formulations.",
+  "MOA Foodtech and Espiga I+D are partnering on egg replacement for bakery, a competitive signal for Patisserie's egg-replacer offer.",
+  "Science to watch: new sourdough starter consortia and an upcycled apple-pomace sourdough ingredient point to differentiated flavour and clean-label shelf life for Sapore."
+ ],
+ "scanned": 244,
+ "items": [
+  {
+   "id": "87b1f5153f49103a",
+   "title": "Exclusive: Galy Expands Cell Culture Tech to Cocoa with US Launch of WunderHaus Chocolate Brand",
+   "url": "https://www.greenqueen.com.hk/galy-plant-cell-culture-cocoa-wunderhaus-chocolate-lab-grown-cotton/",
+   "source": "Green Queen Media",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Boston biotech Galy (backed by Bill Gates and Sam Altman) is entering cell-cultured cocoa with the WunderHaus chocolate brand, launching in the US in December and the UAE in 2027.",
+   "why": "A funded US cocoa-alternative player going to market now: a partnership or supply option for cocoa-free Belcolade lines, and a competitive signal.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2026/10/galy-plant-cell-culture-cocoa-wunderhaus-chocolate-lab-grown-cotton-boston-social.png",
+   "entities": [
+    "Galy",
+    "WunderHaus"
+   ]
+  },
+  {
+   "id": "175ef1b1089bb9cf",
+   "title": "MOA Foodtech and Espiga I+D partner on egg replacement for bakery",
+   "url": "https://www.theplantbasemag.com/news/moa-foodtech-and-espiga-i-d-partner-on-egg-replacement-for-bakery",
+   "source": "theplantbasemag.com",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Spanish start-up MOA Foodtech and Espiga I+D partner on egg replacement for bakery.",
+   "why": "A start-up partnership targeting egg replacement in bakery and cakes: a direct competitive and partnership signal for Patisserie.",
+   "image": "https://static.wixstatic.com/media/ddab84_c91238b37e4b43ef90e8c791a4552a4e~mv2.png/v1/fill/w_430,h_235,al_c/ddab84_c91238b37e4b43ef90e8c791a4552a4e~mv2.png",
+   "entities": [
+    "MOA Foodtech",
+    "Espiga I+D"
+   ]
+  },
+  {
+   "id": "5c0c421c236c5242",
+   "title": "Grupo Bimbo focused on adding fiber to portfolio",
+   "url": "https://www.foodbusinessnews.net/articles/31205-grupo-bimbo-focused-on-adding-fiber-to-portfolio",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-10-19",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Grupo Bimbo is adding fibre across its portfolio, moving white bread toward 'fibre source' status.",
+   "why": "The largest NA baker pushing fibre into white bread is a direct opportunity for fibre-enrichment solutions.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/10/19/AdobeStock_529203032_Editorial_Use_Only-%281%29.jpg?height=635&t=1792412914&width=1200",
+   "entities": [
+    "Grupo Bimbo"
+   ]
+  },
+  {
+   "id": "f7068a7049aaab07",
+   "title": "FDA Rule Will Allow Salt Substitutes in 139 Standardized Foods Starting December 14, 2026",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORno5QXlWSE4wN0d3RjlOVjJ6RWVyems1QUJGQ1EwcXN3YlVVUXpDSHZBN1c4dllmQTBKdTgwRjBiWHlxUmt0VlhtYkhYb1l3U1F5YXdlMDZFT0ZtZF9LR3Z1Q3VjbWp4U0QyVXc4aFl1YnU1QTNoRmowLVhUendRRDlTMWhHdEltTUdpSWE3dG5UNHo0SnZzM0lFcFlaYzlTbW12d0lNVWgzQVFmVmJPX0tn?oc=5",
+   "source": "Hoodline",
+   "kind": "regulation",
+   "published": "2026-10-19",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 3,
+    "Chocolate": 2
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "An FDA rule lets manufacturers use salt substitutes in 139 standardized foods from December 14, 2026.",
+   "why": "Standardized breads and rolls are among the foods with salt in their standard, so bakery customers get a clear path to sodium reduction; a sell-in moment for salt-reduction solutions.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "33898e169f82ac0f",
+   "title": "Upcycling apple pomace into a type III sourdough ingredient: effects on nutritional quality, antioxidant activity and bread shelf-life",
+   "url": "https://doi.org/10.1007/s00217-026-05333-z",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Latin America",
+   "summary": "Brazilian researchers fermented apple pomace with L. plantarum into a type III sourdough ingredient; at 15-20% it raised fibre and antioxidants and extended mold-free shelf life of wheat bread.",
+   "why": "An upcycled, clean-label sourdough ingredient that adds fibre and shelf life fits the Sapore/O-tentic range; worth tracking as a formulation idea.",
+   "image": "",
+   "entities": [
+    "IFRS",
+    "UFRGS"
+   ]
+  },
+  {
+   "id": "1dcd5b6dfc176cac",
+   "title": "Modulation of cocoa fermentation by co-inoculation of Pichia kluyveri CCMA0237 and Hanseniaspora uvarum CCMA0236: targeted chemical profiling and chocolate quality",
+   "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112040",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-01",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Co-inoculating Pichia kluyveri and Hanseniaspora uvarum starter yeasts steered cocoa fermentation chemistry and improved chocolate quality.",
+   "why": "Starter cultures for cocoa fermentation are a lever for Belcolade flavour consistency and origin programmes.",
+   "image": "",
+   "entities": [
+    "CCMA (UFLA)"
+   ]
+  },
+  {
+   "id": "d621ade3cb4f1954",
+   "title": "Chocolate has a new problem. And it’s not cocoa prices",
+   "url": "https://www.foodnavigator.com/Article/2026/10/21/how-heatwaves-are-reshaping-the-future-of-chocolate/",
+   "source": "FoodNavigator.com",
+   "kind": "news",
+   "published": "2026-10-21",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Heatwaves are hitting cocoa supply and consumer demand; manufacturers are adapting formats and retail to protect sales.",
+   "why": "Heat-resistant chocolate and format innovation is an opportunity for Belcolade customers.",
+   "image": "https://www.foodnavigator.com/resizer/v2/YHNXOHT5JFH55LL57QXI4ODC6A.jpg?auth=e0fca15e156d712448db9436390dc04d285484250abf8d4f9edc615b0e4ca45a&width=1200&height=630&smart=true",
+   "entities": []
+  },
+  {
+   "id": "78ba5850b6a8eddf",
+   "title": "Cross-feeding and stress response are the basis of increased fruitiness and leavening capacity of a new consortium of the sourdough microorganisms Companilactobacillus crustorum and Wickerhamomyces anomalus",
+   "url": "https://doi.org/10.1016/j.fm.2026.105163",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "A new sourdough consortium (C. crustorum + W. anomalus) gives fruitier flavour and better leavening through cross-feeding and stress response.",
+   "why": "A candidate starter culture for differentiated sourdough flavour; worth contacting the authors for Sapore.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "a54335ff3cd25c85",
+   "title": "From bean to bar 5.0: Artificial intelligence, sensing technologies and robotics across the cocoa–chocolate value chain",
+   "url": "https://doi.org/10.1016/j.tifs.2026.106022",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Digital & AI",
+   "region": "Global / Unknown",
+   "summary": "Review of AI, sensing and robotics across the cocoa–chocolate value chain ('bean to bar 5.0').",
+   "why": "A roadmap for digitalising Belcolade sourcing and processing.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "048bbdddc44ce824",
+   "title": "Kemin guide offers roadmap to clean-label baking",
+   "url": "https://www.snackandbakery.com/articles/116501-kemin-guide-offers-roadmap-to-clean-label-baking",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Kemin published a guide for clean-label bakery reformulation.",
+   "why": "Competitor move in clean-label bakery; worth reviewing to benchmark Puratos's own clean-label messaging.",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/10/20/lady-with-bread.jpg?height=635&t=1792526699&width=1200",
+   "entities": [
+    "Kemin"
+   ]
+  },
+  {
+   "id": "edf48615243c7eb3",
+   "title": "Calise Bakery introduces higher fiber rolls",
+   "url": "https://www.bakemag.com/articles/22140-calise-bakery-introduces-higher-fiber-rolls",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-10-21",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "US bakery Calise launched higher-fibre rolls with lower net carbs, more protein and no artificial colours.",
+   "why": "Shows NA demand for high-fibre, lower-carb rolls; a sell-in angle for fibre and protein bread solutions.",
+   "image": "https://www.bakemag.com/ext/resources/2026/10/20/102026_Calise-Higher-Fiber-Rolls.jpg?height=635&t=1792592735&width=1200",
+   "entities": [
+    "Calise Bakery"
+   ]
+  },
+  {
+   "id": "401c3a3657cbc356",
+   "title": "RFK Jr. Reportedly Pressing Agenda on Ultra-Processed Foods",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjItSTEwUGowalZhdW10cFJTTExBQ2hHa1ViOGRrNy14M1JaWm5hWElUWjJrSXFlVjhjWjdMS2w3UHBNNUcxNmJOMmU0RHlFNmpEMi0wNzBWc2RGRXIyM0xjYkdHQ3gySThreVV4c2pSb1EwWmI4ZW51OEM0SkV5aGttdGNuNG1ZTjhDZA?oc=5",
+   "source": "Meatingplace",
+   "kind": "regulation",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "HHS Secretary RFK Jr. is reportedly pushing an agenda on ultra-processed foods.",
+   "why": "A federal ultra-processed definition or labelling push would hit packaged bread, cakes and confectionery; clean-label, fewer-additive solutions gain value.",
+   "image": "",
+   "entities": [
+    "HHS"
+   ]
+  },
+  {
+   "id": "e7146d2e89cea47b",
+   "title": "Louisville-developed sourdough appliance named one of Time's Best Inventions of 2026",
+   "url": "https://www.bizjournals.com/louisville/news/2026/10/20/sourdough-sidekick-time-invention-year-firstbuild.html",
+   "source": "The Business Journals",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Processing & Automation",
+   "region": "North America",
+   "summary": "A Louisville-developed sourdough appliance was named one of Time's Best Inventions of 2026.",
+   "why": "Consumer sourdough automation is gaining mainstream attention; a possible partner or channel for Sapore starters.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "3a0bf4baafc99a90",
+   "title": "Antimicrobial mechanism of Lactiplantibacillus plantarum LWQ17 against roping-forming Bacillus species and its application in preventing rope spoilage of Chinese steamed bread",
+   "url": "https://doi.org/10.1016/j.foodcont.2026.112627",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-03",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Asia-Pacific",
+   "summary": "A L. plantarum strain inhibits rope-forming Bacillus and prevents rope spoilage in steamed bread.",
+   "why": "Natural rope prevention is a clean-label alternative to propionate for Bakery shelf-life solutions.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "b9894102f5df3ef3",
+   "title": "Use of starch-modifying enzymes for enhanced bread quality and reduced in vitro starch hydrolysis",
+   "url": "https://doi.org/10.1016/j.jcs.2026.104569",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Starch-modifying enzymes improved bread quality and lowered in-vitro starch digestibility.",
+   "why": "Enzymes that both improve bread and lower glycemic response fit the S500 improver line.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "199cf77e24603112",
+   "title": "Keeping surplus bread in the food system: Environmental and economic assessment of on-site upcycling in industrial bakeries",
+   "url": "https://doi.org/10.1016/j.clfs.2026.100048",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Environmental and economic assessment of upcycling surplus bread on site at industrial bakeries.",
+   "why": "Bread-waste upcycling is a service and ingredient opportunity for industrial bakery customers.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "bd4b81f1f100f1d3",
+   "title": "Preparation and application of soy protein isolate-filled sucrose composite particles in sugar-reduced chocolate via protein-mediated morphological modulation",
+   "url": "https://doi.org/10.1016/j.foodres.2026.120427",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Asia-Pacific",
+   "summary": "Soy-protein-filled sucrose composite particles cut sugar in chocolate while keeping sweetness.",
+   "why": "A structured-sugar approach for sugar-reduced Belcolade lines; worth monitoring for licensing.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "0a0cfe9c3a23c886",
+   "title": "Unveiling the impact of mixed-strain solid-state fermentation on wheat bran dietary fiber: gluten protein structure evolution, dough rheological modulation and steamed bread quality enhancement",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.113332",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-04",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Study of mixed-strain solid-state fermentation of wheat bran fibre and its effects on gluten structure, dough rheology and steamed bread quality.",
+   "why": "Fermented bran is a route to high-fibre bread without the usual volume loss, relevant to Bakery fibre enrichment.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "2891b2a5d7929f1a",
+   "title": "Effects of lactic acid bacteria and yeast co-fermentation in sourdough on the quality of whole-wheat bread",
+   "url": "https://doi.org/10.1016/j.fbio.2026.110295",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Research on LAB and yeast co-fermentation in sourdough to improve whole-wheat bread quality.",
+   "why": "Supports Bakery's sourdough and whole-grain portfolio with strain-pairing data.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "f1b8b0c05571a512",
+   "title": "Mixed-culture lactic acid fermentation attenuates bitterness and lowers the in vitro glycemic potential of Tartary buckwheat sourdough bread",
+   "url": "https://doi.org/10.1016/j.fbio.2026.110124",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Mixed-culture lactic fermentation reduced bitterness and in-vitro glycemic potential of Tartary buckwheat sourdough bread.",
+   "why": "Low-GI sourdough from alternative grains matches Bakery's health and sourdough priorities.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "ab5bb90bb154f836",
+   "title": "Cocoa and Chocolate Processing: Quality Changes, Monitoring Approaches, and Opportunities for Rapid and Non-Destructive Analysis Using Near Infrared Spectroscopy and Hyperspectral Imaging",
+   "url": "https://doi.org/10.1080/87559129.2026.2750436",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Digital & AI",
+   "region": "Latin America",
+   "summary": "UNICAMP review of quality changes across cocoa/chocolate processing and NIR/hyperspectral imaging for rapid, non-destructive monitoring.",
+   "why": "Inline NIR/HSI could tighten Belcolade process control; a good primer for plant digitalisation.",
+   "image": "",
+   "entities": [
+    "UNICAMP"
+   ]
+  },
+  {
+   "id": "360d37c525eda748",
+   "title": "Development and evaluation of oat β-glucan enriched white wheat bread: physicochemical properties, sensory acceptance and effects on cardiometabolic risk markers in mildly hypercholesterolemic subjects with overweight/obesity.",
+   "url": "https://doi.org/10.1039/d6fo02784a",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-10-19",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Europe",
+   "summary": "Greek clinical study: oat beta-glucan white bread (2.1 g/100 g) kept good sensory scores and improved lipid and inflammatory markers in overweight adults.",
+   "why": "Clinical evidence for beta-glucan white bread supports health-claim-ready Bakery solutions; industry partner ELBISCO shows commercial interest.",
+   "image": "",
+   "entities": [
+    "Harokopio University",
+    "ELBISCO"
+   ]
+  },
+  {
+   "id": "9acd6b3320584421",
+   "title": "Lactic acid bacterium F. sanfranciscensis impairs fitness of yeast M. humilis in a synthetic wheat sourdough medium",
+   "url": "https://doi.org/10.1128/aem.01030-26",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-10-21",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "INRAE/Melbourne study shows the sourdough bacterium F. sanfranciscensis reduces fitness of the yeast M. humilis, overturning the assumed cross-feeding relationship.",
+   "why": "Fundamental insight for designing stable sourdough starter consortia (Sapore).",
+   "image": "",
+   "entities": [
+    "INRAE",
+    "University of Melbourne"
+   ]
+  },
+  {
+   "id": "b7da5aa9cce78821",
+   "title": "Foam-templated dual-network oleogels based on soybean protein isolate-κ-carrageenan and glycerol monostearate for partial cocoa butter replacement in a model chocolate",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151409",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Global / Unknown",
+   "summary": "Soy protein–carrageenan foam oleogels as partial cocoa butter replacement in model chocolate.",
+   "why": "Cocoa butter replacers are strategic with cocoa prices high; early-stage but on-theme for Chocolate.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "cbfed167010cad28",
+   "title": "Beyond cocoa butter: How partial substitution with cocoa butter extenders reshapes temporal dominance of sensations and aroma release in chocolate",
+   "url": "https://doi.org/10.1016/j.foodres.2026.120345",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Sensory study of how cocoa butter extenders change taste dominance and aroma release in chocolate.",
+   "why": "Helps Chocolate gauge consumer-visible trade-offs of CBEs in cost-optimised recipes.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "415d3a9b610bc503",
+   "title": "GLP-1 consumers still enjoying chocolate and candy",
+   "url": "https://www.bakemag.com/articles/22132-glp-1-consumers-still-enjoying-chocolate-and-candy",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-10-19",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "NCA research finds GLP-1 users remain engaged with chocolate and candy.",
+   "why": "GLP-1 consumers still buy chocolate; supports portion-controlled and better-for-you Belcolade formats.",
+   "image": "https://www.bakemag.com/ext/resources/2026/10/19/AdobeStock_ChocolateChipCookies.jpg?height=635&t=1792426856&width=1200",
+   "entities": [
+    "National Confectioners Association"
+   ]
+  },
+  {
+   "id": "04bc86bbf0f533a4",
+   "title": "Hershey, WCS launch $2.5m drive for deforestation-free Nigerian cocoa",
+   "url": "https://businessamlive.com/hershey-wcs-launch-2-5m-drive-for-deforestation-free-nigerian-cocoa/",
+   "source": "Businessamlive",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Sustainability & Upcycling",
+   "region": "Middle East & Africa",
+   "summary": "Hershey and WCS launched a $2.5m programme for deforestation-free Nigerian cocoa.",
+   "why": "Competitor sustainability sourcing move; relevant benchmark for Cacao-Trace.",
+   "image": "https://businessamlive.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4babs34babs34bab-1.jpg",
+   "entities": [
+    "Hershey",
+    "Wildlife Conservation Society"
+   ]
+  },
+  {
+   "id": "749666f3a13dfefc",
+   "title": "FDA Proposes Enforcement Discretion for Small Retailers and Restaurants Under the Food Traceability Rule",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGhSQmhlZUk0OHBpdGFZZ2dTY1ZLajZCcDlXSjg3QVhUZ2E5cFpmb1pEUjRrb3RqQ1ltQkJRZ1BwM0RfTEsydGhFRkVTbjdNRmMxVFRsTmVIS2t1eXB2V0xqdVVjR2xmRVduS094bUlFWkJCdmhOanU4aE9fUlVRcnprekFndTJOLXZFUVJQT2hqUEV2YWU1TGh2RmwxOW1Jam45LWdvdGZCQTJQSVVMUtIBtgFBVV95cUxNUUJvc3Jlb2xmZ2FIV3dNWmdHMlNrVUJPeldPSVQxT24xUkdnY3d0OW5kb2JHNm1YOFNQX29YOFlaM0hKRUE3TThPUXFUSW5lZ1p2YWpnM2M4Z2tCSDc5UmNpSjJ5UXBBTGlhbFUwWU5PVy1NNndGLTlzWFlwdXdCOEtBYVdXZTNyU3B1NUVxUWM1SjZzTmxSakZIWjFWMGRucHI1ZW5mRHBSRmdmWDE1Y3k0T2YzQQ?oc=5",
+   "source": "The National Law Review",
+   "kind": "regulation",
+   "published": "2026-10-19",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 4
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA proposed enforcement discretion for small retailers and restaurants under the FSMA 204 food traceability rule.",
+   "why": "Eases traceability work for some in-store bakery and foodservice customers, but larger customers will keep asking suppliers like Puratos for lot-level records.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "9356ee0b2b03630f",
+   "title": "What neuroscience reveals about functional bread",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/10/21/how-brain-science-can-guide-functional-bread-development/",
+   "source": "BakeryAndSnacks.com",
+   "kind": "news",
+   "published": "2026-10-21",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Europe",
+   "summary": "How brain-activity measurement could help bakers understand reactions to functional bread texture, flavour and messaging.",
+   "why": "Neuroscience-based sensory testing could strengthen Taste Tomorrow insights for functional bread.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/AHMN67UZPBALLBZDPCNQHVHKIA.jpg?auth=607860c0be44f2f5900ecaadcc7a804bdefa821a52ee77f6cd548a8fb9ac8d6f&width=1200&height=630&smart=true",
+   "entities": []
+  },
+  {
+   "id": "1af342f7064cb0f4",
+   "title": "APAC cocoa trends: ‘Worst is past’, but risks remain",
+   "url": "https://www.foodnavigator.com/Article/2026/10/20/apac-cocoa-trends-worst-is-past-but-risks-remain/",
+   "source": "FoodNavigator.com",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "FoodNavigator: APAC cocoa market says the worst is past, but risks remain.",
+   "why": "Cocoa price outlook affects Belcolade costing and customer demand for cocoa-saving recipes.",
+   "image": "https://www.foodnavigator.com/resizer/v2/WWWEV2HBNVDBTJFUMB3GFBUEV4.jpg?auth=c6f3c328660e3fc33d024e77316609e5a3a06a3fade5c78fe82feb1201b89ee9&width=1200&height=630&smart=true",
+   "entities": []
+  },
+  {
+   "id": "5c7f48f12f57cb73",
+   "title": "California Standardizes Food Date Labels: The First Statewide Mandate and What's Next",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmJjZXBRVloyUWJwWm83dnVmbWJlMnpaWGk3blhFcjBvc3ZmbnNZaDQzZ3cxRGZQUDRydEkzbktmRktMSUFWMVdKRjRFVUtqbk1GWXFlMFBnb2MtZGlndGp6MFgteGF6TXBpX3BKZGFwVW90enJ1dm1kQmFkUU1pdEN6STdMNEQ0a2ZtRFRhRk9UaXcyaVh1SmdTcFdyRFpBYWR1dUt2RlBsb1R1SVZhQ1FRcXptYnBsVDhUcmYxOWpQdw?oc=5",
+   "source": "Nutritional Outlook",
+   "kind": "regulation",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 3
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "California is the first state to mandate standardized food date labels.",
+   "why": "Packaged bakery customers selling in California must switch to standard date wording, which ties into shelf-life claims and Puratos shelf-life solutions.",
+   "image": "",
+   "entities": [
+    "State of California"
+   ]
+  },
+  {
+   "id": "315afc0914ee23ea",
+   "title": "Same, same, but different: An updated overview of legal definitions of sourdough and sourdough breads in Europe",
+   "url": "https://doi.org/10.1016/j.ferfo.2026.100024",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "Updated overview of legal definitions of sourdough and sourdough bread across Europe.",
+   "why": "Labelling rules directly affect how Sapore-based breads can be marketed; useful for regulatory teams.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "1b6440f71f189782",
+   "title": "Type 3 sourdough productions with Lactobacillus amylovorus DCE 471 and Companilactobacillus paralimentarius IMDO 1Mg105",
+   "url": "https://doi.org/10.1016/j.ferfo.2026.100025",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "Type 3 sourdough production with L. amylovorus and C. paralimentarius strains (IMDO, Brussels).",
+   "why": "Industrial type 3 sourdough research from a Belgian lab: a natural collaboration partner for Sapore.",
+   "image": "",
+   "entities": [
+    "IMDO (Vrije Universiteit Brussel)"
+   ]
+  },
+  {
+   "id": "2779421d066648c4",
+   "title": "Linking fat structure and rheology to laminated pastry performance",
+   "url": "https://doi.org/10.1016/j.jfoodeng.2026.113315",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-03",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Global / Unknown",
+   "summary": "Study links fat structure and rheology to laminated pastry performance.",
+   "why": "Useful science for laminating fats and croissant performance.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "73c8843e6faa4e04",
+   "title": "Solid fat content–dependent regulation of protein–starch conformations and water–lipid migration in laminated pastry during thermal processing",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.112890",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Processing & Automation",
+   "region": "Global / Unknown",
+   "summary": "Solid fat content changes protein-starch structure and water-lipid migration in laminated pastry during baking.",
+   "why": "",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "0a24d56f8c394f2d",
+   "title": "Trehalose mitigates freeze–thaw-induced gluten network deterioration by modulating aggregation behavior and molecular conformation",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.113469",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-04",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Shelf-life & Food Safety",
+   "region": "Global / Unknown",
+   "summary": "Trehalose limits freeze-thaw damage to the gluten network.",
+   "why": "A possible route to more robust frozen dough.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "8825f21cd48d51bb",
+   "title": "Defending Label Claims Built on FDA Enforcement Discretion: Allulose After Franco v. Chobani",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjNvZ2c2LUhLVFhrd1NNQlIta0VkTUo5Z2JObGRfSHRpenY0SktjS1gwZUt0bGh3cnYxQWsxWkpRVWZGcmoyZEI0NTdiLXIwc2hIUkdNakM4SERhdzlxdjFhbnNFWE1BblExbm1FbUN3SzNxSUs5UF85YnhObUpRbEN0X3lLSnZ6T2E5UWRScnY3OEFnZTBOLXdyY3lzdTRZN1VaYXpwSU5LM0ZXdEtiNmRtMmFteWNTcU94eFYxdGRuMDA2MGprRGRGRGRaZHBGWU9YWkV1bEUxVGhOcm9xQmZuWWNFQQ?oc=5",
+   "source": "Foley Hoag",
+   "kind": "regulation",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "A law-firm analysis of label claims that rely on FDA enforcement discretion for allulose, after Franco v. Chobani.",
+   "why": "Sugar-reduced fillings and chocolate using allulose face litigation risk on 'sugar' labelling; worth a check with regulatory before claims are made.",
+   "image": "",
+   "entities": [
+    "Chobani"
+   ]
+  },
+  {
+   "id": "576f86fbff9a8b6a",
+   "title": "Better Dairy eyeing US market with GRAS notice",
+   "url": "https://www.foodbusinessnews.net/articles/31211-better-dairy-eyeing-us-market-with-gras-notice",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Asia-Pacific",
+   "summary": "Better Dairy filed a GRAS notice to bring precision-fermented, animal-free dairy ingredients to the US.",
+   "why": "A GRAS step toward animal-free dairy for creams and fillings; a supplier to watch for dairy-free Patisserie.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/10/20/Better-Dairy-Runners.webp?t=1792502164",
+   "entities": [
+    "Better Dairy"
+   ]
+  },
+  {
+   "id": "c3dbe5f83ab88b90",
+   "title": "Fiber adds nutritional value, permission for indulgence",
+   "url": "https://www.bakingbusiness.com/articles/67088-fiber-adds-nutritional-value-permission-for-indulgence",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 3
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Adding fibre to sweet treats helps consumers close a nutrition gap.",
+   "why": "Supports fibre-enriched cake and sweet-goods positioning for Patisserie.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/20/1020-FiberOne.webp?t=1792505230",
+   "entities": []
+  },
+  {
+   "id": "5dd4ebdaeed13b66",
+   "title": "The Gluten-Free Landscape: Consumer Demand Meets Regulatory Change",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOek1UMkZvbmk2WGpaLXNId2NPWTktWGkzeXhJdTZrOXBfdkFlVXo5UGJfYWdacGVzZFNubElBcFJ6TExCdkJzWG1jMUVNa1FjR2JwLWp1dVJ5YnFHUlk3YmNBX1lZdGNhdDhxdk1hb2tXSmY2NHU4SW5Ha0NjNEd5c1AzVGFTTkduRGs5SWlhcUNaT2p6WDdibThtaw?oc=5",
+   "source": "Nutritional Outlook",
+   "kind": "regulation",
+   "published": "2026-10-20",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Gluten-free demand and changing gluten-free labelling rules.",
+   "why": "Relevant to gluten-free bread mixes and claims for Bakery customers.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "61fe5bcd59fd00cb",
+   "title": "NAMA president sees opportunities amid milling industry headwinds",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmhkbkJfWXR3ZW9DTFpXM2ViVVZHRUJSSXNFVVFvWEhLaHVMQWxna0pRMC13VXpZOHZJNlJOUnRaMHVKaW53Xy1Vd0htLWh6VVB3akNNMXVlZUdNVzVNcHhsUzhoZVY2RkJLNkY4S2tyaFoxVnZGU2puNWp3cHJwajh0ZjdWbEJyS3hiM0tVZVlkd3JZNEZRcjZRZzdvZkpaT1N5cnQ3bjhJWjRQZDYybQ?oc=5",
+   "source": "Baking Business",
+   "kind": "regulation",
+   "published": "2026-10-21",
+   "day": "2026-10-21",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "The North American Millers' Association president on milling industry headwinds and opportunities.",
+   "why": "Flour supply and policy context for Bakery customers.",
+   "image": "",
+   "entities": [
+    "NAMA"
+   ]
+  }
+ ]
+}

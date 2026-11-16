@@ -1,0 +1,191 @@
+{
+ "date": "2026-10-31",
+ "headline": "Barry Callebaut Flavourcode; Planet A cocoa replacer; Roquette GF hydrocolloid; US dye-ban bill",
+ "summary": [
+  "Barry Callebaut's Flavourcode puts controlled cocoa fermentation for consistent chocolate flavour on the market, a direct challenge Belcolade should benchmark and answer with its own fermentation-flavour offer.",
+  "Planet A Foods is moving from cocoa-free chocolate into a high-fibre cocoa powder replacer pitched at cost and GLP-1 trends, so Belcolade should assess it as a partner or competitor for cocoa-saving solutions.",
+  "Roquette's Wellence GF 1229 hydrocolloid and Palsgaard's powdered cake emulsifier target gluten-free bread volume and cake quality, so benchmark them against Puratos gluten-free mixes and cake improvers.",
+  "In the US, pressure for a federal ultra-processed food definition continues and a new House bill would ban synthetic dyes, so prepare clean-label and natural-colour options for bakery, patisserie and chocolate customers.",
+  "Sourdough research shows back-slopping temperature steers microbiota and bread quality, a practical lever for Sapore sourdough development."
+ ],
+ "scanned": 82,
+ "items": [
+  {
+   "id": "76396af39541c6ed",
+   "title": "Barry Callebaut unveils new fermentation-based chocolate flavour solution, Flavourcode",
+   "url": "https://www.foodbev.com/post301/barry-callebaut-unveils-new-fermentation-based-chocolate-flavour-solution-flavourcode",
+   "source": "FoodBev Media",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-31",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Barry Callebaut launched Flavourcode, a fermentation-based approach to creating consistent, distinctive chocolate flavours.",
+   "why": "A direct competitor move in controlled cocoa fermentation, the area Belcolade is working on; assess the gap and accelerate Belcolade's own fermentation-flavour offer.",
+   "image": "https://static.wixstatic.com/media/75b9b9_2d6f116b78474e89a427680f9d054ba3~mv2.jpg/v1/fill/w_3200,h_3200,al_c,q_90/75b9b9_2d6f116b78474e89a427680f9d054ba3~mv2.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "98c9afeda95c85ed",
+   "title": "Development of Cocoa Butter Equivalent from Tengkawang and Coconut Oils via Chemical Interesterification",
+   "url": "https://doi.org/10.22437/1gfacb52",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-30",
+   "day": "2026-10-31",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Indonesian researchers made cocoa butter equivalents by chemically interesterifying blends of tengkawang (illipe) butter and coconut oil to match cocoa butter melting behaviour.",
+   "why": "Illipe-based CBEs are a lever against cocoa butter price swings for Belcolade compounds and coatings; worth tracking as an alternative-fat sourcing option.",
+   "image": "",
+   "entities": [
+    "Universitas Jambi"
+   ]
+  },
+  {
+   "id": "7ae9f182a451742e",
+   "title": "What’s old is new again: Fresh speculation about defining ultra-processed foods",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2pucTRWQTFjajdabTBtS1RuNUw0R0s5ODBWZzByMEJ6N055UWktNEk3WkE3RkRhUWhUU3hsTGY3Wkw2b212dHJRU1QtOW1NZExGUGxlSkdLUjBXTE9Mb0oyU3dsa25FVGc3dHp3alZBNlJTOTZLT2wwZTJzZGhvSVIzQjVkMGRsRzk0ODVnRGVwbV9VeXZJaEcyRlJlUQ?oc=5",
+   "source": "Food Fix",
+   "kind": "regulation",
+   "published": "2026-10-30",
+   "day": "2026-10-31",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Commentary on renewed speculation about a US federal definition of ultra-processed foods.",
+   "why": "A federal UPF definition would hit packaged bread, cakes and confectionery; keep clean-label, fewer-additive reformulation options ready for US customers.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "d2d021994f13088f",
+   "title": "Rep. Nancy Mace Introduces Bill to Ban Synthetic Dyes from America's Food, Medicine, and Cosmetics",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlpRX1BPZGJpV3JMWWw5MzVpbUoxYkJlOHZzOVdILWJNckd2ZnZJczk1YUk1UGhKTG96Y2ZGdEJISGRDLWtYTl92TU1JMTZLeWd6c3YtNE11WTJyUGdGM0gtZFoxVXVnN01hSVBqX1c5NmpUWFowNHl6cG1NdzBUQ1hHckZGMTF6bE43UVV6eGJhOEJaQ1JOaVkyRDI5MlY4V2VGbFBtMTdnSS1wd01oU0dabm1hSFpGY0labA?oc=5",
+   "source": "House.gov",
+   "kind": "regulation",
+   "published": "2026-10-29",
+   "day": "2026-10-31",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "US Representative Nancy Mace introduced a bill to ban synthetic dyes from food, medicine and cosmetics.",
+   "why": "A federal synthetic-dye ban would hit coloured glazes, decorations, fillings and coloured chocolate; accelerate natural-colour alternatives for US patisserie and Belcolade customers.",
+   "image": "",
+   "entities": [
+    "US House of Representatives"
+   ]
+  },
+  {
+   "id": "f385939dc12b195b",
+   "title": "Can incorporating grape pomace into bread sustainably enhance its antioxidant capacity?",
+   "url": "https://doi.org/10.3389/fsufs.2026.1984250",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-30",
+   "day": "2026-10-31",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Portuguese researchers baked pilot-scale breads with 5-15% red or white grape pomace flour, raising fibre, polyphenols and antioxidant capacity, and tested consumer acceptance.",
+   "why": "Upcycled grape pomace flour is a candidate fibre and antioxidant ingredient for sustainable bread concepts; a possible academic partner for Puratos upcycling work.",
+   "image": "",
+   "entities": [
+    "Universidade Nova de Lisboa",
+    "University of Évora",
+    "INIAV"
+   ]
+  },
+  {
+   "id": "c39a961436daaa17",
+   "title": "High-Fibre Breadsticks Fortified with Artichoke By-Product Extract and Inulin: Technological Quality, Phenolic Retention, and Consumer Acceptance",
+   "url": "https://doi.org/10.3390/foods15213884",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-29",
+   "day": "2026-10-31",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Europe",
+   "summary": "Breadsticks fortified with an artichoke by-product extract and artichoke inulin doubled dietary fibre to about 8.8 g/100 g while keeping good sensory acceptance.",
+   "why": "Artichoke by-product extract plus inulin is an upcycled route to high-fibre claims in bread and savoury bakery that Puratos could test in fibre-enrichment mixes.",
+   "image": "",
+   "entities": [
+    "University of Palermo",
+    "University of Salerno",
+    "University Frères Mentouri Constantine 1"
+   ]
+  },
+  {
+   "id": "74a79a3a4f43fb2d",
+   "title": "WinCo recalls hoagie rolls sold in Nevada over undeclared sesame",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlY2Umloc2hCeFZpVG5vM0JHam1Kenl0azZqZ0NSeDFnZWhwczh1cmxTY1pTZGctcEhYd1NZVFJxLV9PZU5IaExQVGUwa09KMWhVWGJybU5ER0NqcEdWdmp0NTN2ckpQcXJsZnl5MDVPSmJJMGFIUFBJbmdHSWpvcWo1Z3oyTkd6YmlxR182YzVPU2U0dzJXMFRyOA?oc=5",
+   "source": "KRXI2",
+   "kind": "regulation",
+   "published": "2026-10-30",
+   "day": "2026-10-31",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "US retailer WinCo recalled hoagie rolls sold in Nevada because they contained undeclared sesame.",
+   "why": "Sesame is now a major US allergen and bread recalls keep recurring; a reminder to tighten sesame cross-contact and labelling guidance for Puratos bakery customers.",
+   "image": "",
+   "entities": [
+    "WinCo Foods"
+   ]
+  }
+ ]
+}

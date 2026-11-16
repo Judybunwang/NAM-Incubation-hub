@@ -1,0 +1,585 @@
+{
+ "date": "2026-10-29",
+ "headline": "Barry Callebaut Flavourcode, Planet A cocoa replacer; Roquette, Palsgaard launches; FDA salt rule",
+ "summary": [
+  "Barry Callebaut's Flavourcode puts controlled cocoa fermentation on the market as a flavour-design tool, a direct challenge to Belcolade's fermentation work that calls for a gap assessment.",
+  "Planet A Foods' high-fibre Cocoa Booster can replace up to 100% of cocoa powder and, with Oobli and Cosun's chocolate sugar replacer and Win-Win's mass-market pitch, shows cocoa-saving alternatives scaling fast against Belcolade.",
+  "Roquette's Wellence GF 1229 for gluten-free bread and Palsgaard's powder cake emulsifiers are competitor launches to benchmark against Puratos gluten-free mixes and cake improvers, as free-from bakery consolidates (Baker & Baker buys Lazy Day Foods).",
+  "FDA has cleared salt substitutes in more standardized foods including breads, effective December 2026, a sell-in moment for Puratos salt-reduction solutions.",
+  "Pressure for a federal ultra-processed food definition and GRAS reform keeps rising, so Puratos should have clean-label reformulation options and US ingredient dossiers ready."
+ ],
+ "scanned": 82,
+ "items": [
+  {
+   "id": "cf70ba3d38aacb4e",
+   "title": "Barry Callebaut debuts its approach to cocoa fermentation",
+   "url": "https://www.snackandbakery.com/articles/116555-barry-callebaut-debuts-its-approach-to-cocoa-fermentation",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-10-28",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Barry Callebaut presents its controlled cocoa fermentation approach for designing chocolate flavour.",
+   "why": "A direct competitor move in controlled cocoa fermentation, the area Belcolade is working on; assess the gap and accelerate Belcolade's own fermentation-flavour offer.",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/10/28/barry-callebaut-flavorcode.jpg?height=635&t=1793204117&width=1200",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "2a84bbe860075882",
+   "title": "Mark Golder: ‘Cacao-based chocolate will become increasingly premium, and for everything else, there's Win-Win’",
+   "url": "https://agfundernews.com/mark-golder-cacao-based-chocolate-will-become-increasingly-premium-and-for-everything-else-theres-win-win",
+   "source": "AgFunderNews",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Interview with Mark Golder of Win-Win, a cocoa-free chocolate start-up, arguing cacao chocolate will turn premium while alternatives take the mass market.",
+   "why": "A cocoa-free chocolate start-up positioning for the mass market is a partnership target or competitor for Belcolade compounds.",
+   "image": "https://agfundernews.com/wp-content/uploads/2026/10/Mark-Golder-CEO-Win-Win-Image-credit-Elaine-Watson.jpg",
+   "entities": [
+    "Win-Win"
+   ]
+  },
+  {
+   "id": "bcf9dcca87b8a536",
+   "title": "Barry Callebaut rewrites the chocolate flavor playbook with Flavourcode",
+   "url": "https://www.foodingredientsfirst.com/news/barry-callebaut-flavourcode-chocolate-fermentation.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Barry Callebaut's Flavourcode uses controlled fermentation to create new, consistent chocolate flavours.",
+   "why": "A direct competitor move in controlled cocoa fermentation, the area Belcolade is working on; assess the gap and accelerate Belcolade's own fermentation-flavour offer.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639288653927952782chef_in_white_apron_with_chocolate_biscuit_samples_on_display.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "f0f9be5501dcc098",
+   "title": "New cocoa powder alternative targets GLP-1 trends and supply risks",
+   "url": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 5,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Planet A Foods launched Cocoa Booster, a high-fibre cocoa powder replacer that can replace up to 100% of cocoa in some uses.",
+   "why": "Cocoa-cost relief with a fibre claim is a direct competitor to Belcolade cocoa-saving solutions; consider evaluating or partnering.",
+   "image": "https://www.foodnavigator.com/resizer/v2/IKIRDFA6KFCZBH4FBKJPATPUFU.jpg?auth=d012fa9a43f5ce26c6e9cb2dc9ba81c83e6aa5e30bb3747e1caad0bd1cf2056a&smart=true&width=2121&height=1414",
+   "entities": [
+    "Planet A Foods"
+   ]
+  },
+  {
+   "id": "d9f5aa0ffed88a7d",
+   "title": "Hydrocolloid system addresses gluten-free challenges",
+   "url": "https://www.foodbusinessnews.net/articles/31268-hydrocolloid-system-addresses-gluten-free-challenges",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Roquette's Wellence GF 1229 hydrocolloid system is marketed to improve volume and crumb structure in gluten-free bread.",
+   "why": "A large ingredient competitor entering gluten-free bakery texture; benchmark it against Puratos gluten-free mixes and improvers.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/10/29/AdobeStock_410698230-%281%29.webp?t=1793281376",
+   "entities": [
+    "Roquette"
+   ]
+  },
+  {
+   "id": "402ddc80595b5cc0",
+   "title": "Starch-based bigels with enhanced freeze–thaw stability as anti-staling butter substitutes in bread",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.113544",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-04",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Global / Unknown",
+   "summary": "A study develops starch-based bigels with good freeze-thaw stability as butter substitutes that slow bread staling.",
+   "why": "A fat-replacing, anti-staling structure for bread and frozen dough is relevant to Puratos improvers and fat-reduction work.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "7105b4f9731f8b18",
+   "title": "Palsgaard launches emulsifier to improve cake quality",
+   "url": "https://www.bakingbusiness.com/articles/67144-palsgaard-launches-emulsifier-to-improve-cake-quality",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 8,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Palsgaard launched PowderGel 6800, an emulsifier for aeration, crumb structure and mouthfeel in cakes.",
+   "why": "A direct competitor move in cake emulsifiers and improvers; benchmark against Puratos cake mixes and cake improvers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/27/102726_Industrial-Cakes-Palsgaard.webp?t=1793285753",
+   "entities": [
+    "Palsgaard"
+   ]
+  },
+  {
+   "id": "c56057bd27be49cb",
+   "title": "A sweet deal or impossible bar? How the sustainable cocoa alternatives stack up",
+   "url": "https://wickedleeks.riverford.co.uk/features/a-sweet-deal-or-impossible-bar-how-the-sustainable-cocoa-alternatives-stack-up/",
+   "source": "Wicked Leeks",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "An article compares sustainable cocoa alternatives and how they perform.",
+   "why": "A snapshot of the cocoa-alternative landscape Belcolade competes in; check which players customers are hearing about.",
+   "image": "https://wickedleeks.riverford.co.uk/wp-content/uploads/2026/10/julia-zyablova-EwaJbJvS9io-unsplash-scaled.jpg",
+   "entities": []
+  },
+  {
+   "id": "4c518bd4d025d891",
+   "title": "Palsgaard introduces powder-based whipping emulsifier",
+   "url": "https://www.snackandbakery.com/articles/116557-palsgaard-introduces-powder-based-whipping-emulsifier",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-10-28",
+   "day": "2026-10-29",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 8,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Palsgaard introduced a powder-based whipping emulsifier for cakes.",
+   "why": "A direct competitor move in cake emulsifiers and improvers; benchmark against Puratos cake mixes and cake improvers.",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/10/28/palsgaard-cake-gel.jpg?height=635&t=1793208995&width=1200",
+   "entities": [
+    "Palsgaard"
+   ]
+  },
+  {
+   "id": "e7456906c0e4cd86",
+   "title": "Cocoa-Free & Alternative Chocolate Market Growth Outlook and Strategic Analysis 2026 to 2035",
+   "url": "https://www.openpr.com/news/4675866/cocoa-free-alternative-chocolate-market-growth-outlook",
+   "source": "openPR.com",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "A market-research release forecasting growth of cocoa-free and alternative chocolate to 2035.",
+   "why": "A generic market report confirming demand for cocoa alternatives; useful context for Belcolade's cocoa-saving range, not a specific lead.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "61032bbda4e018c6",
+   "title": "Baker & Baker acquires free-from bakery brand Lazy Day Foods",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHFWNzhOb0FRcFlxSGZYRy11N25CeUpPcl9YaFkydHhUeWRSMzhjSmYxTnpVcXdYNHJLdXdOdW11eWRPNmxsQ1NFLVF3NVZwSUlQNUc0VTBneUZMaFg2SUxkSmtYNDktODhUdDZCUmwwVnJfdnY0TFQ0eUFMbEYtbWhZMk1yRVZCMG1qVzM4a3Q?oc=5",
+   "source": "FoodBev Media",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Baker & Baker has acquired Lazy Day Foods, a Scottish free-from and vegan bakery brand.",
+   "why": "A frozen-bakery competitor buying into free-from and vegan sweet goods; a signal for Puratos gluten-free and egg-free mixes.",
+   "image": "",
+   "entities": [
+    "Baker & Baker",
+    "Lazy Day Foods"
+   ]
+  },
+  {
+   "id": "8d0f4730731b982b",
+   "title": "American Heart Association Calls for Release of Proposed Federal Definition of Ultra-Processed Foods",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUV9CR29iWEppdlc2aUZoQjUxVkx0RUhJTHg0NmExVktVOHl6UlV4NnFuZTFFc3ppLWJRN0V0NHFsN3VwazYyc05JS3B5QjBQdGVVcTRwVkhNbWJSNUVVVnlBcmZKYnFmSk00Nm1kdFFscnF4b2Zzd1lBVHFXSmE5X2FyZHZLdjA0bTJxZFF6NVR1U2lUclhKSlVudVB5bXhueFk1WF9JVW5TV0R0enBET3VKSHdkY25pa2tOZXhmNndDUEZpZ0N4YTZJV2NwZUVoQ2J3TkVMSnBlUQ?oc=5",
+   "source": "Quality Assurance & Food Safety",
+   "kind": "regulation",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "The American Heart Association urged the US government to release its proposed federal definition of ultra-processed foods.",
+   "why": "A federal UPF definition would hit packaged bread, cakes and confectionery; keep clean-label, fewer-additive reformulation options ready for US customers.",
+   "image": "",
+   "entities": [
+    "American Heart Association"
+   ]
+  },
+  {
+   "id": "3e8dfcb6995c313e",
+   "title": "Organic Acids and Bacterial Communities of Backslopped Sourdough Prepared with Japanese Pear (Pyrus pyrifolia Nakai) Infusion",
+   "url": "https://doi.org/10.3390/app162110714",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Japanese researchers backslopped sourdough with pear infusion for 56 generations and tracked its acids and bacteria.",
+   "why": "Fruit-initiated sourdough microbiology is relevant to Puratos's sourdough library and starter development.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "f1c45171f051f985",
+   "title": "Conventional and Emerging Protein Ingredients in Farinaceous Products: Amino Acid Quality, Digestibility, Biological Value, and Functional Performance",
+   "url": "https://doi.org/10.1111/1541-4337.70687",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-27",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Europe",
+   "summary": "A review compares conventional and emerging proteins in flour-based products on amino-acid quality, digestibility and functionality.",
+   "why": "A reference for choosing proteins in Puratos protein-enriched bread and bakery mixes.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "39814d94de7375eb",
+   "title": "China's Anjoy Foods Posts 20% Profit Growth in First Three Quarters, Buys ~60% of Singapore's IFC for NT$990 Million to Push Into Frozen Bakery",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52b0ZfaTkzRWFMWlhMaXp5cFVQQ2RQdm5OQ0NGajMzUS00OFFsRExTU25md0lPVEFjWmxxRFFxUjZjVmVfM3lIZ3NIbTdBS01Ya25YcF94eUJBUTlQWU9oRzJhZm5UVTc2YnV2VlN1VTFVcTlWTlE?oc=5",
+   "source": "BigGo Finance",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "China's Anjoy Foods is buying about 60% of Singapore's IFC to enter frozen bakery.",
+   "why": "A large Chinese frozen-food group entering frozen bakery is a new competitor or customer for Puratos in Asia.",
+   "image": "",
+   "entities": [
+    "Anjoy Foods",
+    "IFC"
+   ]
+  },
+  {
+   "id": "30046b664e3fd20a",
+   "title": "High fibre innovation to continue at Warburtons despite axing Fibre Fix range",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2NQclpTYmZyZnVMb0pyV21KQ1ZINkFQZ2R5emV4Nmp1cjM2VDNTVW4yb1ZyRE44TS1hQ0p1UWpsNGRwT25KbkVmczNiTWlyN1FQLWEtaExTN3JEVXFHdFlCR2FyR2tuZTZTaF9oMFB1bVA4eWtaTUpPV1F3WEgwSk40aUdmNld1SEVQN2owNVExdVVlc0cwbkU1VFJrVHJHaVdQQ1VjNmVObEpsZFVhZk9YYmFsQ1lTSUdsME1rdjdaNHBHZ0dWamxtZFY?oc=5",
+   "source": "British Baker",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Warburtons is dropping its Fibre Fix range but says high-fibre innovation will continue.",
+   "why": "A major UK bread maker staying committed to fibre is a cue for Puratos fibre-enrichment solutions, despite one line's failure.",
+   "image": "",
+   "entities": [
+    "Warburtons"
+   ]
+  },
+  {
+   "id": "f60912bee4581e8a",
+   "title": "Real Dough brings sourdough pizza to retailers nationwide",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGctRFJqRDVhdkdFSGF4UjJGSk8zMEFsT0NuWjE3QnhGRE1KOWpzWEdzeHZWNzgtS012VjRlTkxkUlFVemMteVI1NDIxREFZVnl1TnUtcU9UUjN3RGJqdVhUMjd5UndtblNvYmNNazVIQmtzNEdBSmtfYUpOZ0YtcmFsdkVwZ0x4RFlJUDRhdlM?oc=5",
+   "source": "Commercial Baking",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Real Dough is expanding its sourdough pizza into retailers nationwide in the US.",
+   "why": "Shows sourdough claims spreading into US frozen and retail pizza, a market for Puratos sourdough and Sapore solutions.",
+   "image": "",
+   "entities": [
+    "Real Dough"
+   ]
+  },
+  {
+   "id": "de4e7c41fa1b16b4",
+   "title": "Rheological behaviour, structural recovery and printability of customized chocolate inks for extrusion 3D printing",
+   "url": "https://doi.org/10.3389/frfst.2026.1956772",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Processing & Automation",
+   "region": "Asia-Pacific",
+   "summary": "An Indian study tests how the cocoa solids-to-fat ratio affects the rheology and printability of chocolate inks for 3D printing.",
+   "why": "Formulation data for printable chocolate could inform Belcolade decoration products if 3D chocolate printing reaches patisseries.",
+   "image": "",
+   "entities": [
+    "NIFTEM Thanjavur"
+   ]
+  },
+  {
+   "id": "7c1e85880438ef9b",
+   "title": "Pepperidge Farm taps into trends with Sourdough Cookies",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmFHWG1IQzd0MWFoTnBfR3NCN3JNUkFWMndCRnlnT1owWXE0RWJvdHhoMWszOTlkX0VNSzRHOWdsY0htVFNzMVRGVDM3TUprMnJVSGg1d0QzYktuN2VBeWtJNUMyVklxOVhOR2xZUTZFWWExOGtUR1drX3RfdDVZVllQMkRXV3RsOWFfTnM0OTVZWExlLWhsZk9OZlo3QldzUERNcA?oc=5",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-10-28",
+   "day": "2026-10-29",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Pepperidge Farm has launched sourdough cookies in the US.",
+   "why": "Sourdough moving into sweet biscuits is a product cue for Puratos sourdough flavour ingredients in sweet goods.",
+   "image": "",
+   "entities": [
+    "Pepperidge Farm",
+    "Campbell's"
+   ]
+  },
+  {
+   "id": "a3ae7e3dc1537ae5",
+   "title": "Lazy Day Foods: Scottish free-from and vegan bakery business employing 190 people taken over",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclJYY2tTUUt3RjBTMUtwWF94a3g3VW9nUUgyN1phdW4xLXVXcVNPMHYtZGdaNzZUY3E3b0tTTGxIUnZqbF9tRDFWMU1MXzRHdVR6SWNOdEdsS1ROYjhuTXhpUWdIQWZ5TWpmdW9QeHgtLXVHQ2hBVk1hSENLa2lwRXhYYVhvdTByQnYzb3hER21xLUFXUmMtcWJiUWtNbTFHVGdjb0lMaEJwTGYydGZDVWtDT0I5S2hXUmhWNTRNOHA0Qm5OeUJkRVZ0VE9jZw?oc=5",
+   "source": "The Scotsman",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Scottish free-from and vegan bakery Lazy Day Foods, with 190 staff, has been taken over.",
+   "why": "A free-from bakery consolidation signal for Puratos gluten-free and egg-free solutions.",
+   "image": "",
+   "entities": [
+    "Lazy Day Foods",
+    "Baker & Baker"
+   ]
+  },
+  {
+   "id": "1d5c46f063c881dc",
+   "title": "Pepperidge Farm Launches Unique Sourdough Cookies in Three Delicious Flavors",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZk95c2Y2RDBaNWNweDNPSkRpTnV1SGMxdU5QZ255by1UQTV6RzJueXhYeVNsUHRqVjhFNjdmdENiM1NQZk05a0RJY3d4MEtGUUhxaWlrSkw1M0JWNmNqQ0dTOGxqSTNpbEVhRUVEZkFQZE1KdFBHUUV0X0tybFJhVkxKM2N2VGVJWGtWYlpvUlpEU3hQTGVXUGlqbVNSdw?oc=5",
+   "source": "Yahoo",
+   "kind": "news",
+   "published": "2026-10-28",
+   "day": "2026-10-29",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Pepperidge Farm launched sourdough cookies in three flavours.",
+   "why": "Sourdough moving into sweet biscuits is a product cue for Puratos sourdough flavour ingredients in sweet goods.",
+   "image": "",
+   "entities": [
+    "Pepperidge Farm"
+   ]
+  },
+  {
+   "id": "d5efc546b9775df5",
+   "title": "In bakery, fresh department trumps center store",
+   "url": "https://www.bakingbusiness.com/articles/67159-in-bakery-fresh-department-trumps-center-store",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "FMI data show US shoppers prefer the in-store bakery for freshness and taste and centre-store for price.",
+   "why": "Supports Puratos's in-store bakery offer and freshness messaging to US retail customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/29/102926_AdobeStock_Bakery.webp?t=1793285999",
+   "entities": [
+    "FMI"
+   ]
+  },
+  {
+   "id": "663294b7a68bc0bd",
+   "title": "Eat Just’s Vegan Liquid Egg Debuts in Sweden Via Kale Foods Partnership",
+   "url": "https://www.greenqueen.com.hk/eat-just-egg-vegan-substitute-sweden-kale-foods-launch/",
+   "source": "greenqueen.com.hk",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-29",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Eat Just's plant-based Just Egg is launching in Swedish Coop stores via Kale Foods.",
+   "why": "A scaled plant-based egg widening in Europe is a benchmark for Puratos egg-replacement solutions in cakes.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2026/10/eat-just-egg-vegan-substitute-sweden-kale-foods-launch-1.png",
+   "entities": [
+    "Eat Just",
+    "Kale Foods",
+    "Coop"
+   ]
+  }
+ ]
+}

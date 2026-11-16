@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-22",
+ "headline": "Galy cultured cocoa hits pro kitchens; FDA salt-substitute rule; MOA egg replacer",
+ "summary": [
+  "Galy is moving its cell-cultured cocoa from the US WunderHaus retail launch into professional kitchens, making it both a partnership candidate and a direct competitor for Belcolade in cocoa-free chocolate.",
+  "FDA will let salt substitutes be used in 139 standardised foods, including breads and rolls, from December 14, 2026, which opens a near-term sell-in window for Puratos salt-reduction solutions with North American bakers.",
+  "MOA Foodtech and Espiga I+D are partnering on egg replacement for bakery and cakes, a competitive signal for Patisserie's egg-replacement offer.",
+  "North American bakers are pushing fibre and protein (Grupo Bimbo, Calise, Rudi's gluten-free protein bread), so fibre and protein enrichment solutions have clear demand now.",
+  "Pressure on ultra-processed foods is building in US policy and media, raising the value of clean-label, fewer-additive bread and sweet-goods solutions."
+ ],
+ "scanned": 59,
+ "items": [
+  {
+   "id": "a0bcdcb03de99014",
+   "title": "Cultivated Cocoa Chocolate Lines: Galy Brings Lab-Grown Cocoa to Professional Kitchens",
+   "url": "https://www.trendhunter.com/trends/cultivated-cocoa-chocolate-lines",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-10-21",
+   "day": "2026-10-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 4,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Galy is bringing its cell-cultured cocoa chocolate lines to professional kitchens, extending its WunderHaus launch into foodservice.",
+   "why": "Cultured cocoa reaching chefs and pastry kitchens puts Galy in direct reach of Belcolade's professional customers: a partnership target and a competitive threat to watch closely.",
+   "image": "",
+   "entities": [
+    "Galy",
+    "WunderHaus"
+   ]
+  },
+  {
+   "id": "b64e62e33693105b",
+   "title": "Rudi's launches gluten-free protein bread",
+   "url": "https://www.foodbusinessnews.net/articles/31230-rudis-launches-gluten-free-protein-bread",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-10-22",
+   "day": "2026-10-22",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Rudi's has launched a gluten-free bread with 10 g protein and 3 g fibre per serving.",
+   "why": "A US competitor product showing gluten-free bread moving into protein and fibre claims, a cue for Puratos gluten-free and protein-enrichment mixes.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/10/22/rudi.webp?t=1792676384",
+   "entities": [
+    "Rudi's"
+   ]
+  },
+  {
+   "id": "6e72529716ebe474",
+   "title": "Ferrero commits to high protein: Why is the confectionery giant investing in functional health?",
+   "url": "https://www.foodnavigator.com/Article/2026/10/22/ferrero-why-its-embracing-high-protein/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-10-22",
+   "day": "2026-10-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Ferrero is investing in high-protein confectionery, joining other confectioners moving into functional health.",
+   "why": "A major chocolate player moving into high-protein treats signals demand for protein-enriched chocolate and fillings in Belcolade's market.",
+   "image": "https://www.foodnavigator.com/resizer/v2/3NDAM4ZRRRFGTMSWH3M5QJWD6E.jpg?auth=7f49e838f289e4cd35410eecd61462c7d12753aa344029d7b8fa65a32798079b&smart=true&width=2119&height=1414",
+   "entities": [
+    "Ferrero"
+   ]
+  },
+  {
+   "id": "713e7cda6e8be5f0",
+   "title": "Managing Perceptions Around \"Ultraprocessed\" Foods",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnVoLUxKSUI1WE5EcGF1c3pzUUI5alNZemRVeUYwZnFkNUg4aExhYWE5WDhMZ2phSTNLajBDc25jNG52S3B2bXQ3SFJYaG55WDRtU1Bfb3EyMEZmdktieGJxaGlSN3hQQzE5akFNOW1hT0Y1dlFrQ3hOU0FFVDM4UEk0V3ZSQ3VLelNuaUl5NVpRdHM?oc=5",
+   "source": "Nutritional Outlook",
+   "kind": "regulation",
+   "published": "2026-10-21",
+   "day": "2026-10-22",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Nutritional Outlook discusses how brands can manage consumer perceptions of 'ultraprocessed' foods.",
+   "why": "Packaged bread and sweet-goods customers face growing ultraprocessed scrutiny; Puratos can position clean-label and fewer-ingredient solutions in response.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "5a084a469e813abf",
+   "title": "Daiya introduces Dairy-Free Cheesecake Bites",
+   "url": "https://www.bakemag.com/articles/22143-daiya-introduces-dairy-free-cheesecake-bites",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-10-21",
+   "day": "2026-10-22",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "North America",
+   "summary": "Daiya has launched frozen dairy-free cheesecake bites in three flavours at Kroger, Sprouts and Meijer.",
+   "why": "US retail is adding dairy-free cheesecake, a sign of demand for plant-based cream fillings and cheesecake bases in Patisserie.",
+   "image": "https://www.bakemag.com/ext/resources/2026/10/21/Cade-Cunningham-Image.webp?t=1792601914",
+   "entities": [
+    "Daiya",
+    "Kroger",
+    "Sprouts Farmers Market",
+    "Meijer"
+   ]
+  },
+  {
+   "id": "0340b8f80b2233c1",
+   "title": "The science and politics behind the panic over ultraprocessed foods",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUtHajIxaWZSb1pUWDBoVXlrclpKSTNUTmowQThSSS1NRGxxaXhFcHpEaHkxa21wOTJyVHNVQkd5YXllaVgyUDBLZHhyVFZHZXFTNE0xNU83WmtHY0cxbDBlNXNWNk1oTW03TkJaQ2tRR2tOVW91WkFNaC1WdS1CNF9Xb2JxS2E5T2hMRGgxSWswTEhJWGUtZUt0UmpHekIzeWUyMDRIb3JUTEYwdVlZbnFRYjV1UQ?oc=5",
+   "source": "Japan Today",
+   "kind": "regulation",
+   "published": "2026-10-21",
+   "day": "2026-10-22",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 4,
+    "Chocolate": 4
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Global / Unknown",
+   "summary": "An explainer on the science and politics behind concern over ultraprocessed foods.",
+   "why": "Policy momentum on ultraprocessed foods could reach packaged bakery; keep clean-label reformulation options ready for customers.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

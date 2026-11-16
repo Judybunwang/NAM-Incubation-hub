@@ -1,0 +1,539 @@
+{
+ "date": "2026-10-30",
+ "headline": "Barry Callebaut Flavourcode push; Lesaffre vs CVC for Corbion; Roquette, Palsgaard launches",
+ "summary": [
+  "Barry Callebaut's Flavourcode platform for fermentation-controlled cocoa flavour dominated the week, a direct challenge to Belcolade's own cocoa-fermentation work that calls for a gap assessment.",
+  "Cocoa alternatives keep advancing, with Planet A Foods launching a fibre-rich cocoa powder replacer and Win-Win targeting mass-market chocolate, while easing cocoa prices and Lindt price cuts shift the business case for cocoa saving.",
+  "Competitors launched new bakery and patisserie functionality, Roquette with a gluten-free hydrocolloid and Palsgaard with a powder cake emulsifier, and CVC and Lesaffre are bidding for Corbion, which could reshape the bakery-ingredient landscape.",
+  "In US regulation, FDA cleared salt substitutes in standardized breads, while the stalled federal ultra-processed food definition and spreading state MAHA rules keep clean-label reformulation pressure on bakery customers.",
+  "Yeast proteins from Spacemilk and Revyve and cheaper fermented brazzein point to new protein-enrichment and sugar-reduction options worth evaluating for bakery and fillings."
+ ],
+ "scanned": 80,
+ "items": [
+  {
+   "id": "490a829b5fe74ba8",
+   "title": "Barry Callebaut launches innovative chocolate flavour platform",
+   "url": "https://bakeryinfo.co.uk/ingredients/barry-callebaut-launches-innovative-chocolate-flavour-platform/725396.article",
+   "source": "British Baker",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Barry Callebaut launched a chocolate flavour platform built on controlled cocoa fermentation.",
+   "why": "A direct competitor move in controlled cocoa fermentation, the area Belcolade is working on; assess the gap and accelerate Belcolade's own fermentation-flavour offer.",
+   "image": "https://d3rctclhuobtt7.cloudfront.net/Pictures/1024x536/2/4/9/410249_barrycallebautflavourcode2100x1400_375161.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "0e30eb6c4ec4997b",
+   "title": "Barry Callebaut’s Flavourcode aims to raise the cocoa bar to new heights",
+   "url": "https://www.confectioneryproduction.com/blog/60081/barry-callebauts-flavourcode-aims-to-raise-the-cocoa-bar-to-new-heights/",
+   "source": "Confectionery Production",
+   "kind": "news",
+   "published": "2026-10-28",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Barry Callebaut launched Flavourcode, a fermentation-led platform to control and scale cocoa flavour profiles.",
+   "why": "A direct competitor move in controlled cocoa fermentation, the area Belcolade is working on; assess the gap and accelerate Belcolade's own fermentation-flavour offer.",
+   "image": "https://www.confectioneryproduction.com/wp-content/uploads/IMG_92801.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "65565987bf8b50dc",
+   "title": "Chocolate demand lags cocoa grinding rebound as Lindt cuts prices",
+   "url": "https://newsghana.com.gh/chocolate-demand-lags-cocoa-grinding-rebound-as-lindt-cuts-prices/",
+   "source": "News Ghana",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Cocoa grinding has rebounded but chocolate demand lags, and Lindt is cutting prices as cocoa costs ease.",
+   "why": "Easing cocoa prices and Lindt's price cuts signal pressure on chocolate pricing; review Belcolade pricing and the business case for cocoa-saving products as costs fall.",
+   "image": "",
+   "entities": [
+    "Lindt"
+   ]
+  },
+  {
+   "id": "907113984da3952f",
+   "title": "Temperature selection drives microbial adaptation and succession during repeated back-slopping of spontaneous sourdough and modulates bread quality",
+   "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112136",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-01",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "A study shows that the temperature used in repeated back-slopping of spontaneous sourdough selects different microbes and changes bread quality.",
+   "why": "Directly relevant to Sapore sourdough: temperature as a lever to steer sourdough microbiota and bread flavour.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "d87ce9fd36568591",
+   "title": "Cracking the code on cocoa flavour",
+   "url": "https://www.foodanddrinktechnology.com/news/71100/cracking-the-code-on-cocoa-flavour/",
+   "source": "Food and Drink Technology",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "A trade article on new approaches to controlling cocoa flavour, likely covering fermentation-led platforms.",
+   "why": "Fits the controlled cocoa-fermentation trend Belcolade is investing in; check which competitors and methods are featured.",
+   "image": "https://www.foodanddrinktechnology.com/wp-content/uploads/BC_flavourcode_oct26.jpg",
+   "entities": []
+  },
+  {
+   "id": "e518978a775406b3",
+   "title": "Opinion | Avoid whole-wheat bread? RFK Jr.’s warning would be harmful — and costly.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjI1N3NzYUJEcFVPRXNIYWFnMU5xNk1fVFJCZ0NwVmVNWVR2cVR3T2gwTk9oV2l5dS13SGFJdmtNZ3l5SWQzeXpXeWNCZjVHMVJTcjZMSmF6RHJTQlBSdktsQUpwbTh1TGFaZDQ4VnN6YWJFZU5Vc2pycmFJcXdkbU51TTFyQ0cyMEtkaV9jX3VMMXkxbjNueGRLRE9KaXJhZlRoQXZ4cGxZTWhzVlNMNS01dURJZw?oc=5",
+   "source": "The Washington Post",
+   "kind": "regulation",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "A Washington Post opinion piece argues that a warning from HHS Secretary RFK Jr. against whole-wheat bread would be harmful and costly.",
+   "why": "Federal messaging against whole-wheat bread could hit demand for wholegrain and fibre-enriched bread in the US; watch for formal guidance and prepare customer talking points on wholegrain health evidence.",
+   "image": "",
+   "entities": [
+    "HHS"
+   ]
+  },
+  {
+   "id": "4f6a7e79a5bf7e76",
+   "title": "Baker’s yeast muscles into high-protein snacks",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/10/30/can-bakers-yeast-muscle-into-high-protein-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Start-up Spacemilk is positioning baker's yeast protein as a whey alternative for high-protein bakery and snacks as whey prices rise.",
+   "why": "A yeast-derived protein for high-protein bakery is a partnership or ingredient option for Puratos protein-enrichment solutions.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/FVEYKZGPO5GBJP2IDEGNAW3PJY.jpg?auth=f383bb0077e3afc1530804750161814face15543f36b82712c4ce5ac66af9ea2&smart=true&width=750&height=500",
+   "entities": [
+    "Spacemilk"
+   ]
+  },
+  {
+   "id": "c795024d74d75bba",
+   "title": "Mondelez sues vegan chocolate startup in Toblerone copycat dispute",
+   "url": "https://www.thegrocer.co.uk/news/mondelez-sues-vegan-chocolate-startup-in-toblerone-copycat-dispute/725368.article",
+   "source": "The Grocer",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Mondelez is suing a vegan chocolate start-up over a bar it says copies Toblerone.",
+   "why": "Shows big brands defending shapes and trade dress against plant-based chocolate entrants; a caution for customers launching look-alike products with Belcolade.",
+   "image": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/1/8/5/410185_yourparagraphtext20_580923_crop.jpg",
+   "entities": [
+    "Mondelez",
+    "Toblerone"
+   ]
+  },
+  {
+   "id": "c8b2bfe1f51bf6ae",
+   "title": "KSU Grain and Food Science Department, PMAN Sign Five-Year Baking Research Agreement - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU0x4VGhwaE9MMThoMlRSemZwOGdjWm9oMlFhWVlWRjY3cHhaekJUMzc1YlZoM2gwMkpaMkhrTGxFMDcwYkNrRllhRG9nZXd3MFFBVnFtb01Lb0VTM0YxaHVUaU00TVFNTGt1dzQtNENMMThBTUN6dThaSDJWcF9qUXdlUjIwVFpIS2JhczZoTEF6UjJya2lBMjkxT1VkaW9DTWxyN0JjX05LUTU5TjllR1BiTGJnaXFvelpNSFU3S1lLamI2NjhvSmMwVllwUlZyUGFTZEcyanc2Rmc4dmNTNW5yd05pMjFGcGNEc3lBbG9QQQ?oc=5",
+   "source": "IndexBox",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Kansas State University's Grain and Food Science department signed a five-year baking research agreement with PMAN.",
+   "why": "A new industry-academic baking research partnership in the US to watch for competitive or collaboration opportunities.",
+   "image": "",
+   "entities": [
+    "Kansas State University",
+    "PMAN"
+   ]
+  },
+  {
+   "id": "f3c186e9a5d4bbf8",
+   "title": "CVC takes on French yeast giant Lesaffre in battle for Dutch group Corbion",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnhRanFBNUQ2NmY4YVFGcmgxUnVUdlE0ai1XOHhrSlp2NnZ0MDFIalowUUNYQ3FBNnFnRkxjX1VkRHVYYVVodzBXd0IycUhfMkRYalYtdmRDRGZDWGNBWGZNTG9IU2tfdDRVNnl2NWlvei1YZldmYnZTeGZzNzNfZlAxZ2xkNF95eUFnU1hoMjBKQk1BdWtlcWd3dVQ5M05ScmlJRTlFb2RqSGNObFpLSjdBdzA0aC12blAweTNhRlI5aXY0X25NOHZ1cTZqa2kyU21xWG1YSWU?oc=5",
+   "source": "La Lettre",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Private equity firm CVC is competing with yeast maker Lesaffre to acquire Dutch ingredient group Corbion.",
+   "why": "Lesaffre buying Corbion would combine a major yeast and bakery-ingredient competitor with Corbion's preservation and emulsifier portfolio; monitor the outcome for competitive impact on Puratos.",
+   "image": "",
+   "entities": [
+    "CVC",
+    "Lesaffre",
+    "Corbion"
+   ]
+  },
+  {
+   "id": "5ee79dec965d220c",
+   "title": "Scaling up sweet proteins",
+   "url": "https://www.bakingbusiness.com/articles/67153-scaling-up-sweet-proteins",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Fermentation is increasing supply and lowering the cost of brazzein, a sweet protein for sugar reduction.",
+   "why": "Cheaper fermented brazzein could become a viable sugar-reduction tool for fillings, cakes and reduced-sugar chocolate; track suppliers for trials.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/28/102826_Oubli-Fruit.webp?t=1793374071",
+   "entities": [
+    "brazzein"
+   ]
+  },
+  {
+   "id": "e214aebb64a90f6d",
+   "title": "Aqueous Chlorine Dioxide Tempering of Wheat Kernels: Evaluation of Enzyme Activity, Flour Functionality, and Baking Properties",
+   "url": "https://doi.org/10.1007/s11947-026-04629-y",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-28",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "North America",
+   "summary": "Kansas State University tested tempering wheat kernels with aqueous chlorine dioxide and measured its effect on flour enzyme activity, functionality and baking quality.",
+   "why": "A milling-stage microbial control step that may change flour enzyme activity matters for how Puratos improvers and enzymes perform in treated flour.",
+   "image": "",
+   "entities": [
+    "Kansas State University"
+   ]
+  },
+  {
+   "id": "ce1b92e6ca7c8602",
+   "title": "Spatio-temporal coupling of satellite and reanalysis hydro-meteorological signals for cocoa market volatility",
+   "url": "https://doi.org/10.3389/frsen.2026.1987608",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Researchers at Illinois and Toronto linked satellite soil moisture and weather signals over West African cocoa areas to cocoa futures price shifts.",
+   "why": "Earth-observation signals that anticipate cocoa price shocks could help Belcolade sourcing and hedging decisions.",
+   "image": "",
+   "entities": [
+    "University of Illinois Urbana-Champaign",
+    "University of Toronto"
+   ]
+  },
+  {
+   "id": "687ffd1b00a5e9e0",
+   "title": "Samyang Corporation to Participate in SupplySide Global 2026, Strengthening Sugar Reduction Solutions and Dietary Fiber Portfolio",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZTGJCcGUwUFN6eElqakswZ05sRkoxWEN4NUhUT0l5d3lCTlZreTlQd0NWVDRERVBRblU5WnROd1hkMWZsSzBDR1FTT25QeUhNX0hxRW5VelhUckFS?oc=5",
+   "source": "ACROFAN USA",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 4
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Asia-Pacific",
+   "summary": "Samyang Corporation will showcase sugar-reduction solutions, such as allulose, and dietary fibre at SupplySide Global 2026.",
+   "why": "A sugar-reduction and fibre supplier to benchmark or source from for reduced-sugar cakes, fillings and sweet goods.",
+   "image": "",
+   "entities": [
+    "Samyang Corporation"
+   ]
+  },
+  {
+   "id": "7071469e0d1b9a71",
+   "title": "An Interpretable Decision-Support Architecture for Batch Production with POS-Only Operational Data: A Point-in-Time Evaluation",
+   "url": "https://doi.org/10.5281/zenodo.23752914",
+   "source": "OpenAlex",
+   "kind": "preprint",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Digital & AI",
+   "region": "North America",
+   "summary": "Salisbury University evaluated a simple, interpretable forecasting tool that recommends daily bread batch counts for small bakeries from POS data alone.",
+   "why": "A low-data production-planning tool for small bakeries fits Puratos digital services for artisan and in-store customers.",
+   "image": "",
+   "entities": [
+    "Salisbury University"
+   ]
+  },
+  {
+   "id": "477f3d0bb16bb2cb",
+   "title": "Your Halloween Candy Isn't Secretly Lab Grown. But Chocolate Is Changing.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHYwRWxwWEdHdzVhVVZoQUFrODlRa01ZOHY5OHNoNmpOODlxdVVFNmlpdGwyWWZ4TlZKakNRY1RZNTV5bmtCQk5MTjlwUkdiRWVUQUdyTkZHUXViQ2tqeVhjb3BWSTlLeFJvcG1ISTBnS0JKYWdXdUkzYUs3UFZUMEVGM1hkMFBocXVHRTBQd1dnRXkxTGttZF9QOTRaVVk?oc=5",
+   "source": "Men's Fitness",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "A consumer article explains that Halloween candy is not lab-grown but that chocolate is changing with cocoa alternatives and cell-based cocoa.",
+   "why": "Shows cocoa alternatives reaching mainstream consumer media in the US; relevant to Belcolade's positioning on cocoa-free products.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "97022e8c4e971a0c",
+   "title": "Revyve unveils high-PDCAAS yeast protein for nutrition",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNkdzRwNU5taFlPb0FQQVZ0ZDByb1ZPYWx6NHVKM2xXVWM2RlhsNDBROGdjWGZodk9lWGZCYkY2SXdiTmIybEM4NVVPN2hYMjNLUnRlRFhqa01xTVRKWUhpLWNZaFBsWGN0ZXFDc2g4Zmo1YXMwQ2toQzlnSFMxalQzU1VIUjFNMkZUeFRBWjdYalV3VDJFWFZR?oc=5",
+   "source": "Nutrition Insight",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Europe",
+   "summary": "Revyve launched a yeast protein with a high PDCAAS score for nutrition applications.",
+   "why": "A functional yeast protein could serve egg replacement and protein enrichment in bakery and patisserie; a partnership target.",
+   "image": "",
+   "entities": [
+    "Revyve"
+   ]
+  },
+  {
+   "id": "0a0aeb5e34de64f0",
+   "title": "Free-from sweet bakery brand Lazy Day Foods acquired by Baker & Baker",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUR0U0RIVHNURHdaamFmQmZvRWhMU1E1Z0lGSDkwbTBxbUhCMDNtZ0ozeWxKSDdqLVc2YS15MVgtWHlzeUw0cWpkSFl1YXYybTJXN0pJVnJONDRoYlNpZ2tHM1I5RW84bl9aeXI0bnN4d2hYVkZPZFBwRUZPUlNCa0d3SWVVMUFCYTFHWjJUTUMxU3FaZ0Q2UEZMSmU3TllSZ2Zzcm5LaTRkc3EzTjRNVzZiNUdWYlhySXNN?oc=5",
+   "source": "British Baker",
+   "kind": "news",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 2
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Baker & Baker acquired free-from sweet bakery brand Lazy Day Foods.",
+   "why": "Consolidation in free-from sweet bakery; Baker & Baker is a potential customer for Puratos gluten-free and allergen-free solutions.",
+   "image": "",
+   "entities": [
+    "Baker & Baker",
+    "Lazy Day Foods"
+   ]
+  },
+  {
+   "id": "55cb78beb47ea1bd",
+   "title": "Integrating compost and biochar as climate-smart soil amendments to enhance cocoa yield, profitability, and sustainability in Ghana",
+   "url": "https://doi.org/10.21203/rs.3.rs-11283481/v1",
+   "source": "Europe PMC",
+   "kind": "preprint",
+   "published": "2026-10-29",
+   "day": "2026-10-30",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Field trials in Ghana found that compost and biochar combined with half-rate fertiliser raised cocoa bean yields by 74-93% and improved soil.",
+   "why": "Practical yield gains for smallholder cocoa are relevant to Belcolade's Cacao-Trace sustainability and sourcing programmes.",
+   "image": "",
+   "entities": [
+    "Cocoa Research Institute of Ghana",
+    "Aarhus University",
+    "KNUST"
+   ]
+  },
+  {
+   "id": "48f0efae580054da",
+   "title": "FMI: Shoppers go for in-store bakery over aisles",
+   "url": "https://www.foodbusinessnews.net/articles/31277-fmi-shoppers-go-for-in-store-bakery-over-aisles",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "An FMI study finds shoppers rate in-store fresh bakery above centre-store packaged bakery on 10 of 13 attributes.",
+   "why": "Supports Puratos's in-store bakery business in the US; useful for selling fresh-bakery solutions to retailers.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/10/30/baked-goods.webp?t=1793368846",
+   "entities": [
+    "FMI"
+   ]
+  },
+  {
+   "id": "6e0f70fea088fb1f",
+   "title": "MAHA Goes to the States: The Emerging Patchwork of Food Regulation",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWVpNmVGcU5Nd2pCMi1MVkd6SUNBMGZmbjdIaFk3X2VKWGhadl9MTXFQdXozQjRPVGFLTTZROHRsSGExaFJFMGJqZ0ZBYWFFOUVZcTRaWFktRGZieEhPZkRXbE4tX1p0UzNZcFhybWNldUJFdjNUcnRqM0xIRW1Xcks0aE5pQQ?oc=5",
+   "source": "JD Supra",
+   "kind": "regulation",
+   "published": "2026-10-30",
+   "day": "2026-10-30",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "A legal analysis describes how MAHA-style food rules are spreading through US states, creating a patchwork of ingredient and labelling requirements.",
+   "why": "A state-by-state patchwork on dyes, additives and warnings complicates national recipes for US bakery and confectionery customers; track key states and offer compliant reformulations.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

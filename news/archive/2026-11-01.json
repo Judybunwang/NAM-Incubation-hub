@@ -1,0 +1,169 @@
+{
+ "date": "2026-11-01",
+ "headline": "Barry Callebaut Flavourcode and Planet A cocoa replacers; Roquette, Palsgaard; US UPF and dye rules",
+ "summary": [
+  "Barry Callebaut's Flavourcode launch puts a major competitor ahead in controlled cocoa fermentation for flavour, so Belcolade should benchmark it and speed up its own fermentation-flavour offer.",
+  "Planet A Foods is moving from cocoa-free chocolate into fibre-rich cocoa powder replacers, a direct challenge and possible partner for Belcolade's cocoa-saving solutions as Lindt's price cuts show cocoa costs easing.",
+  "Roquette (Wellence GF 1229 for gluten-free bread) and Palsgaard (powdered cake emulsifier) launched competing bakery and cake texture ingredients worth benchmarking against Puratos mixes and improvers.",
+  "US regulation is the key risk: a federal ultra-processed food definition, an FDA additive review, California sugar warnings and a proposed synthetic-dye ban could force reformulation of bread, cakes, glazes and chocolate.",
+  "New research on Peruvian cacao agroforests and Ghanaian climate adaptation shows shade and landscape management can raise cocoa yields, supporting Belcolade's sustainable sourcing work."
+ ],
+ "scanned": 55,
+ "items": [
+  {
+   "id": "2114b1372e73560c",
+   "title": "Water distribution and gluten-network organization in frozen dough prepared with different yeast preparations: Implications for steamed bread quality",
+   "url": "https://doi.org/10.1016/j.foodhyd.2026.113547",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-04",
+   "day": "2026-11-01",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Study of how different yeast preparations affect water distribution and gluten-network structure in frozen dough for steamed bread.",
+   "why": "Frozen-dough yeast choice and gluten stability are relevant to Puratos frozen-dough improvers and yeast-related solutions.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "37993a4f61ca44b0",
+   "title": "Caracterización organoléptica del cacao ecuatoriano: una revisión de la influencia del genotipo, ambiente y manejo poscosecha",
+   "url": "https://doi.org/10.17268/sci.agropecu.2025.064",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-30",
+   "day": "2026-11-01",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Review of how genotype, growing environment and post-harvest fermentation and drying shape the flavour of Ecuadorian Nacional and CCN-51 cocoa.",
+   "why": "Useful background for Belcolade origin chocolates and its controlled cocoa-fermentation work on fine-flavour Ecuadorian cocoa.",
+   "image": "",
+   "entities": [
+    "Universidad Técnica de Manabí",
+    "Universitat de Barcelona"
+   ]
+  },
+  {
+   "id": "c68acaf4736caa58",
+   "title": "Yeast Ingredient Market To 2035: Clean-Label Demand and Bakery Expansion Drive Growth - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXEwVmYybXVYMGNEMDFMdWdSTWliMWZhTDFpdDhQSVdfNmpQTGx4R3JVcmlqUDN4YmZ1ZXdMNFRfR0dfY0twZmdJbDNmcDJ2TGJyV1lpMDVvcnFhS1lsQ1RhOEpXaFFwNE81NUtYQUhEVnhXWGpvSU80QzdfbmVaZlF1MnhoNGY1b2FmUElIYzY5OEdfY0ltVkNPV1k3cFhNc3BhbTViWHptVnF3ckNyTUhBXzduTElrNU5Kd0ZMNTg?oc=5",
+   "source": "IndexBox",
+   "kind": "news",
+   "published": "2026-11-01",
+   "day": "2026-11-01",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Market report forecasting yeast ingredient growth to 2035, driven by clean-label demand and bakery expansion.",
+   "why": "Confirms clean-label demand as a growth driver for yeast and fermentation ingredients in bakery, supporting Puratos sourdough and clean-label improver positioning.",
+   "image": "",
+   "entities": [
+    "IndexBox"
+   ]
+  },
+  {
+   "id": "11b43ba742203302",
+   "title": "Adapt or Perish? Local stakeholders’ responses to climate change in Ghana’s cocoa-growing regions",
+   "url": "https://doi.org/10.1007/s44522-026-00020-5",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-30",
+   "day": "2026-11-01",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Focus groups in Ghana's cocoa regions show supply-chain actors see pests, erratic rain and soil decline from climate change and call for more adaptation support.",
+   "why": "Climate stress on Ghanaian cocoa is a supply risk for Belcolade and relevant to Cacao-Trace style farmer support programmes.",
+   "image": "",
+   "entities": [
+    "Ghana Cocoa Board",
+    "Kwame Nkrumah University of Science and Technology",
+    "Cape Coast Technical University"
+   ]
+  },
+  {
+   "id": "40062649468ad35f",
+   "title": "Integrating local and landscape management promotes biodiversity, multifunctionality and yields in tropical agroforests",
+   "url": "https://doi.org/10.1038/s43247-026-04141-3",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-30",
+   "day": "2026-11-01",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Field study in Peruvian Amazon cacao agroforests finds 30% shade-tree cover in forested landscapes maximises both biodiversity and yields.",
+   "why": "Practical evidence for sustainable cocoa sourcing programmes: shade and landscape management can raise yields without biodiversity loss, useful for Belcolade's farmer programmes.",
+   "image": "",
+   "entities": [
+    "Alliance Bioversity International - CIAT",
+    "University of Göttingen",
+    "BOKU University",
+    "Universidad Nacional Agraria de la Selva"
+   ]
+  },
+  {
+   "id": "78969a296a347409",
+   "title": "The effect of food taxes in the UK on health and economic outcomes, and equity: a modelling study.",
+   "url": "https://doi.org/10.1016/s2468-2667(26)00196-9",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-11-01",
+   "day": "2026-11-01",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Europe",
+   "summary": "Modelling study of UK taxes on sugary snacks and cakes or on foods high in fat, sugar or salt, estimating health gains and reformulation effects.",
+   "why": "A UK tax on cakes and sugary snacks would push sweet-goods customers towards sugar reduction; keep sugar-reduced patisserie and chocolate solutions ready for UK markets.",
+   "image": "",
+   "entities": [
+    "University of Sheffield",
+    "Teesside University"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,459 @@
+{
+ "date": "2026-11-09",
+ "headline": "AB Enzymes shelf-life enzyme; FDA revokes color additive chemicals; Hovis 3-ingredient sourdough",
+ "summary": [
+  "AB Enzymes launched Veron MaxiFresh, a maltogenic amylase for longer shelf life, which competes head-on with Puratos's anti-staling enzymes and improvers, so benchmark it with key industrial bakery accounts.",
+  "FDA revoked authorizations for certain chemicals used in food color additives, so US colored glazes, icings, fillings and decorations should be checked and reformulated where affected.",
+  "Hovis (three-ingredient sourdough answering UPF concerns) and Pepperidge Farm (sourdough cookies) show sourdough moving to short labels and sweet goods, an opening for Sapore.",
+  "Cocoa supply remains the watch point: Treefera's AI flags weather risk for 2027 while Ghana COCOBOD relaunches free fertilizer to lift output, both relevant to Belcolade sourcing.",
+  "ADM is betting on precision fermentation and Baker & Baker bought free-from brand Lazy Day Foods, signalling growing demand for animal-free and allergen-free bakery solutions."
+ ],
+ "scanned": 60,
+ "items": [
+  {
+   "id": "b019be8d6facb1a5",
+   "title": "New AB Enzymes ingredient extends shelf life in baked foods",
+   "url": "https://www.bakingbusiness.com/articles/67210-new-ab-enzymes-ingredient-extends-shelf-life-in-baked-foods",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 9,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "AB Enzymes launched Veron MaxiFresh, a maltogenic amylase that extends shelf life in baked goods.",
+   "why": "A direct competitor to Puratos's anti-staling enzyme and improver range; benchmark performance and pricing for industrial bakery customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/09/110926_Pastries.webp?t=1794240233",
+   "entities": [
+    "AB Enzymes"
+   ]
+  },
+  {
+   "id": "b97406db341ddc45",
+   "title": "FDA Revokes Authorizations for Certain Chemicals Used in Food Color Additives",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmtqZnVaYk5mYVZpYmprZl9iR1lkb3I2OHhhNEpXaXdGa3NtbHpyLXV6clR6dllETmd2VkJsNklTOUJTYWRjUEdwNGl0SWNmRDJfSkdqX3c4MThUc1FYWG52WjRjenc0b0RiR0o3LWpGSGVlc1hncC10VFNtcDFRYVFlN09DMTlZV2dhQ2VRTUdlUGt5bE1vX3hFa2dFNmV3aTdMV2pUWlFZSDU1VWZTUXNmd2FSTy03VGI0bw?oc=5",
+   "source": "Food Safety Magazine",
+   "kind": "regulation",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 8,
+    "Chocolate": 6
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA has revoked authorizations for certain chemicals used in food color additives.",
+   "why": "Puratos's colored glazes, icings, fillings and decorations in the US need checking against the revoked substances and reformulating where affected.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "6eef25912854b3cb",
+   "title": "Hovis Launches Three-Ingredient Sourdough Range In Tesco",
+   "url": "https://www.kamcity.com/namnews/products-promotions/hovis-launches-three-ingredient-sourdough-range-in-tesco/",
+   "source": "KamCity",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Hovis launched a three-ingredient sourdough range in Tesco.",
+   "why": "A major UK baker is pushing short-label sourdough, raising demand for clean-label fermentation solutions like Sapore.",
+   "image": "",
+   "entities": [
+    "Hovis",
+    "Tesco"
+   ]
+  },
+  {
+   "id": "86c7889fba29cabd",
+   "title": "Hovis responds to UPF concerns with three-ingredient sourdough range",
+   "url": "https://www.thegrocer.co.uk/news/hovis-responds-to-upf-concerns-with-three-ingredient-sourdough-range/725658.article",
+   "source": "The Grocer",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Hovis positions its new three-ingredient sourdough range as a response to ultra-processed food (UPF) concerns.",
+   "why": "UPF pressure is pushing industrial bakers to strip ingredient lists; Puratos should be ready with sourdough and enzyme solutions that deliver short labels.",
+   "image": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/8/8/0/410880_hovisjust3_340539.png",
+   "entities": [
+    "Hovis"
+   ]
+  },
+  {
+   "id": "e0f2ca30fb42f6e8",
+   "title": "Treefera CEO: AI flags cocoa supply risks as weather pressures cloud 2027 outlook",
+   "url": "https://www.foodingredientsfirst.com/key-interviews/treefera-cocoa-supply-risks-2027.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Treefera's CEO says its AI satellite monitoring flags cocoa supply risks, with weather clouding the 2027 outlook.",
+   "why": "AI supply-risk tools like Treefera's could help Belcolade's sourcing team anticipate 2027 cocoa shortfalls; possible partner.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639298090774038723cocoa_sourcing_slider_image.jpg",
+   "entities": [
+    "Treefera"
+   ]
+  },
+  {
+   "id": "26ea1f6033b1783c",
+   "title": "Professional Sensory Screening for Hypothesis-Generating Gastronomic Research: An Action Case of Wholegrain Flour Milling and Sourdough Bread",
+   "url": "https://doi.org/10.3390/gastronomy4040025",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Europe",
+   "summary": "Örebro University tested 12 artisan sourdough breads from Swedish wheat landraces and spelt under four milling methods using a professional sensory panel; sifted flours gave airy, elastic crumb while stone-milled wholegrain gave stronger cereal and roasted notes.",
+   "why": "Useful sensory evidence on heritage grains and milling for Puratos's sourdough and wholegrain ranges and Taste Tomorrow insight.",
+   "image": "",
+   "entities": [
+    "Örebro University"
+   ]
+  },
+  {
+   "id": "964d24552bc74d9a",
+   "title": "Scottish Free-From Plant-Based Brand Lazy Day Foods Snapped Up by Baker & Baker",
+   "url": "https://www.greenqueen.com.hk/lazy-day-foods-free-from-plant-based-baker-and-baker-acquisition/",
+   "source": "greenqueen.com.hk",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Baker & Baker has acquired Scottish free-from, plant-based bakery brand Lazy Day Foods to expand in Europe.",
+   "why": "A frozen-bakery customer/competitor is buying into allergen-free plant-based sweet goods, signalling demand for Puratos's egg- and dairy-free solutions.",
+   "image": "https://www.greenqueen.com.hk/wp-content/uploads/2026/11/lazy-day-foods-free-from-plant-based-baker-and-baker-acquisition-1.png",
+   "entities": [
+    "Baker & Baker",
+    "Lazy Day Foods"
+   ]
+  },
+  {
+   "id": "c33922ebd3deda16",
+   "title": "Regional distribution and soil extractability of cadmium in cacao systems across the Cordillera subregion of Nariño in Colombia",
+   "url": "https://doi.org/10.1007/s44378-026-00368-w",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-09",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "AGROSAVIA mapped cadmium in cacao soils and beans across 143 farms in Nariño, Colombia, finding 20% of bean samples above 0.6 mg/kg and linking soil pH and minerals to uptake.",
+   "why": "Cadmium limits (EU) make Colombian origin sourcing a compliance risk for Belcolade; the soil factors suggest mitigation levers to discuss with suppliers.",
+   "image": "",
+   "entities": [
+    "AGROSAVIA",
+    "Universidade Federal de Lavras"
+   ]
+  },
+  {
+   "id": "993fa955781673e6",
+   "title": "ADM sees precision fermentation as next growth phase",
+   "url": "https://www.world-grain.com/articles/23431-adm-sees-precision-fermentation-as-next-growth-phase",
+   "source": "World Grain",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "ADM says precision fermentation is its next growth phase.",
+   "why": "A major ingredient supplier scaling precision fermentation could supply animal-free dairy and egg proteins for Puratos's bakery and patisserie lines, or compete with them.",
+   "image": "https://www.world-grain.com/ext/resources/2026/11/09/lab-technicians_research_Illustrissima--Adobe-Stock.jpeg?height=635&t=1794231290&width=1200",
+   "entities": [
+    "ADM"
+   ]
+  },
+  {
+   "id": "5768c260dd96e10f",
+   "title": "Fi Europe 2026 preview: Clean label reformulation meets the sensory challenge",
+   "url": "https://www.foodingredientsfirst.com/news/fi-europe-2026-clean-label-reformulation.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 4
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Europe",
+   "summary": "Fi Europe 2026 preview on how clean-label reformulation is colliding with sensory expectations.",
+   "why": "Clean-label taste trade-offs are the core problem Puratos's enzyme, sourdough and flavour solutions address; useful for trade-show positioning.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639298269974508446Frankfurt_skyline_slider_pic_1.jpg",
+   "entities": [
+    "Fi Europe"
+   ]
+  },
+  {
+   "id": "4a49924a792c58bb",
+   "title": "Simultaneous extraction of cocoa butter and antioxidants from defective cocoa beans by natural deep eutectic solvents",
+   "url": "https://doi.org/10.1038/s41598-026-79679-5",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-09",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Chulalongkorn University used a natural deep eutectic solvent to extract cocoa butter and phenolic antioxidants together from defective, under-fermented cocoa beans.",
+   "why": "An upcycling route for off-grade beans could stretch cocoa butter supply amid high prices; worth tracking for Belcolade sustainability.",
+   "image": "",
+   "entities": [
+    "Chulalongkorn University"
+   ]
+  },
+  {
+   "id": "78d0f2141000cb17",
+   "title": "Ghana COCOBOD relaunches free fertilizer programme to boost cocoa production",
+   "url": "https://www.foodbusinessmea.com/ghana-cocobod-relaunches-free-fertilizer-programme-to-boost-cocoa-production/",
+   "source": "Food Business Middle East & Africa",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Ghana COCOBOD is relaunching a free fertilizer programme to raise cocoa output.",
+   "why": "Higher Ghanaian yields would ease cocoa supply pressure for Belcolade over the next seasons.",
+   "image": "https://www.foodbusinessmea.com/wp-content/uploads/2026/11/TKD-Social-Fertiliser-Relaunch-3.jpg",
+   "entities": [
+    "Ghana COCOBOD"
+   ]
+  },
+  {
+   "id": "07fcefb957d8c351",
+   "title": "Pepperidge Farm Launches First-of-Its-Kind Sourdough Cookies",
+   "url": "https://bleedingcool.com/pop-culture/pepperidge-farm-launches-first-of-its-kind-sourdough-cookies/",
+   "source": "Bleeding Cool News",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Pepperidge Farm launched sourdough cookies, which it calls a first of its kind.",
+   "why": "Sourdough is moving into sweet goods in mainstream US retail, an opening for Puratos's Sapore sourdough in cookies and pastries.",
+   "image": "https://bleedingcool.com/wp-content/uploads/2026/11/Pepperidge-Farm-Sourdough-KV-Lifestyle-V1-Hero-packs-16x9-jpg-2000x1125.jpg",
+   "entities": [
+    "Pepperidge Farm"
+   ]
+  },
+  {
+   "id": "a60ab2195514ca91",
+   "title": "Trust Tapioca Fiber",
+   "url": "https://www.foodbusinessnews.net/articles/31297-trust-tapioca-fiber",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Sponsored piece promoting a clean-label tapioca fiber for formulation and fibre enrichment.",
+   "why": "A clean-label fibre option relevant to Puratos's fibre-enrichment and sugar-reduction work in bakery.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/03/fibersol-main-image-1200x800.webp?t=1794232865",
+   "entities": []
+  },
+  {
+   "id": "80859650efa18a75",
+   "title": "Mondelēz shifts strategy to drive growth",
+   "url": "https://www.foodnavigator.com/Article/2026/11/09/mondelez-growth-strategy-revealed-as-market-share-gains-accelerate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Mondelēz is chasing growth through share gains, emerging markets, affordability-focused innovation and distribution.",
+   "why": "A leading chocolate and biscuit maker focusing on affordability signals demand for cost-efficient chocolate and filling solutions.",
+   "image": "https://www.foodnavigator.com/resizer/v2/ADROHOX2AZGHXB3CM5RKG3ONBM.jpg?auth=d070f0cd1ad547f965281bd6b75c6ab70ce80c81a2f869458e8ae35226c45e5b&smart=true&width=2121&height=1414",
+   "entities": [
+    "Mondelēz"
+   ]
+  },
+  {
+   "id": "016e1daf650846f2",
+   "title": "US midterms: Should European bakers build or ship?",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/11/09/us-bakery-investment-how-tariffs-affect-european-bakers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "European bakers weigh building US plants versus exporting amid tariff uncertainty after the midterms.",
+   "why": "Shifts by European bakers into US production could create new North American customers for Puratos's Pennsauken-led operations.",
+   "image": "https://www.foodnavigator.com/resizer/v2/Q25IDQXSYRHRFDPACVQFZLNV2Y.jpg?auth=7b9fa59e8c45720c51640568a5aa0e8c1c9bfcde20426411ec05bc47bcd100a4&smart=true&width=2121&height=1414",
+   "entities": []
+  },
+  {
+   "id": "ba8bf666bcb354ff",
+   "title": "Pandan trends in global flavors",
+   "url": "https://www.bakemag.com/articles/22207-pandan-trends-in-global-flavors",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 6,
+    "Chocolate": 2
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "North America",
+   "summary": "US new product claims promoting pandan flavour rose 53% between early 2025 and mid-2026.",
+   "why": "Pandan is a fast-rising flavour for fillings, creams and cakes; a candidate for new Puratos patisserie flavours.",
+   "image": "https://www.bakemag.com/ext/resources/2026/11/09/110926_Pandan.webp?t=1794244831",
+   "entities": []
+  },
+  {
+   "id": "9244cb18786a0259",
+   "title": "UK–EU SPS Agreement: Implications for Food Safety Regulations, Trade, and Compliance",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYy16NFF4X1pqM2dWMk9pRFMzdTc3b2MwZUUzZXoybklsQmp3N3hST3dOUFRRODFVMzcwTEZjSEhiaXZlME1ka1diZWY3YVg1ZWV5d2IyTUpwZlNMWHZURGZqSEZFTlhHcGgzYU1XeTRDdUdOSEMxQlVuYnFHcUZqMndxYnhIeFl4OGgxQWVMcGhpd2Q2OUl4UGRmM2hFTWNYT3Fxa05hV2NwcHFJOXgxSlN3V3pHaUNNTWNEU1FaZTQ?oc=5",
+   "source": "Food Safety Magazine",
+   "kind": "regulation",
+   "published": "2026-11-09",
+   "day": "2026-11-09",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Europe",
+   "summary": "Analysis of the UK–EU sanitary and phytosanitary (SPS) agreement and its effects on food safety rules, trade and compliance.",
+   "why": "Puratos's UK–EU flows of ingredients and chocolate may face simpler checks; trade and regulatory teams should review the agreement terms.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

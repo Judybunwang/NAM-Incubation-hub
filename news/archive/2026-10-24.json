@@ -1,0 +1,260 @@
+{
+ "date": "2026-10-24",
+ "headline": "Galy cultured cocoa goes to market; FDA opens salt substitutes in standardized breads",
+ "summary": [
+  "Galy is launching cell-cultured cocoa in the US (WunderHaus) and to professional kitchens, a funded cocoa-free player that is both a partnership target and a direct competitor for Belcolade.",
+  "The FDA will allow salt substitutes in 139 standardized foods, including breads and rolls, from December 14, 2026, giving bakery customers a clear path to sodium reduction and Puratos a sell-in moment.",
+  "Pressure is mounting on HHS to publish a federal ultra-processed food definition, alongside proposed GRAS reforms, so Puratos should audit US ingredient dossiers and ready clean-label options for packaged bakery customers.",
+  "Sugar and egg replacement keep moving: Oobli and Cosun built a sugar replacer for chocolate, and MOA Foodtech and Espiga are partnering on egg replacement for bakery.",
+  "Large North American bakers such as Grupo Bimbo are adding fibre and protein, and Kemin is promoting clean-label baking guides, which raises the bar for Puratos fibre and clean-label solutions."
+ ],
+ "scanned": 58,
+ "items": [
+  {
+   "id": "d954248bad08ee0e",
+   "title": "Targeted flavour development in chocolate: omics-driven insights into cocoa fermentation",
+   "url": "https://doi.org/10.1016/j.copbio.2026.103588",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-10-24",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "A review of how omics tools (genomics, metabolomics) are being used to steer cocoa fermentation toward targeted chocolate flavours.",
+   "why": "Supports Belcolade's work on controlled cocoa fermentation and starter cultures to deliver consistent origin flavour profiles.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "aca622a2f81946f0",
+   "title": "FDA Clears Alt-Salts for More Foods, But Will Brands Reformulate?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2l3cXF2TWp0ZktraFVEaFNXSG1qLUhGeWdtSUx4SE1Rb0J2M2pjVVNpb3ZxMUxXdTVHQzVjRWFJTzJWd0t3MmpIUl9xT2t6SVZlNzVIdXd2SDdwVmdWemVkNGVRVnFTa3RxVThvdmd3MlVkQ2lQWlhkSUhwcTFodUdJQkZJZk9SelBiVHV4SnRSajhDXzVnbzNB?oc=5",
+   "source": "Nosh.com",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 4,
+    "Chocolate": 2
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Coverage of the FDA rule allowing salt substitutes in more standardized foods, and whether brands will reformulate.",
+   "why": "Opens a sodium-reduction path for standardized breads and rolls; a sell-in moment for Puratos salt-reduction solutions ahead of the December 2026 effective date.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "6573fbc7e411ac07",
+   "title": "Chocolate Makers Report Volume Growth as Cocoa Demand Finds a Floor",
+   "url": "https://www.stonex.com/en/insights/chocolate-makers-report-volume-growth-as-cocoa-demand-finds-a-floor/",
+   "source": "StoneX",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "StoneX market commentary reporting that chocolate makers are seeing volume growth again as cocoa demand stabilises.",
+   "why": "A demand floor after the cocoa price shock is a cue for Belcolade to plan volumes and pricing as customers return from cocoa-saving recipes.",
+   "image": "",
+   "entities": [
+    "StoneX"
+   ]
+  },
+  {
+   "id": "1590784a288bc4e1",
+   "title": "Why experts are pushing RFK Jr. to release a federal definition of ultraprocessed foods",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkU3Q3lfa0Y0SlhqRjVZMngtcGFsOGZPZnNGVHJCRUdyMFRTeGE4RGdwbHo4Y1hucDFkcUtWNFNsUGJzSFlzN3ViY3RYOVpXQ0NLYjhCV0VQMWl2bGVMZ3oxRFBpcEhPTVNpUFlwdGN5alJZY1lvNlI2Unp5dGw4eVBpaU1yQXNQVGpaUnZyTUFKZllLUlRQb2tpb1dVLTMwVWtHcy1RUzZpMkpXWDBkeEZPekl4bm9OYTE4TldSUQ?oc=5",
+   "source": "PBS",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Experts are pressing HHS Secretary RFK Jr. to publish a federal definition of ultra-processed foods.",
+   "why": "A US UPF definition would affect packaged bread, cakes and confectionery; prepare clean-label, fewer-additive reformulation options for customers.",
+   "image": "",
+   "entities": [
+    "HHS"
+   ]
+  },
+  {
+   "id": "c51caac33ef21673",
+   "title": "Kemin e-book covers formulating for clean label",
+   "url": "https://www.bakingbusiness.com/articles/67094-kemin-e-book-covers-formulating-for-clean-label",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 5,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Kemin released an e-book on formulating clean-label foods with ingredient swaps and technical support.",
+   "why": "A competitor push on clean-label bakery formulation; benchmark against Puratos clean-label messaging and support.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/20/102126_Kemin-ebook.webp?t=1792767686",
+   "entities": [
+    "Kemin"
+   ]
+  },
+  {
+   "id": "40541d0cb6271bd3",
+   "title": "EWG evaluation of food chemicals: Titanium dioxide",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVl9vZUJ2em5BTGhYcklsS3FCN3N4LXFOaEoxT2YwdDE1NVM1cVhOTWNJM3BnT0VXcXZ4dU93R25INXoxRnZOb1ZOTHF3S3FXLXd2ZzlfRmlDUlg5R29NZE5HU3VtQVEzaVpvNnY2eUlRbFBIR01wSC01ZlhGb2UzdQ?oc=5",
+   "source": "Environmental Working Group",
+   "kind": "regulation",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "The Environmental Working Group published an evaluation of titanium dioxide as a food additive.",
+   "why": "Ongoing US pressure on titanium dioxide affects white icings, decorations and coated confectionery; Patisserie and Chocolate customers will want TiO2-free whiteners.",
+   "image": "",
+   "entities": [
+    "Environmental Working Group"
+   ]
+  },
+  {
+   "id": "fca7a3735f5dd43d",
+   "title": "Reese’s Christmas rollout signals new confectionery playbook",
+   "url": "https://www.confectionerynews.com/Article/2026/10/23/reeses-festive-launch-signals-shift-towards-trusted-power-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Hershey is expanding Reese's for Christmas with Advent calendars, selection boxes and festive products.",
+   "why": "Shows seasonal and sharing formats driving confectionery growth in the US, an angle for Belcolade customers' holiday ranges.",
+   "image": "https://www.foodnavigator.com/resizer/v2/4UPN65ZFEFFB3L6ZZPLQWHHVBA.jpg?auth=3abb646f9b92c0cecc634039a302beb1859ba1499b66ba142da1cbedd02c1047&smart=true&width=2272&height=1381",
+   "entities": [
+    "Hershey"
+   ]
+  },
+  {
+   "id": "64c79c5a9e645bf7",
+   "title": "Applications of pulse ingredients in bakery products",
+   "url": "https://doi.org/10.1016/b978-0-443-32956-2.00007-1",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Global / Unknown",
+   "summary": "A book chapter on using pulse flours, proteins and fibres in bakery products.",
+   "why": "A practical reference for protein- and fibre-enriched bread and pulse-based gluten-free formulations in Puratos Bakery mixes.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "11b26e9082818c07",
+   "title": "Food For Life launches organic sprouted bagels",
+   "url": "https://www.bakingbusiness.com/articles/67109-food-for-life-launches-organic-sprouted-bagels",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-23",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Food For Life launched organic sprouted bagels under its Ezekiel 4:9 bread line.",
+   "why": "Shows US demand for sprouted, whole-grain bakery formats; a cue for sprouted-grain and wholegrain solutions in Bakery.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/21/102226_Food-for-life_organic-sprouted-bagels-Ezekiel.webp?t=1792768552",
+   "entities": [
+    "Food For Life"
+   ]
+  },
+  {
+   "id": "022fd5fb90f66798",
+   "title": "WinCo Foods Hoagie Rolls Recalled For Undeclared Sesame",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHZtRmNGZ1I3LTVIYjZOVTBHNzQyalU3TnFYdVNoUk85aEk1MmJla2xTTDN1QVkwTHQ3RkhiU2hXazctZXA2YUUzMUlnbjJ5by1uMjhuTEJidGl0SGpwS0ptME80a090YTFqczVpNnRKSlIzd0Qzc25LUmNKS1dzempKUG5hX0xyaERqX2ZPS1lpVUM2VGd4aFBWQQ?oc=5",
+   "source": "Food Poisoning Bulletin",
+   "kind": "regulation",
+   "published": "2026-10-24",
+   "day": "2026-10-24",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "WinCo Foods hoagie rolls were recalled in the US because they contained undeclared sesame.",
+   "why": "Sesame is now a major US allergen and keeps causing bread recalls; bakery customers need tight allergen controls on shared lines and ingredients.",
+   "image": "",
+   "entities": [
+    "WinCo Foods"
+   ]
+  }
+ ]
+}

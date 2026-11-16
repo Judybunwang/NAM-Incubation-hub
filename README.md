@@ -7,13 +7,19 @@ Business case to have a start up incubator part of broader Puratos.
 
 ## Food-tech news tab
 
-The "Food-tech news" tab shows the latest daily brief from the Food-Tech Scout
-(private repo `Judybunwang/PuratosScouting`): Claude's headline and executive summary,
-then the top items by business unit, with a picker for the last 14 days.
+The "Food-tech news" tab summarises the Food-Tech Scout (private repo
+`Judybunwang/PuratosScouting`) by period. Its dropdown lists the last 5 weeks, then each
+completed month, then each completed quarter (Q1-Q4), so it rolls up as history builds.
+Each period shows a headline, an executive summary and its top stories, with filters by
+business unit.
 
-- `news/latest.json` holds the briefs; the page reads it when the tab loads.
-- `.github/workflows/news.yml` rebuilds it every day (12:30 and 16:30 UTC, after the
-  scout's morning scoring) with `scripts/build_news.py` and commits it when it changed.
+- `news/archive/<day>.json`: each scored day's candidate items and Claude's daily notes,
+  kept here so history outlives the scout's own retention window.
+- `news/summaries/<period>.json`: Claude-written headline and executive summary per
+  week, month or quarter (see that folder's README). Without one, the page shows the
+  period's top stories at a glance.
+- `news/latest.json`: what the page reads, built by `scripts/build_news.py`.
+- `.github/workflows/news.yml` runs it every day (12:30 and 16:30 UTC) and commits changes.
 - One-time setup: add a repository secret `SCOUT_REPO_TOKEN`, a fine-grained personal
   access token with read-only Contents access to `Judybunwang/PuratosScouting`.
   You can also run the workflow by hand from the Actions tab.

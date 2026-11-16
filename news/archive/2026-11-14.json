@@ -1,0 +1,544 @@
+{
+ "date": "2026-11-14",
+ "headline": "Amyris buys sweet-protein maker Oobli; Palsgaard emulsifiers come to North America",
+ "summary": [
+  "Amyris is acquiring Oobli, the precision-fermentation sweet-protein start-up, creating a stronger supplier Puratos should test for sugar-reduced fillings and Belcolade chocolate.",
+  "LBB Specialties will distribute Palsgaard's plant-based emulsifiers in North America, a new clean-label sourcing option for cakes, creams and bread, and a sign competitors will push the same claims.",
+  "The US administration is renewing its push to define ultra-processed foods, and FDA is delisting three cancer-linked solvents from food colourings; bakery and patisserie customers will need reformulation and supplier checks.",
+  "California Natural Color's new natural red and IFF's AI concept tool show suppliers moving fast on dye replacement and digital innovation, areas where Patisserie colours and Taste Tomorrow need to keep pace.",
+  "A batch of new cocoa reference chapters (fermentation, conching, alkalization, husk upcycling) is worth routing to Belcolade R&D as background, though none describes a commercial breakthrough."
+ ],
+ "scanned": 61,
+ "items": [
+  {
+   "id": "61cb2e50c413714c",
+   "title": "Amyris: Acquisition Of Oobli To Expand Sweet Protein Technology And Precision Fermentation Capabilities",
+   "url": "https://pulse2.com/amyris-acquisition-of-oobli-to-expand-sweet-protein-technology-and-precision-fermentation-capabilities/",
+   "source": "Pulse 2.0",
+   "kind": "news",
+   "published": "2026-11-14",
+   "day": "2026-11-14",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 8,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Amyris is acquiring Oobli, a US start-up making sweet proteins by precision fermentation for sugar reduction.",
+   "why": "Consolidation in precision-fermented sweet proteins gives Patisserie and Chocolate a scaled supplier to evaluate for sugar-reduced fillings and chocolate; watch supply terms after the deal.",
+   "image": "https://cdn.pulse2.com/cdn/2026/11/Amyris-Logo.jpeg",
+   "entities": [
+    "Amyris",
+    "Oobli"
+   ]
+  },
+  {
+   "id": "b5136ae5846bd88e",
+   "title": "Amyris acquiring sweet protein company",
+   "url": "https://www.bakingbusiness.com/articles/67237-amyris-acquiring-sweet-protein-company",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 8,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Amyris is acquiring Oobli, which uses fermentation to make sweet protein ingredients for sugar reduction.",
+   "why": "Same deal as the Pulse 2.0 report: a strengthened sweet-protein supplier worth testing in sugar-reduced fillings and chocolate.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/13/111326_Emeryville.webp?t=1794593856",
+   "entities": [
+    "Amyris",
+    "Oobli"
+   ]
+  },
+  {
+   "id": "a6e5ac7d9192df13",
+   "title": "LBB Specialties partners with Palsgaard to bring plant-based emulsifier technologies to North America",
+   "url": "https://www.indianchemicalnews.com/technology/lbb-specialties-partners-with-palsgaard-to-bring-plant-based-emulsifier-technologies-to-north-america-32655",
+   "source": "Indian Chemical News",
+   "kind": "news",
+   "published": "2026-11-14",
+   "day": "2026-11-14",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 7,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "North America",
+   "summary": "Distributor LBB Specialties will bring Palsgaard's plant-based emulsifier technologies to North America.",
+   "why": "Wider North American access to plant-based emulsifiers for cakes, creams and bread; both a sourcing option and a sign of competitors' clean-label emulsifier push.",
+   "image": "https://www.indianchemicalnews.com/public/uploads/news/2026/11/32655/LBB_Specialties.jpg",
+   "entities": [
+    "LBB Specialties",
+    "Palsgaard"
+   ]
+  },
+  {
+   "id": "7954bfc2b8a1ae97",
+   "title": "Fermentation of cocoa beans",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00020-x",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "Book chapter from Spain's IATA-CSIC on cocoa bean fermentation.",
+   "why": "Cocoa fermentation drives flavour quality for Belcolade; a current reference from a recognised lab on starter-culture approaches.",
+   "image": "",
+   "entities": [
+    "IATA-CSIC"
+   ]
+  },
+  {
+   "id": "515effe899404903",
+   "title": "Werner & Pfleiderer strengthens its Middle East presence through integrated bakery solutions and strategic partnerships",
+   "url": "https://www.foodtechbiz.com/amp/story/events/werner-pfleiderer-strengthens-its-middle-east-presence-through-integrated-bakery-solutions-and-strategic-partnerships",
+   "source": "FoodTechBiz",
+   "kind": "news",
+   "published": "2026-11-14",
+   "day": "2026-11-14",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Processing & Automation",
+   "region": "Middle East & Africa",
+   "summary": "Bakery equipment maker Werner & Pfleiderer is expanding in the Middle East with integrated bakery lines and partnerships.",
+   "why": "Equipment partners expanding in the Middle East shape industrial bakery projects where Puratos supplies ingredients; possible co-development ally.",
+   "image": "https://media.assettype.com/foodtechbiz%2F2026-11-14%2Fd52whds0%2Fsafeautomations1600x900.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "entities": [
+    "Werner & Pfleiderer"
+   ]
+  },
+  {
+   "id": "dd6430c065f98250",
+   "title": "Alkalization process in cocoa production",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00008-9",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Book chapter from Turkish universities on the alkalization (Dutching) of cocoa.",
+   "why": "Alkalization controls cocoa powder colour and flavour for Belcolade and cocoa-based fillings; reference-level.",
+   "image": "",
+   "entities": [
+    "Ankara University",
+    "Yildiz Technical University"
+   ]
+  },
+  {
+   "id": "af97402dc3e85299",
+   "title": "Recent advances of cocoa liquor conching",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00014-4",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter reviewing recent advances in conching of cocoa liquor.",
+   "why": "Conching advances can cut energy and time in chocolate making; check for process ideas for Belcolade plants.",
+   "image": "",
+   "entities": [
+    "NIFTEM Thanjavur",
+    "NIT Rourkela"
+   ]
+  },
+  {
+   "id": "17f849d84894c3aa",
+   "title": "California Natural Color debuts red coloring for candy",
+   "url": "https://www.snackandbakery.com/articles/116654-california-natural-color-debuts-red-coloring-for-candy",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 7,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "North America",
+   "summary": "California Natural Color launched a natural red colouring for candy.",
+   "why": "With US synthetic dye phase-outs, natural reds are a direct option for icings, glazes, decorations and fillings; evaluate for Patisserie colour ranges.",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/11/13/california-natural-color-gummies.jpg?height=635&t=1794592802&width=1200",
+   "entities": [
+    "California Natural Color"
+   ]
+  },
+  {
+   "id": "e5212dd6bf776e17",
+   "title": "The Journey from Cocoa to Chocolate",
+   "url": "https://doi.org/10.1016/c2023-0-52403-6",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Book chapter giving an overview of the cocoa-to-chocolate value chain.",
+   "why": "Background reference for Belcolade teams on cocoa processing; no new technology.",
+   "image": "",
+   "entities": [
+    "Elsevier"
+   ]
+  },
+  {
+   "id": "dfc59e5f4d0c85f6",
+   "title": "Development of cocoa products useful in chocolate processing",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00012-0",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter from Indian institutes on developing cocoa products used in chocolate processing.",
+   "why": "Useful reference for Belcolade on cocoa intermediates; academic review rather than a new process.",
+   "image": "",
+   "entities": [
+    "Central Institute for Subtropical Horticulture",
+    "NIT Rourkela"
+   ]
+  },
+  {
+   "id": "fcf9325ca81ec05e",
+   "title": "Cocoa powders beyond chocolate: Properties, functionality, and emerging applications",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00017-x",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter on cocoa powder properties, functionality and new uses outside chocolate.",
+   "why": "Cocoa powder functionality matters for cocoa-flavoured fillings, cakes and bakery; review-level insight.",
+   "image": "",
+   "entities": [
+    "IIT Kharagpur"
+   ]
+  },
+  {
+   "id": "24c65b32e60b53cd",
+   "title": "FORTIFICATION OF WHEAT FLOUR TYPE 000 WITH GRAPE POMACE POWDER. CHEMICAL AND SENSORY ASPECTS",
+   "url": "https://doi.org/10.52846/bihpt.v31i67.364",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-12",
+   "day": "2026-11-14",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Romanian study fortifying refined wheat flour with 5-20% grape pomace powder and assessing chemical and sensory effects.",
+   "why": "Upcycled winery by-product as a polyphenol and fibre enricher for bread flour; idea for clean-label enriched bakery mixes.",
+   "image": "",
+   "entities": [
+    "University of Craiova"
+   ]
+  },
+  {
+   "id": "7dec11b2a956785f",
+   "title": "Factors affecting the flavor of cocoa and cocoa products",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00010-7",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter reviewing the factors that shape cocoa and chocolate flavour.",
+   "why": "Background on flavour drivers relevant to Belcolade origin and fermentation programmes.",
+   "image": "",
+   "entities": [
+    "Pondicherry University",
+    "Zagazig University"
+   ]
+  },
+  {
+   "id": "5bbdb027145b66a2",
+   "title": "Trump Renews Bid to Define Ultra-Processed Foods",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzBOSUVqV2Z3MVNBR3hTVmRiTENxQy1Xa21EbkRJMi1IZXI4Y0pfWGVTdXVNUUd1OTRzN01adUNSZEppeUxmZzE0Y0l4UlUxWHByZlBqd0M3QkxHZDhvVVE3VzFGZENDVjZPOXZTT01YSF8zUXl4RlZsTlNsbmZwS1FJNTFTUQ?oc=5",
+   "source": "Newsmax",
+   "kind": "regulation",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "The Trump administration is renewing efforts to set a federal definition of ultra-processed foods.",
+   "why": "A US UPF definition could hit packaged bread, cakes and confectionery made by Puratos customers; track the proposal and prepare clean-label reformulation arguments.",
+   "image": "",
+   "entities": [
+    "US government"
+   ]
+  },
+  {
+   "id": "b370d26481c1ced3",
+   "title": "Cocoa: The chemist of flavors",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00018-1",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter on the chemistry of cocoa flavour.",
+   "why": "Background on cocoa flavour chemistry for Belcolade flavour work.",
+   "image": "",
+   "entities": [
+    "Tamil Nadu Agricultural University"
+   ]
+  },
+  {
+   "id": "4afe91ceb6441548",
+   "title": "Cocoa husk utilization",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00013-2",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Sustainability & Upcycling",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter on uses for cocoa husk (shell) by-products.",
+   "why": "Cocoa shell upcycling (fibre, flavour) fits Puratos sustainability goals and could feed fibre-rich bakery ingredients.",
+   "image": "",
+   "entities": [
+    "Institute of Chemical Technology"
+   ]
+  },
+  {
+   "id": "805946f1943800df",
+   "title": "Traditional and novel methods for cocoa quality and authenticity",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00009-0",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Book chapter on traditional and new methods to test cocoa quality and authenticity.",
+   "why": "Authenticity testing supports Belcolade origin claims and supplier quality control.",
+   "image": "",
+   "entities": [
+    "University of Petroleum and Energy Studies"
+   ]
+  },
+  {
+   "id": "2165401dbfb5a429",
+   "title": "Quality and safety issues related to chocolate",
+   "url": "https://doi.org/10.1016/b978-0-443-31572-5.00015-6",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Shelf-life & Food Safety",
+   "region": "Global / Unknown",
+   "summary": "Book chapter on quality and safety issues in chocolate.",
+   "why": "Reference for Belcolade quality teams on contaminants and defects.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "a00601c1653e0a41",
+   "title": "FDA pulls three cancer-linked solvents from food coloring and produce inks; decaf coffee is not covered",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkt2czdPUy1RV1o4WXJQenFBOUtPY1RtWG81Tl9QU1l6aUlDYVN1aW05Z1E0eUdwS2RoRXFxRlpadFFCVWN4VnFTR0pBT3gydG9VT1hKTHF2cTFWZ3QzQVhTY1B0X1JFeDExOElTSk5seThKTnhuajVsSlRLOFhPYnlzM3VnbWNyN2UzbnNVeElXbUtuaTlMRWNOWkxETXltbGhsbEVBWXY0MkFWRHdwdHZ6LVIweXZvblRIa3FIVnc?oc=5",
+   "source": "Nacionale",
+   "kind": "regulation",
+   "published": "2026-11-14",
+   "day": "2026-11-14",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA is removing authorisation for three cancer-linked solvents used in food colourings and produce inks.",
+   "why": "Colour suppliers must confirm their colour preparations for icings, glazes and coatings don't rely on the delisted solvents; check supplier declarations.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "e89421d3cb2854e9",
+   "title": "IFF’s AI tool speeds up product concept creation",
+   "url": "https://www.bakingbusiness.com/articles/67234-iffs-ai-tool-speeds-up-product-concept-creation",
+   "source": "Baking Business",
+   "kind": "news",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 4
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Digital & AI",
+   "region": "North America",
+   "summary": "IFF launched an AI tool that speeds up product concept creation, covered by Baking Business.",
+   "why": "Competitor AI for concept development raises the bar for Puratos's Taste Tomorrow and customer innovation services.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/13/111326_MUSE.jpg?height=635&t=1794591672&width=1200",
+   "entities": [
+    "IFF"
+   ]
+  },
+  {
+   "id": "095335409941be75",
+   "title": "FDA Issues 2026 Retail Food Standards",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZNC03djFsVU9heG1oWERDOG1KOFp1R0tIQmlMcXZGN3FnR2VvYTdwUkU3R1NZZkZQUEh4enVPUTlhR1luUVlXVklBT0VKWmVHY1NMSWtpSFZiR0JHb0xCOWtna0M1cGFjN00yaVRjOUxTU2RiRWxDOHlB0gF_QVVfeXFMTWJ4QUMxa2NOQi1sNGYzZWFScHdlSVhTbFA0MmxaZlVUZ0lHN1ZvLW14Z3VVM1hoQTJTY295OG04QTJmTDBnTWRrT0IzQTNJdTlicEl5NjF6LTRQaXhFWGJZZG9xaU42VjRkTkx3VllVd1NFQ1otTGxRSllyTS1VOA?oc=5",
+   "source": "The National Law Review",
+   "kind": "regulation",
+   "published": "2026-11-13",
+   "day": "2026-11-14",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 3
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA has issued the 2026 edition of its retail food safety standards (Food Code-type guidance).",
+   "why": "In-store and retail bakery customers will update food safety practices; useful for Puratos technical advisers serving retail bakeries.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  }
+ ]
+}

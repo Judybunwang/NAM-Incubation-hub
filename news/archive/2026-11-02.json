@@ -1,0 +1,466 @@
+{
+ "date": "2026-11-02",
+ "headline": "Barry Callebaut Flavourcode, Planet A cocoa booster, Roquette gluten-free; GLP-1 hits chocolate",
+ "summary": [
+  "Barry Callebaut's Flavourcode launch puts a major competitor ahead in controlled cocoa fermentation flavour; Belcolade should assess the gap and speed up its own fermentation-flavour offer.",
+  "Planet A Foods and other cocoa-alternative players are moving into cocoa-powder replacers with fibre and GLP-1 claims, a partnership target or direct competitor for Belcolade cocoa-saving solutions.",
+  "Roquette (gluten-free hydrocolloid) and Palsgaard (powdered cake emulsifier) launched products squarely in Puratos's gluten-free and cake-improver territory; benchmark them against Puratos ranges.",
+  "GLP-1 drugs and falling US confectionery volumes at Hershey point to smaller, reduced-sugar indulgence, while Fooditive's rare sugar 5-KDF nears FDA review as a sugar-reduction partner.",
+  "Ultra-processed food definitions and state additive and dye bans keep building in the US and are now reaching Brussels; keep clean-label, natural-colour reformulation options ready for customers."
+ ],
+ "scanned": 69,
+ "items": [
+  {
+   "id": "9acc41f52eb1aed1",
+   "title": "Roquette’s hydrocolloid system takes on gluten-free issues",
+   "url": "https://www.bakingbusiness.com/articles/67145-roquettes-hydrocolloid-system-takes-on-gluten-free-issues",
+   "source": "Baking Business",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Baking Business covers Roquette's hydrocolloid system aimed at the texture and volume problems of gluten-free bread.",
+   "why": "A large ingredient competitor entering gluten-free bakery texture; benchmark it against Puratos gluten-free mixes and improvers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/27/102726_AdobeStock_Gluten-Free.jpg?height=635&t=1793634153&width=1200",
+   "entities": [
+    "Roquette"
+   ]
+  },
+  {
+   "id": "159d37b2ae506a6d",
+   "title": "Bacterial community shifts and metabolite-mediated cryoprotection in lactic acid bacteria-fermented sourdoughs: Effects on freezing stability of dough and bread quality",
+   "url": "https://doi.org/10.1016/j.foodres.2026.121109",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-01",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 8.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Chinese study showing lactic acid bacteria-fermented sourdoughs produce metabolites that protect frozen dough, improving freezing stability and bread quality.",
+   "why": "Relevant to Sapore sourdough and frozen-dough improvers: sourdough as a clean-label cryoprotectant for frozen bakery customers.",
+   "image": "",
+   "entities": [
+    "Shenyang Normal University"
+   ]
+  },
+  {
+   "id": "fe7f87fc1964e569",
+   "title": "Biolev Plus Wall Yeast Biofermented Solution for Egg Replacement",
+   "url": "https://www.foodingredientsfirst.com/video/biolev-plus-wall-yeast-biofermented-solution-for-egg-replacement.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 8,
+    "Chocolate": 1
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Global / Unknown",
+   "summary": "Food Ingredients First features Biolev Plus Wall, a biofermented yeast-cell-wall ingredient marketed for egg replacement.",
+   "why": "Yeast-based egg replacement is directly relevant to Puratos egg-reduction solutions for cakes and sweet goods; evaluate as a competitor or supplier.",
+   "image": "https://resource-cns.cnsmedia.com/fif/videoimg/a82221ff-8750-4d8f-92a0-4f126adac9e7videoimages.webp",
+   "entities": [
+    "Biolev"
+   ]
+  },
+  {
+   "id": "3c56a9ae2faac47e",
+   "title": "Pepperidge Farm introduces sourdough cookies",
+   "url": "https://www.bakingbusiness.com/articles/67165-pepperidge-farm-introduces-sourdough-cookies",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Pepperidge Farm (Campbell's) has launched sourdough cookies, combining sourdough with bakery-inspired flavours.",
+   "why": "Sourdough moving into sweet biscuits is a product idea for Sapore sourdough in cookies and sweet goods for US industrial customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/29/102926_Pepperidge-2.webp?t=1793634647",
+   "entities": [
+    "Pepperidge Farm",
+    "Campbell's"
+   ]
+  },
+  {
+   "id": "3ff7c34cb1573b79",
+   "title": "Microbial Transglutaminase in Bakery Products: Mechanisms, Applications, and Safety",
+   "url": "https://doi.org/10.66558/fifs.2026.2.3",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-31",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Review of microbial transglutaminase in bakery products: mechanisms, applications and safety.",
+   "why": "Transglutaminase is an enzyme lever for gluten-free and high-fibre dough structure; a useful reference for Puratos enzyme and improver R&D.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "8179a3d1389eb042",
+   "title": "What do GLP-1s mean for chocolate?",
+   "url": "https://www.foodmanufacture.co.uk/Article/2026/11/02/how-are-weight-loss-drugs-impacting-chocolate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 4,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "Global / Unknown",
+   "summary": "BakeryandSnacks examines what GLP-1 weight-loss drugs mean for chocolate demand.",
+   "why": "GLP-1 users eat smaller, less sugary portions; Belcolade should prepare portion-controlled, reduced-sugar and protein/fibre-enriched chocolate.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/SPPPQU7UNZHFFJ56V7766HKFGU.jpg?auth=fa83623faa12c77e23884d1219338fe5481c95996fe5f3a40f1ecee8ba7ea96e&smart=true&width=2120&height=1414",
+   "entities": []
+  },
+  {
+   "id": "8134b7f07c26d987",
+   "title": "From Oleogel Structure to Product Performance: Rice Wax‐ and Glyceryl Monostearate‐Based Palm Oil Alternatives for Chocolate Spreads",
+   "url": "https://doi.org/10.1111/1750-3841.71565",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 5,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Europe",
+   "summary": "Portuguese-Spanish study replacing palm oil in chocolate spreads with rice-wax or glyceryl-monostearate oleogels, keeping texture and improving lubrication.",
+   "why": "Palm-free, lower-saturated-fat oleogels are a lead for Belcolade spreads and fillings and for patisserie fillings.",
+   "image": "",
+   "entities": [
+    "University of Minho",
+    "University of Oviedo",
+    "MC Shared Services"
+   ]
+  },
+  {
+   "id": "9eabd38b01e2da70",
+   "title": "Hershey reports confectionery volume decline as salty snacks deliver growth",
+   "url": "https://www.foodingredientsfirst.com/news/hershey-confectionery-snacks-sales-growth.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Hershey reports falling confectionery volumes while its salty snacks grow.",
+   "why": "Weak US chocolate volumes at the largest US confectioner signal pricing and demand pressure for Belcolade's industrial customers.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639292129656982921A_variety_of_Hershey_s_chocolate_and_candy_bars..jpg",
+   "entities": [
+    "Hershey"
+   ]
+  },
+  {
+   "id": "8439dee70987bd17",
+   "title": "KSU, Brazilian baking ingredients company form pact",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZ2cVRNTU9ReHpfZ3A4eEFlQzBGVGszWXRJLVJYcy1zaE1YeTB4OUxLNE10a1V0WS1fVWxWMHIzNmNDZlhUbnA4OFVUb0FrQjhFYUE4RThhWDRxcS15eWFoWHpmenljcmNjd2JqUmQ0dWZFWXB5QXpVLUllWlhqTmM4UENFdnhCT3VMV2d3eEhyYTV0TDVlSjJDNUM?oc=5",
+   "source": "Baking Business",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Kansas State University has formed a partnership with a Brazilian baking ingredients company.",
+   "why": "A competitor tying up with KSU's grain-science department is worth tracking; consider Puratos's own academic partnerships in US cereal science.",
+   "image": "",
+   "entities": [
+    "Kansas State University"
+   ]
+  },
+  {
+   "id": "1b9ee0aec71f6e6d",
+   "title": "Fooditive in advanced talks to commercialize low-cal rare sugar 5-KDF",
+   "url": "https://agfundernews.com/fooditive-in-advanced-talks-to-commercialize-low-cal-rare-sugar-5-kdf",
+   "source": "agfundernews.com",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 7,
+    "Chocolate": 6
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Middle East & Africa",
+   "summary": "Fooditive has scaled its low-calorie rare sugar 5-KDF to 75,000 L, is seeking licensing partners and awaits an FDA decision.",
+   "why": "A new bulk rare sugar in licensing talks is a partnership lead for sugar-reduced fillings, glazes and chocolate once FDA clears it.",
+   "image": "",
+   "entities": [
+    "Fooditive"
+   ]
+  },
+  {
+   "id": "e657847c16d9cee2",
+   "title": "Mondelez set to buy Undercover Snacks",
+   "url": "https://www.foodbusinessnews.net/articles/31279-mondelez-set-to-buy-undercover-snacks",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Mondelēz is set to buy Undercover Snacks, maker of chocolate-covered quinoa crisps positioned as permissible indulgence.",
+   "why": "Big chocolate makers are buying better-for-you chocolate snacks; a cue for Belcolade inclusions and coatings for wellness snack customers.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/02/undercover-snacks.webp?t=1793625537",
+   "entities": [
+    "Mondelēz",
+    "Undercover Snacks"
+   ]
+  },
+  {
+   "id": "6d5918853ecb3ac3",
+   "title": "Effect of sun and convective drying under different temperature–time conditions on the physicochemical and bioactive properties of Mexican Forastero cocoa beans (Theobroma cacao L.)",
+   "url": "https://doi.org/10.14719/pst.12255",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-31",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Mexican study comparing sun drying with controlled convective drying (35-50 °C) of fermented Forastero cocoa beans, measuring colour, polyphenols and antioxidant capacity.",
+   "why": "Controlled drying cut drying time from 56 to 14 hours while shaping bean colour and polyphenols; useful for Belcolade origin and post-harvest quality programmes.",
+   "image": "",
+   "entities": [
+    "Autonomous University of Chihuahua",
+    "Universidad Autónoma de Chiapas",
+    "Tecnológico Nacional de México"
+   ]
+  },
+  {
+   "id": "d33f32142e925f50",
+   "title": "Black hollyhock (Alcea rosea var. nigra) flower as a functional additive to enhance the quality characteristics of red velvet cake",
+   "url": "https://doi.org/10.1038/s41598-026-78518-x",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-10-31",
+   "day": "2026-11-02",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Middle East & Africa",
+   "summary": "Iranian study using black hollyhock flower as a natural colourant in red velvet cake instead of synthetic carmoisine, with better antioxidant and oxidative stability.",
+   "why": "With US synthetic-dye pressure, a natural red for red velvet cakes is a lead for Puratos patisserie colour and mix reformulation.",
+   "image": "",
+   "entities": [
+    "Islamic Azad University"
+   ]
+  },
+  {
+   "id": "a64df3c71d807803",
+   "title": "UNC, Harvard Launch Initiative to Inform Ultra-Processed Food Policymaking",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObTA5S0R3aDhjS3IyQWZQbjh2NXpqU3plT3Y1RkpkME1GVng2Q1FVWTYxQ1hwZXdiLWRFTXRUNFZnSUxCVjNMbkdmMVNDbVZVN1U3eENveXh5Y1pKQm5tRDV4RUd6aXBWWXJVNHhTdkF5SDQtdDdNUGRjUnBNem1HT2FpNjlMbHpoWmJFeHdPZ1RoaXNQWVlTWmlyVTVWV1ViNDk0bWlMQlZCbWJXci1LYUVLSGlnVkk?oc=5",
+   "source": "Food Safety Magazine",
+   "kind": "regulation",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "UNC and Harvard have launched an initiative to provide evidence for ultra-processed food policymaking.",
+   "why": "Research feeding UPF policy will shape how packaged bread, cakes and chocolate are judged in the US; track its outputs and keep clean-label reformulation ready.",
+   "image": "",
+   "entities": [
+    "University of North Carolina",
+    "Harvard University"
+   ]
+  },
+  {
+   "id": "52b8f1835a0388e6",
+   "title": "Structured chocolate-based 3D food printing inks stabilized by camelina seed protein–mucilage complex coacervates",
+   "url": "https://doi.org/10.1016/j.afres.2026.102771",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 4,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Study on chocolate-based 3D-printing inks stabilised by camelina protein-mucilage coacervates.",
+   "why": "3D-printable chocolate structures are an early lead for Belcolade decorations and personalised patisserie.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "1e4a8032583d8b7a",
+   "title": "Mondelēz sues British chocolate brand in Toblerone trademark dispute",
+   "url": "https://www.confectionerynews.com/Article/2026/11/02/mondelez-sues-british-chocolate-brand-over-alleged-toblerone-trademark-infringement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Mondelēz is suing vegan chocolate maker Catherine's Originals, claiming its O'bar infringes Toblerone's shape trademark.",
+   "why": "Shows big brands defending shape trademarks against plant-based chocolate; relevant to Belcolade customers designing vegan bars.",
+   "image": "https://www.foodnavigator.com/resizer/v2/XO6W6F4JJ5BNNHXNYOHDM7UWXU.jpg?auth=d44bb07d425d0f3a9d28b453ca9b1fd128bcfa903045c0f9dd9c7f50646d59be&smart=true&width=2121&height=1414",
+   "entities": [
+    "Mondelēz",
+    "Catherine's Originals"
+   ]
+  },
+  {
+   "id": "9c03cb576b1645a7",
+   "title": "State food chemical laws don’t create chaos. They make food safer for everyone.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3NqS0R5dTZabWZxY180UGJ4Z1htNXlROE1GMFdCZkE1VUN2N1RrUjlyYkVlSTl2ZUhrMzc5Y2JtdW9SMFhteE9aSHNVYU9adjdRcVZUTHlVd0dOTW9VNzJaU3h1WGptcHBYYVZTUTVKcmxCbWpibGVxMDNjY290SU9Td2hZMWdrRUlxbnB3OS1VdzZHTHNHbmZOWTBzQzVtUzBzQkMwUDJiVmhkQ2FuOS14VGFkNzJIcnY0?oc=5",
+   "source": "Environmental Working Group",
+   "kind": "regulation",
+   "published": "2026-11-02",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "EWG argues that state food-chemical laws make food safer rather than creating chaos.",
+   "why": "State additive bans keep spreading; keep a state-by-state view of banned additives and dyes for US bakery, patisserie and chocolate customers.",
+   "image": "",
+   "entities": [
+    "Environmental Working Group"
+   ]
+  },
+  {
+   "id": "aa59c94e61f8c78f",
+   "title": "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1U5b1RPX0lMVWlaU2lVdVBHUmxlY2EtQ1c2QXh6TzNQWXNCQzczZEJ6SEc4VmtIaFlXZXdFMDQ4V2xVNXRkdDJkMV90bDgyaF8wWTBqTS1pdGlGOG5iMFhxXzRodXJMQmRUYVU5anRFWENxTXZLNjVfNVI3V1lVVWdYWkZ6Rm1XckE?oc=5",
+   "source": "POLITICO.eu",
+   "kind": "regulation",
+   "published": "2026-11-01",
+   "day": "2026-11-02",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Europe",
+   "summary": "POLITICO reports that RFK Jr.'s food-additive and UPF agenda is spreading to the EU debate in Brussels.",
+   "why": "US-style additive and UPF pressure could reach EU rules, affecting Puratos's European recipes too; monitor and align reformulation across regions.",
+   "image": "",
+   "entities": [
+    "HHS"
+   ]
+  }
+ ]
+}

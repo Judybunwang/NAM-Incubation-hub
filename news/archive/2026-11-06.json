@@ -1,0 +1,362 @@
+{
+ "date": "2026-11-06",
+ "headline": "AB Enzymes launches bread freshness enzyme; Barry Callebaut sales fall 15%; ADM egg fermentation",
+ "summary": [
+  "AB Enzymes has launched a new freshness enzyme for baked goods, a direct challenge to Puratos's anti-staling improvers that Bakery should benchmark quickly.",
+  "Barry Callebaut reported full-year sales down 15% amid cocoa pressures, which may open customer and pricing opportunities for Belcolade.",
+  "ADM is expanding precision fermentation into egg and whey proteins, a possible future source of animal-free egg for cakes and fillings.",
+  "In North America, Univar now distributes Roquette plant proteins and izzio artisan bakery is growing 40% under new commercial leadership, both worth a sales follow-up.",
+  "On policy, calls for an FDA definition of ultra-processed foods and momentum for salt substitutes point to more clean-label and sodium-reduction requests from customers."
+ ],
+ "scanned": 90,
+ "items": [
+  {
+   "id": "cf4d35123ae923d0",
+   "title": "AB Enzymes launches freshness solution for baking",
+   "url": "https://www.snackandbakery.com/articles/116607-ab-enzymes-launches-freshness-solution-for-baking",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 9,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "AB Enzymes has launched a new enzyme-based freshness solution for baked goods.",
+   "why": "A direct competitor move in anti-staling enzymes against Puratos's improvers and freshness range; get the spec and benchmark it (Bakery).",
+   "image": "https://www.snackandbakery.com/ext/resources/2026/11/05/ab-enzymes-veron-maxifresh.jpg?height=635&t=1793914779&width=1200",
+   "entities": [
+    "AB Enzymes"
+   ]
+  },
+  {
+   "id": "8dacd65de24683ef",
+   "title": "Barry Callebaut full-year results show sales down 15% amid key tests",
+   "url": "https://www.confectioneryproduction.com/news/60135/barry-callebaut-full-year-results-show-sales-down-15-amid-key-tests/",
+   "source": "Confectionery Production",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Barry Callebaut's full-year results show sales down 15% as cocoa prices and volumes test the business.",
+   "why": "The largest chocolate competitor is under pressure, which could open customer and pricing opportunities for Belcolade (Chocolate).",
+   "image": "https://www.confectioneryproduction.com/wp-content/uploads/barrycallebaut2-1.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "85481edae33da650",
+   "title": "Polyphenol-Based Preservation for Extended Shelf Life of Pullman Bread",
+   "url": "https://doi.org/10.3390/appliedchem6040083",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Europe",
+   "summary": "Greek researchers show that a commercial polyphenol-based preservative (Flavomix ACE) can stop mould on pullman bread for 55 days at high doses, compared with sorbate and propionate.",
+   "why": "A clean-label alternative to propionate for packaged bread; worth benchmarking against Puratos's own mould-inhibition solutions (Bakery).",
+   "image": "",
+   "entities": [
+    "Agricultural University of Athens",
+    "University of Peloponnese",
+    "Flavomix"
+   ]
+  },
+  {
+   "id": "05a9ffbaeff7063e",
+   "title": "Chocolate Industry Turns To Financial Markets To Pay For Cocoa – Analysis",
+   "url": "https://www.eurasiareview.com/06112026-chocolate-industry-turns-to-financial-markets-to-pay-for-cocoa-analysis/",
+   "source": "Eurasia Review",
+   "kind": "news",
+   "published": "2026-11-06",
+   "day": "2026-11-06",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "An analysis piece describes how chocolate makers are turning to financial markets and new financing structures to pay for expensive cocoa.",
+   "why": "Cocoa financing and hedging practices affect Belcolade's cost base and customer pricing (Chocolate).",
+   "image": "https://www.eurasiareview.com/wp-content/uploads/2019/06/a-69.jpg",
+   "entities": []
+  },
+  {
+   "id": "b498315f165137f2",
+   "title": "ADM targets egg, whey and pet food proteins in precision fermentation growth plan",
+   "url": "https://www.proteinproductiontechnology.com/post/adm-targets-egg-whey-and-pet-food-proteins-in-precision-fermentation-growth-plan",
+   "source": "Protein Production Technology International",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 7,
+    "Chocolate": 2
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "North America",
+   "summary": "ADM plans to grow precision fermentation, targeting egg and whey proteins plus pet food proteins.",
+   "why": "Precision-fermented egg proteins from a major supplier could enable egg replacement in cakes and fillings; a potential sourcing partner (Patisserie).",
+   "image": "https://cdn.prod.website-files.com/65362b3955429237913f74cf/6aede00ea4593883b4cef8aa_adm-precision-fermentation-egg-whey-pet-food-proteins-2026.jpg",
+   "entities": [
+    "ADM"
+   ]
+  },
+  {
+   "id": "da8bf24e025bcc35",
+   "title": "Naturally Fermented Pita Breads: Toufayan Bakeries Debuts Simply Sourdough Pita",
+   "url": "https://www.trendhunter.com/trends/naturally-fermented-pita-breads",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Toufayan Bakeries has launched Simply Sourdough Pita, a naturally fermented pita bread in US retail.",
+   "why": "Sourdough is spreading to flatbreads in US retail, an opening for Sapore sourdough applications with flatbread makers (Bakery).",
+   "image": "",
+   "entities": [
+    "Toufayan Bakeries"
+   ]
+  },
+  {
+   "id": "b8ead79e577436a9",
+   "title": "Salt Substitutes Could Soon Replace Sodium in Foods and Help Lower Blood Pressure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0pZdVprQXIxQ1gzaDdFd1ZZMXV5V1lCVnVkZGxEak9RWlFCQUxZQ0JTRUZTZ0hHcmIwcnF2QjRqcEduWXVySGNXOU5ONVpCN05Iei1nNGRJLTVmaGpaQzc1S19lSTBtSEtXQ0dYVXFxcGFXZkNWTG1FOUdGaXVHWmNWaw?oc=5",
+   "source": "Verywell Health",
+   "kind": "regulation",
+   "published": "2026-11-06",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Salt substitutes may soon be used more widely to replace sodium in foods, with policy attention on blood pressure.",
+   "why": "Supports demand for sodium reduction in bread, where Puratos can offer salt-reduction solutions to customers (Bakery).",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "6dff13e1eac8d678",
+   "title": "Descriptive Consensus Pathway Analysis Identifies Matrix-Dependent Metabolic Patterns During Wheat-Germ Fermentation",
+   "url": "https://doi.org/10.3390/microorganisms14112553",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Europe",
+   "summary": "An NMR metabolomics study maps how wheat germ, with or without semolina, changes during sourdough fermentation with a defined starter.",
+   "why": "Fermented wheat germ is an upcycled sourdough ingredient idea for Sapore-type flavour and nutrition (Bakery).",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "7e3e688f45d2f2d1",
+   "title": "Tesco’s Vegan Chocolate Orange Segments Are Here For The Holidays",
+   "url": "https://plantbasednews.org/lifestyle/food/tesco-vegan-chocolate-orange-segments-holidays/",
+   "source": "Plant Based News",
+   "kind": "news",
+   "published": "2026-11-06",
+   "day": "2026-11-06",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Tesco has launched vegan chocolate orange segments for the holiday season.",
+   "why": "Retailer own-label vegan chocolate shows plant-based seasonal demand, relevant to plant-based Belcolade lines (Chocolate).",
+   "image": "https://plantbasednews.org/app/uploads/2026/11/tesco-vegan-chocolate-orange-segments-2.jpg",
+   "entities": [
+    "Tesco"
+   ]
+  },
+  {
+   "id": "7c200cadcc161c4d",
+   "title": "izzio artisan bakery Names Sara Kafadar President and Chief Commercial Officer Amid 40% Retail Sales Growth",
+   "url": "https://www.citybiz.co/article/930468/izzio-artisan-bakery-names-sara-kafadar-president-and-chief-commercial-officer-amid-40-retail-sales-growth/",
+   "source": "citybiz",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "izzio artisan bakery has named Sara Kafadar President and Chief Commercial Officer, citing 40% retail sales growth.",
+   "why": "A fast-growing US artisan bread brand with new commercial leadership is a sales target for sourdough and clean-label solutions (Bakery).",
+   "image": "https://www.citybiz.co/wp-content/uploads/2026/11/izzio-artisan-bakery.jpg",
+   "entities": [
+    "izzio artisan bakery"
+   ]
+  },
+  {
+   "id": "265f92a37dca60c2",
+   "title": "Cargill Kokoo Sourcing celebrates 10 years of promoting sustainable cocoa production",
+   "url": "https://thebftonline.com/article/cargill-kokoo-sourcing-celebrates-10-years-of-promoting-sustainable-cocoa-production",
+   "source": "Business & Financial Times",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Cargill's Kokoo Sourcing in Ghana marks 10 years of sustainable cocoa sourcing programmes.",
+   "why": "Benchmark for Puratos's Cacao-Trace sustainability programme and a sign of Cargill's West African sourcing strength (Chocolate).",
+   "image": "https://thebftonline.com/og-default.png",
+   "entities": [
+    "Cargill",
+    "Kokoo Sourcing"
+   ]
+  },
+  {
+   "id": "143b40f862886498",
+   "title": "Cargill Kookoo Sourcing marks 10 years of sustainable cocoa sourcing and youth empowerment",
+   "url": "https://www.myjoyonline.com/cargill-kookoo-sourcing-marks-10-years-of-sustainable-cocoa-sourcing-and-youth-empowerment/",
+   "source": "MyJoyOnline",
+   "kind": "news",
+   "published": "2026-11-05",
+   "day": "2026-11-06",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Cargill's Kookoo Sourcing celebrates 10 years of sustainable cocoa sourcing and youth empowerment in Ghana.",
+   "why": "Competitor sustainability sourcing model to compare with Cacao-Trace (Chocolate).",
+   "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG-20261104-WA0014-1080x630.jpg",
+   "entities": [
+    "Cargill",
+    "Kookoo Sourcing"
+   ]
+  },
+  {
+   "id": "7e8a984a47c9445c",
+   "title": "Tackling Fermentation With Technology and Data, Toasterz Opens the Door to U.S. Investment",
+   "url": "https://www.donga.com/en/article/all/20261106/6448909/1",
+   "source": "동아일보",
+   "kind": "news",
+   "published": "2026-11-06",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Korean start-up Toasterz uses technology and data to control fermentation and is opening to US investment.",
+   "why": "A data-driven fermentation start-up to scout for sourdough and dough fermentation partnerships (Bakery).",
+   "image": "https://dimg.donga.com/ugc/CDB/ENGLISH/Article/6a/ed/63/20/6aed63200103d2738286.jpg",
+   "entities": [
+    "Toasterz"
+   ]
+  },
+  {
+   "id": "f23828594b6a54ba",
+   "title": "Health Experts Want The FDA To Define Ultra-Processed Foods – Here's Why",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxdE9DeHVEOUpBMkpTeE9CY201ZE1aWmdrU0RDR1B0WjZsaUt3X1ZBWFU5TEZWQ2RLZ0pDZ212RGJKSlNROUR3V1VaNGE4dVgxXzNsOTFVaWpDNm12ZjE4WjNLU2FtMHlkcElMeHRLb25FUWpYc0xSVHpn?oc=5",
+   "source": "Blavity News",
+   "kind": "regulation",
+   "published": "2026-11-06",
+   "day": "2026-11-06",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Health experts are urging FDA to adopt a formal definition of ultra-processed foods.",
+   "why": "A UPF definition could hit packaged bread, cakes and chocolate; Puratos customers will need clean-label reformulation options (all units).",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  }
+ ]
+}

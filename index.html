@@ -271,7 +271,7 @@ ol.src li { overflow-wrap: anywhere; }
 .news-issue select { font: inherit; color: var(--char); background: var(--surface); border: 1.5px solid var(--line); border-radius: 8px; padding: 6px 10px; }
 .news-sum ol { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
 .news-top { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 0; padding: 0; overflow: hidden; }
-.news-top .img { background: var(--sand) center / cover no-repeat; min-height: 220px; }
+.news-top .img { display: block; width: 100%; height: 100%; object-fit: cover; background: var(--sand); min-height: 220px; }
 .news-top .body { padding: 20px 22px; display: grid; gap: 8px; align-content: start; }
 .news-top h3 { font-size: 1.35rem; }
 @media (max-width: 720px) { .news-top { grid-template-columns: 1fr; } .news-top .img { min-height: 160px; } }
@@ -920,8 +920,8 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
 <!-- ============ FOOD-TECH NEWS ============ -->
 <section class="view" data-view="news" hidden>
   <div class="view-head">
-    <span class="eyebrow">Scouting new food techs · daily brief</span>
-    <h2 id="newsHeadline">Today's food-tech brief</h2>
+    <span class="eyebrow" id="newsEyebrow">Scouting new food techs · weekly summary</span>
+    <h2 id="newsHeadline">This week in food tech</h2>
     <p id="newsLede">Every morning the Puratos Food-Tech Scout scans scholarly papers, patents, grants, trade press and FDA/USDA notices, and scores each find for Bakery, Patisserie and Chocolate. This page shows the latest brief.</p>
   </div>
   <div class="news-bar">
@@ -932,9 +932,9 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
       <button data-f="Chocolate" aria-pressed="false">Chocolate</button>
       <button data-f="regulatory" aria-pressed="false">Regulatory</button>
     </div>
-    <label class="news-issue">Brief from <select id="newsIssue"></select></label>
+    <label class="news-issue">Period <select id="newsIssue"></select></label>
   </div>
-  <div class="ask news-sum" id="newsSum" hidden><h3>Executive summary</h3><ol id="newsSumList"></ol></div>
+  <div class="ask news-sum" id="newsSum" hidden><h3 id="newsSumTitle">Executive summary</h3><ol id="newsSumList"></ol></div>
   <div id="newsTop"></div>
   <div class="grid3" id="newsGrid" aria-live="polite"><p class="news-empty">Loading the latest brief…</p></div>
   <div class="callout"><p><b>How this feeds the hub.</b> "Act now" start-ups and ingredients that score high here are the deal flow for <button class="btn ghost" data-go="stagegate" style="padding:2px 10px;font-size:0.85rem">Stage 0: Discover &amp; scout</button>. Summaries and scores are AI-written from the article text; open the source before acting on one.</p></div>
@@ -1216,7 +1216,7 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
   calc();
 })();
 
-/* ---------- food-tech news: renders news/latest.json, refreshed daily by .github/workflows/news.yml ---------- */
+/* ---------- food-tech news: renders news/latest.json (weekly, monthly and quarterly roll-ups), refreshed daily by .github/workflows/news.yml ---------- */
 (function(){
   var data = null, issue = null, filter = 'all';
   var $ = function(id){ return document.getElementById(id); };
@@ -1247,7 +1247,7 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
       var s = el('span'); s.appendChild(document.createTextNode(k + ' ' + v)); var bar = el('i'); var fill = el('b'); fill.style.width = (v * 10) + '%'; bar.appendChild(fill); s.appendChild(bar); u.appendChild(s);
     });
     f.appendChild(u);
-    f.appendChild(el('div', 'news-meta', [it.source, it.region, it.published && it.published <= issue.date && fmtDay(it.published)].filter(Boolean).join(' · ')));
+    f.appendChild(el('div', 'news-meta', [it.source, it.region, it.published && it.published <= issue.end && fmtDay(it.published), it.coverage > 1 && (it.coverage + ' articles')].filter(Boolean).join(' · ')));
     return f;
   }
   function pick(){
@@ -1259,23 +1259,27 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
   }
   function render(){
     var n = issue.items.length + issue.regulatory.length;
-    $('newsHeadline').textContent = issue.headline || 'Food-tech brief for ' + fmtDay(issue.date, true);
-    $('newsLede').textContent = 'Findings from ' + fmtDay(issue.date, true) + ': ' + n + ' top items out of ' + issue.scanned + ' relevant finds' +
+    var KIND = { week: 'weekly summary', month: 'monthly summary', quarter: 'quarterly summary' };
+    $('newsEyebrow').textContent = 'Scouting new food techs · ' + KIND[issue.kind];
+    $('newsHeadline').textContent = issue.headline || issue.label;
+    $('newsLede').textContent = (issue.kind === 'week' ? 'Week of ' : '') + issue.label + (issue.note ? ' (' + issue.note + ')' : '') + ': the ' + n + ' top stories from ' + issue.scanned + ' relevant finds over ' + issue.days + ' daily scans' +
       ' from papers, patents, grants, trade press and FDA/USDA notices. Updated daily' + (data.updated ? ' (last refresh ' + data.updated.replace('T', ' ').replace('Z', ' UTC') + ')' : '') + '.';
     var sl = $('newsSumList'); sl.textContent = '';
     (issue.summary || []).forEach(function(s){ sl.appendChild(el('li', null, s)); });
     $('newsSum').hidden = !(issue.summary || []).length;
+    $('newsSumTitle').textContent = issue.summary_by === 'claude' ? 'Executive summary' : 'Top stories at a glance';
     var items = pick(), top = $('newsTop'), grid = $('newsGrid');
     top.textContent = ''; grid.textContent = '';
     if (!items.length) { grid.appendChild(el('p', 'news-empty', 'Nothing in this brief for that filter.')); return; }
     var first = items[0], card = el('article', 'card news-top');
-    var img = el('div', 'img'); if (first[0].image) img.style.backgroundImage = 'url("' + first[0].image.replace(/["\\()]/g, function(c){ return '%' + c.charCodeAt(0).toString(16); }) + '")'; else img.hidden = true;
-    if (!first[0].image) card.style.gridTemplateColumns = '1fr';
+    var img = el('img', 'img'); img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer';
+    var noImg = function(){ img.hidden = true; card.style.gridTemplateColumns = '1fr'; };
+    if (first[0].image) { img.onerror = noImg; img.src = first[0].image; } else noImg();
     var b = el('div', 'body'); b.appendChild(el('span', 'eyebrow', 'Top story')); b.appendChild(body(first[0], first[1]));
     card.appendChild(img); card.appendChild(b); top.appendChild(card);
     items.slice(1).forEach(function(p){ var c = el('article', 'card news-card'); c.appendChild(body(p[0], p[1])); grid.appendChild(c); });
   }
-  function choose(i){ issue = data.issues[i]; render(); }
+  function choose(i){ issue = data.periods[i]; render(); }
   $('newsFilters').addEventListener('click', function(e){
     var b = e.target.closest('button[data-f]'); if (!b || !issue) return;
     filter = b.getAttribute('data-f');
@@ -1286,10 +1290,14 @@ footer { padding-block: 20px 40px; font-size: 0.8rem; color: var(--muted); }
   fetch('news/latest.json?d=' + new Date().toISOString().slice(0, 13), {cache: 'no-cache'})
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(d){
-      if (!d || !d.issues || !d.issues.length) throw new Error('empty');
+      if (!d || !d.periods || !d.periods.length) throw new Error('empty');
       data = d;
       var sel = $('newsIssue');
-      d.issues.forEach(function(x, i){ var o = el('option', null, fmtDay(x.date) + (i === 0 ? ' (latest)' : '')); o.value = i; sel.appendChild(o); });
+      var GROUP = { week: 'Weekly', month: 'Monthly', quarter: 'Quarterly' }, groups = {};
+      d.periods.forEach(function(x, i){
+        if (!groups[x.kind]) { groups[x.kind] = el('optgroup'); groups[x.kind].label = GROUP[x.kind] || x.kind; sel.appendChild(groups[x.kind]); }
+        var o = el('option', null, (x.kind === 'week' ? 'Week of ' : '') + x.label + (x.note ? ' (' + x.note + ')' : '')); o.value = i; groups[x.kind].appendChild(o);
+      });
       choose(0);
     })
     .catch(function(){ var g = $('newsGrid'); g.textContent = ''; g.appendChild(el('p', 'news-empty', 'The news feed could not be loaded right now. Try again later.')); });

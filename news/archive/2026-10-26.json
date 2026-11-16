@@ -1,0 +1,206 @@
+{
+ "date": "2026-10-26",
+ "headline": "Galy and Oobli take on cocoa; FDA to review UPF ingredients; fibre push in US bread",
+ "summary": [
+  "Cocoa alternatives are reaching the market: Galy launched cell-cultured cocoa (WunderHaus brand and lines for professional kitchens) in the US, and Oobli with Cosun built a sugar replacer for chocolate, so Belcolade should evaluate them as partners and competitors.",
+  "The FDA will allow salt substitutes in 139 standardized foods, including breads and rolls, from December 14, 2026, which gives Puratos a sell-in moment for salt-reduction solutions.",
+  "Pressure on ultra-processed foods is building, with RFK Jr. saying FDA will act on a petition to re-examine some ingredients and a proposed GRAS overhaul, so Puratos should audit US ingredient dossiers and prepare clean-label alternatives.",
+  "Fibre is becoming the next big claim in North American bread, from Grupo Bimbo to Calise, which favours Puratos fibre-enrichment and sourdough solutions.",
+  "Egg replacement is moving through partnerships such as MOA Foodtech with Espiga I+D, a competitive signal for Patisserie egg-reduction mixes."
+ ],
+ "scanned": 51,
+ "items": [
+  {
+   "id": "5bd354e3eac16c63",
+   "title": "Beyond cocoa: The race to futureproof chocolate",
+   "url": "https://www.foodnavigator.com/Article/2026/10/26/the-future-of-chocolate-how-cocoa-alternatives-are-reshaping-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-10-26",
+   "day": "2026-10-26",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 4,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "FoodNavigator-USA feature on how cocoa alternatives, AI and new ingredients are helping chocolate makers cope with cocoa price volatility and supply risk.",
+   "why": "A snapshot of the cocoa-alternative and cocoa-saving landscape that Belcolade competes in; use it to check which players and approaches customers are hearing about.",
+   "image": "https://www.foodnavigator.com/resizer/v2/Z4FV2QSFL5CCXIZ6IHJL6GAZYA.jpg?auth=f23fe2c15ca3918d3c3ae7bdfd933d037301dc0375c36e64eaa307d644beaf80&smart=true&width=2121&height=1414",
+   "entities": []
+  },
+  {
+   "id": "b21022606f85ea38",
+   "title": "RFK Jr. says FDA will 'act on' petition to reexamine some ingredients in ultra-processed foods",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNExIY2VnNTNkVm5qZU5RS1RFMWVWSzVSdHJxTVBkMHdPOG1PdEktdFNibkp0MUwybTZwakl1bFFWLXNJSGoyODltT0FyeDQzczhWcERtdDM0SnZkRVFZWm5zb0wtNU84T3Qyd1dWTjh2WjVEZllkaHhXeDVXdGcyanJHQVdEVkFLMnlrbTE2eWdOZ1JVdHFyZnJkZzRJUQ?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "kind": "regulation",
+   "published": "2026-10-24",
+   "day": "2026-10-26",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "HHS Secretary RFK Jr. says FDA will act on a petition to re-examine some ingredients used in ultra-processed foods.",
+   "why": "An FDA review of additives common in packaged bread, cakes and fillings could force reformulation; prepare clean-label alternatives for affected ingredients.",
+   "image": "",
+   "entities": [
+    "FDA",
+    "HHS"
+   ]
+  },
+  {
+   "id": "b460d0fa0cc68587",
+   "title": "What exactly are ultraprocessed foods? Experts weigh in as RFK Jr.'s effort to define them stalls",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkU3Q3lfa0Y0SlhqRjVZMngtcGFsOGZPZnNGVHJCRUdyMFRTeGE4RGdwbHo4Y1hucDFkcUtWNFNsUGJzSFlzN3ViY3RYOVpXQ0NLYjhCV0VQMWl2bGVMZ3oxRFBpcEhPTVNpUFlwdGN5alJZY1lvNlI2Unp5dGw4eVBpaU1yQXNQVGpaUnZyTUFKZllLUlRQb2tpb1dVLTMwVWtHcy1RUzZpMkpXWDBkeEZPekl4bm9OYTE4TldSUQ?oc=5",
+   "source": "PBS",
+   "kind": "regulation",
+   "published": "2026-10-25",
+   "day": "2026-10-26",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 5
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "PBS explainer on what counts as ultra-processed food as RFK Jr.'s push for a federal definition stalls.",
+   "why": "A stalled UPF definition delays but does not remove pressure on packaged bakery; keep clean-label reformulation options ready for customers.",
+   "image": "",
+   "entities": [
+    "HHS",
+    "FDA"
+   ]
+  },
+  {
+   "id": "673f6de1459fee93",
+   "title": "Chocolate Prices Are Up 15.5% Even as Cocoa Prices Fall",
+   "url": "https://www.mensjournal.com/news/chocolate-prices-are-up-15-5-even-as-cocoa-prices-fall",
+   "source": "Men's Journal",
+   "kind": "news",
+   "published": "2026-10-26",
+   "day": "2026-10-26",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Report that US retail chocolate prices are up 15.5% even though cocoa bean prices have fallen.",
+   "why": "Retail prices lag the cocoa decline, so Belcolade customers may face pressure to pass savings on; a pricing and volume-planning signal.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "96d4c4346d7d293a",
+   "title": "Fermented & Cultured Flour Market Size, Share, Trends 2036",
+   "url": "https://www.futuremarketinsights.com/reports/fermented-and-cultured-flour-market",
+   "source": "Future Market Insights",
+   "kind": "news",
+   "published": "2026-10-25",
+   "day": "2026-10-26",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Market-research listing forecasting the fermented and cultured flour market to 2036.",
+   "why": "Signals a tracked growth category for fermented flours, directly relevant to Sapore and clean-label shelf-life ingredients.",
+   "image": "https://www.futuremarketinsights.com/media-upload/fermented-cultured-flour-market-value-analysis.webp",
+   "entities": []
+  },
+  {
+   "id": "ba2ab12a63491ae7",
+   "title": "Chocolake targets APAC markets as Dubai chocolate trend endures",
+   "url": "https://www.foodnavigator.com/Article/2026/10/26/chocolake-targets-apac-markets-as-dubai-chocolate-trend-endures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-10-26",
+   "day": "2026-10-26",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Middle East & Africa",
+   "summary": "Jordan's Chocolake is expanding into Asia-Pacific as the Dubai pistachio chocolate trend persists.",
+   "why": "Dubai-style pistachio chocolate keeps demand up for pistachio fillings and inclusions that Belcolade and Puratos fillings can supply.",
+   "image": "https://www.foodnavigator.com/resizer/v2/Z4DL7GC4VZBXHL4M6E2ZFXCCFE.png?auth=5d6e8751c3de046d872a312208ec1a3e14c1d13ea4e9c492e65d1aef5b7d2284&smart=true&width=1920&height=1080",
+   "entities": [
+    "Chocolake"
+   ]
+  },
+  {
+   "id": "4f45a8bdb297d845",
+   "title": "Fiber is About to Steal Protein’s Spotlight",
+   "url": "https://www.bakingbusiness.com/articles/67052-fiber-is-about-to-steal-proteins-spotlight",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-10-26",
+   "day": "2026-10-26",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Sponsored Baking Business piece arguing fibre is overtaking protein as the trend for baked goods.",
+   "why": "Confirms the fibre wave in NA bakery that Puratos fibre-enrichment solutions can serve.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/14/BSM0826-045-BakingBus_Main-image_1200x800.webp?t=1793021856",
+   "entities": []
+  },
+  {
+   "id": "006f377e217d9417",
+   "title": "The Sunday Edition: UPF defined",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR0pnX040SG1EYTJmVWhhTjY2VkVDelRMOVF3ZEV2NkhSVHI2NkdzdG1hdTNnYkhrVXR6MUZkckpRYXp1NkdxdGtwUlRJX3JfQi1NZm9wYm5rUHpvd2lCWENScFpQX0RQejVtSjIzY2JEQmQ5V0I3QUV3?oc=5",
+   "source": "Food Safety News",
+   "kind": "regulation",
+   "published": "2026-10-25",
+   "day": "2026-10-26",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 4
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Food Safety News weekly column on the push to define ultra-processed food.",
+   "why": "The UPF definition debate affects packaged bakery and patisserie customers; keep clean-label options ready.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

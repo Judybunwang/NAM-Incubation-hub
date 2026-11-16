@@ -1,0 +1,253 @@
+{
+ "date": "2026-11-07",
+ "headline": "Cocoa-free chocolate goes mainstream; ADM bets on precision fermentation; Red No. 3 deadline",
+ "summary": [
+  "Consumer media now covers chocolate made without cocoa beans, so Belcolade should keep mapping cocoa-free start-ups as partners or competitors while cocoa prices stay volatile.",
+  "ADM's CEO named precision fermentation a major innovation driver, signalling a supplier and competitor scaling animal-free proteins relevant to Puratos egg/dairy replacement and cocoa alternatives.",
+  "Regulatory: US alcohol producers must drop Red No. 3 by 15 January 2027, a reminder for patisserie customers to finish moving icings and decorations to natural colours; salt substitutes are also gaining policy attention for bread sodium reduction.",
+  "A Brazilian study found kefir-whey and traditional sourdough extended bread mould-free life by 40-70% over yeast bread, supporting clean-label sourdough shelf-life claims.",
+  "Pea protein (including ultrasound-treated) improved gluten-free rice bread, and a new review covers saturated-fat replacement in bakery, both useful inputs for Puratos mixes and fat-reduction work."
+ ],
+ "scanned": 60,
+ "items": [
+  {
+   "id": "cdc0000056efef2e",
+   "title": "Your next chocolate bar might not contain a single cocoa bean",
+   "url": "https://www.dagens.com/food/your-next-chocolate-bar-might-not-contain-a-single-cocoa-bean",
+   "source": "Dagens.com",
+   "kind": "news",
+   "published": "2026-11-07",
+   "day": "2026-11-07",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 5,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Consumer news piece on the rise of chocolate made without cocoa beans, reflecting growing cocoa-free alternatives.",
+   "why": "Cocoa-free chocolate is a direct competitive and partnership topic for Belcolade as cocoa prices stay volatile; keep mapping the start-ups behind it.",
+   "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2025/08/shutterstock_2453558413.webp",
+   "entities": []
+  },
+  {
+   "id": "79b6380f94761ea7",
+   "title": "Technological potential of a kefir-derived whey fraction as a sourdough starter material for breadmaking",
+   "url": "https://doi.org/10.1177/10820132261503702",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-07",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Latin America",
+   "summary": "Brazilian study testing kefir whey as a sourdough starter; kefir and traditional sourdough breads stayed mould-free about 40% and 70% longer than yeast bread.",
+   "why": "Supports clean-label mould-inhibition claims for sourdough and suggests dairy by-product starters as an upcycled angle for Puratos sourdough ranges.",
+   "image": "",
+   "entities": [
+    "Federal Institute of Education, Science and Technology of Sao Paulo"
+   ]
+  },
+  {
+   "id": "5a89667db156fe2e",
+   "title": "Replacement of saturated fat in bakery products",
+   "url": "https://doi.org/10.1016/b978-0-443-33298-2.00006-1",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-06",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 2
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "Middle East & Africa",
+   "summary": "Book chapter reviewing strategies to replace saturated fat in bakery products.",
+   "why": "Overview of saturated-fat replacement options relevant to Puratos fat-reduction work in bread, laminated dough and cakes.",
+   "image": "",
+   "entities": [
+    "Shiraz University"
+   ]
+  },
+  {
+   "id": "29db594204d9be2b",
+   "title": "Sourdough wheat bread: Impact of microalgae supplementation on fermentation metabolism, dough rheology and bread quality",
+   "url": "https://doi.org/10.1016/j.afres.2026.102806",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Study of how adding microalgae to wheat sourdough changes fermentation metabolism, dough rheology and bread quality.",
+   "why": "Relevant to Sapore sourdough work on protein/nutrient enrichment; microalgae could be a novel functional inclusion to track.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "12eb83eb8bdbaf3d",
+   "title": "Improving the quality of gluten-free rice dough and bread: The role and mechanism of native and ultrasonically treated pea protein",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151882",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Global / Unknown",
+   "summary": "Study showing native and ultrasound-treated pea protein improves gluten-free rice dough and bread quality, with mechanism analysis.",
+   "why": "Useful for gluten-free bread mixes: ultrasonicated pea protein is a clean-label structuring option to evaluate.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "662e32cdcee08728",
+   "title": "Focus on flour options to increase chances of product success",
+   "url": "https://www.snackandbakery.com/articles/116613-focus-on-flour-options-to-increase-chances-of-product-success",
+   "source": "Snack Food & Wholesale Bakery",
+   "kind": "news",
+   "published": "2026-11-06",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Trade article on choosing flour options (alternative and specialty flours) to improve snack and bakery product success.",
+   "why": "Signals US industrial bakers' interest in alternative flours, an opening for Puratos mixes and improvers tuned to them.",
+   "image": "https://www.snackandbakery.com/ext/resources/SFWB/2026/Nov/GM---Corn-Meal.jpg?height=635&t=1793984269&width=1200",
+   "entities": []
+  },
+  {
+   "id": "597a02c04dfdd06a",
+   "title": "Salt Substitutes Can Soon Replace Sodium in Everyday Foods—and Help Lower Blood Pressure",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0pZdVprQXIxQ1gzaDdFd1ZZMXV5V1lCVnVkZGxEak9RWlFCQUxZQ0JTRUZTZ0hHcmIwcnF2QjRqcEduWXVySGNXOU5ONVpCN05Iei1nNGRJLTVmaGpaQzc1S19lSTBtSEtXQ0dYVXFxcGFXZkNWTG1FOUdGaXVHWmNWaw?oc=5",
+   "source": "Verywell Health",
+   "kind": "regulation",
+   "published": "2026-11-06",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Health news that salt substitutes could soon replace sodium in everyday foods to help lower blood pressure, amid US sodium-reduction policy.",
+   "why": "Affects bread makers facing sodium targets; Puratos can position salt-reduction improvers and sourdough flavour as solutions and watch FDA sodium guidance.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "cdc7cfe51aa9c588",
+   "title": "Genomic prediction of resistance to Phytophthora megakarya in cacao from a sparse host-pathogen screen",
+   "url": "https://doi.org/10.64898/2026.11.03.764016",
+   "source": "Biorxiv",
+   "kind": "preprint",
+   "published": "2026-11-05",
+   "day": "2026-11-07",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "University of Florida-led genomic study of 947 cacao clones and black pod pathogen isolates, showing pathogen genetics improve resistance prediction.",
+   "why": "Better black pod resistance breeding supports long-term cocoa supply resilience relevant to Belcolade sourcing programmes.",
+   "image": "",
+   "entities": [
+    "University of Florida",
+    "CATIE"
+   ]
+  },
+  {
+   "id": "2995219c5dd2fc74",
+   "title": "Functional Bakery Ingredients Market To 2035: Clean-Label Demand Supports Forward Growth - News and Statistics",
+   "url": "https://www.indexbox.io/blog/functional-bakery-ingredients-market-forecast-to-2035-driven-by-clean-label-and-health-enhancing-formulation-demand/",
+   "source": "IndexBox",
+   "kind": "news",
+   "published": "2026-11-06",
+   "day": "2026-11-07",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Market report forecasting growth in functional bakery ingredients to 2035, driven by clean-label demand.",
+   "why": "Confirms clean-label functional ingredients as a growth area for Puratos improvers and enzymes; useful for market sizing.",
+   "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-functional-bakery-ingredients-market-analysis-forecast-size-trends-and-insights-1794003990.webp",
+   "entities": [
+    "IndexBox"
+   ]
+  },
+  {
+   "id": "8176184982da4b49",
+   "title": "Alcohol Producers Must Remove Red No. 3 From Drinks by Jan. 15, 2027",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXFNRTJtUVpReHV1U0tEYWNUb2xnS1dlQ0w2LUlrMEt4NWszb204cjZuWUZmVWRZdlFVbHM2WFdBWElweVBjajF4bHdHTmdvN1J0RU9LY2JYQUx5a1N0bWVFejdxc0NBSkpmczMwcWNad0Nwa3cxM0wyVFR0ZEFSd2xWdnhBUGx3d3lJajZaSnQzbFo4NFpyOHZhLVNiNng0MjNHdmZlYXdJZS1EaVYyUnRn0gG3AUFVX3lxTE40QUNJWWtnOHpWVEdmckpqYjZ3RTViYzlYVzhqbjc5eVNtVHBUY2NhN3V6aFlDeGZKcWFaeVJIMGhDajZMTTY4UTliS05YWkR1bTlSLTRHdmQ0NmRZV1hnUHFhMDB6WHo2YTU1d29CUkhBMk5XbXA0cGFlNW5xaENUaUh1cDJ5YzFFWEE0Wmw0SjRpUUdyRnNMNVpWNThzU1Q2dzlmdFN5VXV3Z0lleW9RRUh5N0FKTQ?oc=5",
+   "source": "Vinetur",
+   "kind": "regulation",
+   "published": "2026-11-06",
+   "day": "2026-11-07",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 3
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "US alcohol producers must remove Red No. 3 (erythrosine) from drinks by 15 January 2027, following the FDA food ban.",
+   "why": "Reminder that Red No. 3 is leaving the US supply; patisserie customers using it in icings, decorations and fillings should confirm reformulation to natural colours.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}
