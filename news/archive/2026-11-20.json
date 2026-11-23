@@ -1,0 +1,436 @@
+{
+ "date": "2026-11-20",
+ "headline": "Barry Callebaut grows India inclusions; NY GRAS bill vetoed; clean-label mould inhibitor",
+ "summary": [
+  "Barry Callebaut opened an expanded Baramati, India plant making baked and soft inclusions for bakery and desserts, a direct competitor move against Puratos fillings and Belcolade in Asia.",
+  "New York Gov. Hochul vetoed the first-in-nation GRAS disclosure bill, so suppliers avoid a new state disclosure duty for now, but advocacy groups will push again and GRAS dossiers should stay ready.",
+  "Cocoa prices are retreating and Asian chocolate demand is recovering, but supply damage looks lasting, so Belcolade should keep hedging and cocoa-reduction options open.",
+  "CSIR-CFTRI showed a Monascus pigment inhibits bread moulds as well as calcium propionate, a possible clean-label preservation lead for Bakery.",
+  "Zentis is showing heat-stable popping-boba inclusions for bakery, a trend format worth matching in Easyfil and Patisserie ranges."
+ ],
+ "scanned": 89,
+ "items": [
+  {
+   "id": "1c83f4e7f2d5618c",
+   "title": "Lactiplantibacillus plantarum Fermentation of Black Soybean Sourdough: Modifications in Sourdough Characteristics and Gluten-Free Bread Quality",
+   "url": "https://doi.org/10.3390/foods15224181",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "Asia-Pacific",
+   "summary": "Chinese researchers fermented black soybean with Lactiplantibacillus plantarum into a sourdough that cut antinutrients and improved gluten-free bread structure, flavour and amino acid content.",
+   "why": "Supports Sapore/gluten-free sourdough work: legume sourdough as a protein- and flavour-boosting GF ingredient.",
+   "image": "",
+   "entities": [
+    "Shanxi Agricultural University"
+   ]
+  },
+  {
+   "id": "b5eca10730eb5530",
+   "title": "Bread Staling Kinetics: Mechanisms, Analytical Approaches, and Mathematical Modelling—A Review",
+   "url": "https://doi.org/10.3390/foods15224169",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-19",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Shelf-life & Food Safety",
+   "region": "Europe",
+   "summary": "Systematic review of bread staling mechanisms, measurement methods and kinetic models (Avrami, first-order) across 26 studies.",
+   "why": "Useful reference for Bakery anti-staling enzyme and freshness-claim testing methodology.",
+   "image": "",
+   "entities": [
+    "University of Osijek"
+   ]
+  },
+  {
+   "id": "df77d198d8bec4d2",
+   "title": "Asia leads signs of chocolate demand recovery as cocoa prices fall",
+   "url": "https://biz.chosun.com/en/en-international/2026/11/19/RBY2ES4GARAQ7HA3IIZQ4YGNBU/",
+   "source": "Chosunbiz",
+   "kind": "news",
+   "published": "2026-11-19",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "Chocolate demand is showing early recovery in Asia as cocoa prices fall.",
+   "why": "Falling cocoa prices and Asian demand recovery inform Belcolade pricing and Asia sales planning.",
+   "image": "https://biz.chosun.com/resizer/v2/ZOPQPOD42JKNBJ5TNDZ6OEB5HE.jpg?auth=bee5d3e0eec28b6d1c96dcec3ed55de351fe295536c04bf7168ffab268da3604&width=1200&height=630&smart=true",
+   "entities": []
+  },
+  {
+   "id": "2da9c6a8b40c5ce4",
+   "title": "Application of Monascus purpureus CFR410-11 pigment in bread preservation and HRMS-based identification of thermally transformed pigment derivatives.",
+   "url": "https://doi.org/10.1080/19440049.2026.2761591",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-11-19",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Asia-Pacific",
+   "summary": "CSIR-CFTRI showed a Monascus purpureus pigment inhibits bread moulds about as well as calcium propionate and identified its heat-transformed derivatives.",
+   "why": "Possible clean-label alternative to propionate for Bakery mould inhibition; check regulatory status of Monascus pigments in the US/EU.",
+   "image": "",
+   "entities": [
+    "CSIR-Central Food Technological Research Institute"
+   ]
+  },
+  {
+   "id": "dcdcad1131371dca",
+   "title": "Barry Callebaut expands chocolate specialities manufacturing in India",
+   "url": "https://www.foodbev.com/news/barry-callebaut-expands-chocolate-specialities-manufacturing-in-india",
+   "source": "FoodBev Media",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "Barry Callebaut expanded chocolate specialities manufacturing in India.",
+   "why": "Competitor capacity build in India's chocolate specialities market; relevant to Belcolade's Asia positioning.",
+   "image": "https://static.wixstatic.com/media/8a42ce_edc877f85e4442de950c634b6521cd36~mv2.jpg/v1/fill/w_2700,h_1800,al_c,q_90/8a42ce_edc877f85e4442de950c634b6521cd36~mv2.jpg",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "22fcdee0677a4eee",
+   "title": "Fi Europe 2026: How Zentis brings popping boba into bakery with heat-stable inclusions",
+   "url": "https://www.foodingredientsfirst.com/key-interviews/zentis-popping-boba-bakery-innovation.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 7,
+    "Chocolate": 2
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Europe",
+   "summary": "At Fi Europe, Zentis showed heat-stable popping-boba inclusions designed to survive baking.",
+   "why": "Competitor in fillings/inclusions launching a bake-stable trend format; relevant to Easyfil and Patisserie inclusions.",
+   "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639307608019481228Zentis_Fi_Europe_2026_popping_boba.jpg",
+   "entities": [
+    "Zentis"
+   ]
+  },
+  {
+   "id": "1c671c6e499c2dcc",
+   "title": "Barry Callebaut opens its newly expanded chocolate specialties factory in Baramati, India",
+   "url": "https://m.thewire.in/article/ptiprnews/barry-callebaut-opens-its-newly-expanded-chocolate-specialties-factory-in-baramati-india/amp",
+   "source": "TheWire.in",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "Barry Callebaut opened its expanded chocolate specialties factory in Baramati, India.",
+   "why": "Competitor investment in bakery/confectionery inclusions in India; watch for Belcolade and Puratos India.",
+   "image": "",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "daee660f95a367a2",
+   "title": "Cocoa retreat reveals lasting production and demand damage",
+   "url": "https://www.bakingbusiness.com/articles/67269-cocoa-retreat-reveals-lasting-production-and-demand-damage",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Despite the cocoa price retreat, production and demand damage is proving lasting.",
+   "why": "Cocoa supply and demand will not normalise quickly; Belcolade should keep hedging and cocoa-reduction options.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/20/112026_AdobeSTock_Chocolate.webp?t=1795193506",
+   "entities": []
+  },
+  {
+   "id": "5d389fb4ac45183f",
+   "title": "Barry Callebaut expands specialty ingredients production in India",
+   "url": "https://www.bakemag.com/articles/22252-barry-callebaut-expands-specialty-ingredients-production-in-india",
+   "source": "bakemag.com",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 6,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "Barry Callebaut's new India facility adds production of baked and soft inclusions for bakery, confectionery and desserts.",
+   "why": "Direct competitor move into bakery/dessert inclusions in India, overlapping Puratos fillings and Belcolade.",
+   "image": "https://www.bakemag.com/ext/resources/2026/11/20/Barry-Callebauts.webp?t=1795195526",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "eca156343b8024de",
+   "title": "Spent Black Tea Powder as a Cocoa-Mass Substitute in Dark Chocolate: Phenolic Enrichment, Antioxidant-Related Activity, and Quality Attributes",
+   "url": "https://doi.org/10.1093/ijfood/vvag242",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "Middle East & Africa",
+   "summary": "Spent black tea powder replaced up to 7% of cocoa mass in dark chocolate, raising fibre and phenolics with acceptable sensory quality.",
+   "why": "Upcycled partial cocoa-mass substitute is a cost lever for Belcolade amid cocoa price volatility, worth tracking.",
+   "image": "",
+   "entities": [
+    "King Faisal University",
+    "Walailak University"
+   ]
+  },
+  {
+   "id": "ed749c7c4887334b",
+   "title": "Spray-dried whole egg powder as an alternative to raw eggs in chocolate muffin production: physicochemical and sensory perspectives",
+   "url": "https://doi.org/10.1007/s13197-026-06992-2",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 6,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Processing & Automation",
+   "region": "Global / Unknown",
+   "summary": "Study compares spray-dried whole egg powder with raw eggs in chocolate muffins on physicochemical and sensory quality.",
+   "why": "Relevant to Patisserie cake-mix formulation where powdered egg replaces liquid egg.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "4426eead1074ddda",
+   "title": "Flowers works to get Dave’s Killer Bread back on track",
+   "url": "https://www.bakingbusiness.com/articles/67267-flowers-works-to-get-daves-killer-bread-back-on-track",
+   "source": "Baking Business",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Flowers Foods is working to restore growth of its Dave's Killer Bread brand.",
+   "why": "Signals pressure in US premium packaged bread, a key industrial Bakery customer segment.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/20/112026_Daves.jpg?height=635&t=1795192696&width=1200",
+   "entities": [
+    "Flowers Foods",
+    "Dave's Killer Bread"
+   ]
+  },
+  {
+   "id": "418f45158d46ddab",
+   "title": "Meliora’s plant-based egg hits shelves",
+   "url": "https://retailworldmagazine.com.au/melioras-plant-based-egg-hits-shelves/",
+   "source": "Retail World Magazine",
+   "kind": "news",
+   "published": "2026-11-19",
+   "day": "2026-11-20",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 6,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Asia-Pacific",
+   "summary": "Meliora's plant-based egg has launched at retail.",
+   "why": "Plant-based egg alternatives entering retail; potential egg-replacement benchmark or partner for Patisserie.",
+   "image": "",
+   "entities": [
+    "Meliora"
+   ]
+  },
+  {
+   "id": "e41ecc2887217427",
+   "title": "Consumer Reports statement on Gov. Hochul’s veto of New York’s GRAS disclosure bill",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdW1mdVRvUDhOZmkxQ0dJNE1zaWpEMDZENXBnYTBrZjZqNVZvNEVyQ1AzNEd6V1RfbWhVWmNOTzF2QUt3c1M3UDF3UjhZdnBiR3dISEdNanhuY3pGblZITEJSeFdHc2RPaEhsdnFOVDl3d3hQOHBmSTFOVVhVSWFsNk42aHpiYlZBaXJiSDVIZ1FoVGpKd1Njd0wwSy1nbHdTZ3RPUDVpQmdubHVEa2JMM3I1RklfdGZUUTFUXzdkQjg2OGhvcEtCUDIyYno?oc=5",
+   "source": "Consumer Reports",
+   "kind": "regulation",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "New York Gov. Hochul vetoed the state's GRAS disclosure bill, which would have required disclosure of self-affirmed GRAS ingredients.",
+   "why": "Ingredient suppliers selling into New York avoid a new GRAS disclosure duty for now, but state-level GRAS pressure continues; keep GRAS dossiers ready.",
+   "image": "",
+   "entities": [
+    "Consumer Reports",
+    "New York State"
+   ]
+  },
+  {
+   "id": "6320bcc0b7ce7f8b",
+   "title": "This Thanksgiving, Big Food gives thanks for Gov. Hochul",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1ZYRU54UmxaOUo0dzE3TW1OVjJLb2xxak9MaS1PRVJDNW5GNlQ5M056MHl0RVMzbWdmazF3RnZsdUtvV0ZGYkpiT3R0YlJFM00waEs1bjgzWVAyNjRqaGVid2I1Y25SdjV0QlFqZzZiNHBqVEVqMFYyNk10UVdYT1NDNV9qbm8?oc=5",
+   "source": "Center for Science in the Public Interest",
+   "kind": "regulation",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "CSPI criticises Gov. Hochul's veto of New York's food additive (GRAS) disclosure bill.",
+   "why": "Confirms the New York GRAS disclosure bill is dead for now; advocacy groups will push again, so monitor 2027 sessions.",
+   "image": "",
+   "entities": [
+    "CSPI"
+   ]
+  },
+  {
+   "id": "78f2f940d3dc5e03",
+   "title": "FDA Allows Low-FODMAP Labels on Food Products",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1ZERFhfTXAyRW9aM3Y0Ym5jdGtpVVhxLXVESFkxTG1fSC1GZlZEU0wwY3piQTdzSHhHOXU2N0U4ckNtbHJWckEwZWtXd3VWa0MtZGVBeFFjdUJrTktVTVFSckdKSUtYLUVkWGRDN1NjeDhEV0E1SFh6VjZLamcwNw?oc=5",
+   "source": "Wisevoter",
+   "kind": "regulation",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 4,
+    "Chocolate": 2
+   },
+   "relevance": 5.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "FDA reportedly now allows low-FODMAP labelling on food products.",
+   "why": "A new low-FODMAP claim route could support gut-friendly bread and sourdough positioning; verify the FDA conditions.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "5090702f2dd2cfc5",
+   "title": "Hochul weighs first-in-nation food safety bill as both sides escalate lobbying",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2JVSGFZX3VzQVFPRUNiUkQxbk1aUGJwMlVaZElyRllCbGJBWUJVOV9ONEwzWWRRS2lzQ09Zc2xoWWRWN3VUVzdEcmxsTHZHZk9nbk5wWGhoTVUtLTFNVVVHWDNzc1NxYU1fVzUtUmxFMXh0d29LYnVBRHZ0dHhUekt6YmNJMlRzTE01VmxndkE2ekZ4UFloZW9ubUhuaFRnU3dZV0YxVUU2NHIwdTk0U2F3dF93LU1saGtmLV9CNFNsdHZHcm5uNTVyWFVkQ3RIYVNRd09ONXp4cWpZ?oc=5",
+   "source": "Times Herald-Record",
+   "kind": "regulation",
+   "published": "2026-11-20",
+   "day": "2026-11-20",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Gov. Hochul weighed a first-in-nation food additive safety disclosure bill amid heavy lobbying.",
+   "why": "",
+   "image": "",
+   "entities": [
+    "New York State"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "date": "2026-11-16",
+ "headline": "Zya raises $15M for drop-in sugar reduction; coffee-ground and olive cocoa substitutes",
+ "summary": [
+  "Zya closed a $15M Series A for a technology that turns sugar into fibre after eating without reformulation, with multinationals moving to co-development, making it a partnership target for sugar-reduced Patisserie and Belcolade lines.",
+  "Cocoa substitutes keep multiplying: RFINE's KAFFIKA upcycles coffee grounds into a cocoa alternative and Kansas State/Pelotas showed olive pomace flour can replace 25% of cocoa powder in muffins with no consumer penalty.",
+  "Biotech routes to cocoa supply are gaining attention as bean shortages persist, worth tracking as a long-term Belcolade hedge.",
+  "Avebe's cold-activated PuraMYL 440 potato starch builds texture without heating, a quick test candidate for cold-process creams and fillings.",
+  "On the regulatory side, Uttar Pradesh is cracking down on labels that imply ingredients present only as flavour or toppings, a reminder for chocolate- and fruit-flavoured product claims in India."
+ ],
+ "scanned": 49,
+ "items": [
+  {
+   "id": "ea79b9e7554679a8",
+   "title": "Upcycled Cocoa Alternative Ingredients: RFINE KAFFIKA Turns Coffee Grounds Into Cocoa…",
+   "url": "https://www.trendhunter.com/trends/upcycled-cocoa-alternative-ingredients",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 3,
+    "Patisserie": 5,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "RFINE's KAFFIKA is an upcycled cocoa alternative made from spent coffee grounds.",
+   "why": "A ready-to-test cocoa-powder alternative for chocolate-flavoured fillings, coatings and bakery could cut cocoa exposure; evaluate as a supplier or partner.",
+   "image": "",
+   "entities": [
+    "RFINE"
+   ]
+  },
+  {
+   "id": "26bef775f64bcb07",
+   "title": "Chocolate-making cocoa beans are increasingly in short supply. There may be a biotech fix",
+   "url": "https://geneticliteracyproject.org/2026/11/16/chocolate-making-cocoa-beans-are-increasingly-in-short-supply-there-may-be-a-biotech-fix/",
+   "source": "Genetic Literacy Project",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Genetic Literacy Project article on biotech approaches (such as gene editing or cell culture) to address shrinking cocoa bean supply.",
+   "why": "Biotech cocoa routes are a direct long-run supply hedge for Belcolade; keep tracking the companies behind them as partner or competitor candidates.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "ac495a0910c37875",
+   "title": "Exclusive: Zya raises $15m Series A to rethink sugar reduction, no reformulation required",
+   "url": "https://agfundernews.com/exclusive-zya-raises-15-5m-to-rethink-sugar-reduction-no-reformulation-required",
+   "source": "agfundernews.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Zya raised a $15M Series A for a sugar-reduction technology that converts sugar into fibre after eating, without reformulation; it has feasibility projects with multinationals heading to co-development.",
+   "why": "A drop-in sugar-reduction approach for sweet goods, fillings and chocolate makes Zya a strong partnership target for Patisserie and Belcolade.",
+   "image": "https://agfundernews.com/wp-content/uploads/2026/11/Zya-founders-2-Image-credit-Zya-e1794680368725-1024x541.png",
+   "entities": [
+    "Zya"
+   ]
+  },
+  {
+   "id": "56fb0619f70e49eb",
+   "title": "Zya raises $15M Series A to turn sugar into fibre after you eat",
+   "url": "https://app.dealroom.co/news/note/zya-raises-15m-series-a-to-turn-sugar-into-fibre-after-you-eat",
+   "source": "Dealroom",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 8,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Sugar/Fat/Salt Reduction",
+   "region": "North America",
+   "summary": "Dealroom report on Zya's $15M Series A to turn sugar into fibre in the gut after consumption.",
+   "why": "Same Zya deal: a co-development candidate for sugar-reduced Patisserie and chocolate without reformulation.",
+   "image": "",
+   "entities": [
+    "Zya"
+   ]
+  },
+  {
+   "id": "dfa6bfe268f6cb60",
+   "title": "Olive Pomace Flour as a Partial Cocoa Replacer in Chocolate Muffins: Expanding the Potential of a By-Product",
+   "url": "https://doi.org/10.3390/foods15224089",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-11-14",
+   "day": "2026-11-16",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 7,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Brazilian and Kansas State researchers replaced 25% of cocoa powder in chocolate muffins with olive pomace flour, with no loss in volume, texture or consumer acceptance.",
+   "why": "A low-cost, upcycled partial cocoa-powder replacer for chocolate cakes and muffins could ease cocoa cost pressure in Patisserie mixes; worth a pilot or contact with Kansas State.",
+   "image": "",
+   "entities": [
+    "Federal University of Pelotas",
+    "Kansas State University"
+   ]
+  },
+  {
+   "id": "b1157342cd0440b2",
+   "title": "How Fiber Can Rule in a Clean Label World",
+   "url": "https://www.foodbusinessnews.net/articles/31306-how-fiber-can-rule-in-a-clean-label-world",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Sponsored piece on 1:1 high-fibre flour swaps to add fibre to clean-label bakery products.",
+   "why": "High-fibre flour swaps compete with or complement Puratos fibre-enrichment solutions for clean-label bread.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/04/FBN_NativeArticle_MainImage_1200x800.webp?t=1794837668",
+   "entities": []
+  },
+  {
+   "id": "7337ad33a5db19f5",
+   "title": "U.S. Cocoa Butter Alternatives Market Is Going to Boom |• Cargill • Archer Daniels Midland Company • Barry Callebaut",
+   "url": "https://www.openpr.com/news/4691358/u-s-cocoa-butter-alternatives-market-is-going-to-boom",
+   "source": "openPR.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Market report on growing US cocoa butter alternatives, naming Cargill, ADM and Barry Callebaut.",
+   "why": "CBA demand growth amid cocoa costs shapes compound coating competition; low detail but confirms competitor activity.",
+   "image": "",
+   "entities": [
+    "Cargill",
+    "ADM",
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "dc04342ad5c94a39",
+   "title": "Opinion: Indiana mill redefines flour safety",
+   "url": "https://www.bakingbusiness.com/articles/67242-opinion-indiana-mill-redefines-flour-safety",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Shelf-life & Food Safety",
+   "region": "North America",
+   "summary": "Opinion piece on Star of the West Milling's approach to reducing raw-flour safety risks.",
+   "why": "Treated, safer flour is increasingly relevant for ready-to-eat applications and fillings; track the mill's process as a supplier benchmark.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/16/111626_AdobeStock_Engineer.webp?t=1794849406",
+   "entities": [
+    "Star of the West Milling"
+   ]
+  },
+  {
+   "id": "77e2e035fee267c8",
+   "title": "Cold-Activated Potato Starches: Avebe PuraMYL 440 Builds Food Texture Without Heating",
+   "url": "https://www.trendhunter.com/trends/cold-activated-potato-starches",
+   "source": "Trend Hunter",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 4,
+    "Patisserie": 7,
+    "Chocolate": 2
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "Europe",
+   "summary": "Avebe launched PuraMYL 440, a cold-activated potato starch that builds texture without heating.",
+   "why": "A cold-set clean-label starch is directly usable in instant creams, fillings and toppings; test it for Patisserie cold-process products.",
+   "image": "",
+   "entities": [
+    "Avebe"
+   ]
+  },
+  {
+   "id": "5113f87b60728efe",
+   "title": "Baker’s Yeast: The Living Ingredient Behind Better Baking",
+   "url": "https://www.bakingbusiness.com/articles/67053-bakers-yeast-the-living-ingredient-behind-better-baking",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "Baking Business feature on how baker's yeast drives quality, flavour and performance beyond leavening.",
+   "why": "Background content on yeast's role in quality; useful context for Bakery's yeast and fermentation messaging.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/10/14/IMG_0955.webp?t=1794837539",
+   "entities": []
+  },
+  {
+   "id": "b03da101cd3e9e4d",
+   "title": "Antidiabetic potential of cocoa bean shell extract (Theobroma Cacao L.): phytochemical profile, α-glucosidase inhibition and ex vivo GLP-1 secretion",
+   "url": "https://doi.org/10.1016/j.foodres.2026.121183",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2027-01",
+   "day": "2026-11-16",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 2,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Health & Nutrition",
+   "region": "Global / Unknown",
+   "summary": "Study of cocoa bean shell extract showing alpha-glucosidase inhibition and GLP-1 secretion effects in lab models.",
+   "why": "Cocoa shells are a Belcolade by-product; health-backed valorisation could become an upcycled functional ingredient story.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "d06c47347fc4eb44",
+   "title": "HPLC and LC-MS/MS analysis of intermediate wheatgrass protein composition.",
+   "url": "https://doi.org/10.1002/jsfa.71145",
+   "source": "Europe PMC",
+   "kind": "paper",
+   "published": "2026-11-15",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Sustainability & Upcycling",
+   "region": "North America",
+   "summary": "University of Manitoba analysis shows intermediate wheatgrass (Kernza) lacks key high-molecular-weight glutenin subunits, explaining its weak gluten network.",
+   "why": "Perennial grains are a sustainability theme for bread; understanding their gluten gaps points to enzyme/improver solutions Puratos could offer.",
+   "image": "",
+   "entities": [
+    "University of Manitoba"
+   ]
+  },
+  {
+   "id": "1dad46c77cc315bf",
+   "title": "Tim Tam, Tate’s and Tru Fru bet on Christmas chocolate",
+   "url": "https://www.bakeryandsnacks.com/Article/2026/11/16/christmas-chocolate-launches-2026-tim-tam-tates-tru-fru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "bakeryandsnacks.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 5,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Christmas 2026 chocolate launches in the UK and US, including Tim Tam Mint, Tate's peppermint cookies and Tru Fru frozen cherry truffles.",
+   "why": "Seasonal mint and fruit-chocolate formats are trend cues for Belcolade and Patisserie seasonal offers.",
+   "image": "https://www.bakeryandsnacks.com/resizer/v2/KIUPCSKRARA5JBTUKDUK2Q5D4A.jpg?auth=19c60e0b94ad885c6b2edf14193873be67150fef41f6ad9b4243feff2be1d8ba&smart=true&width=2121&height=1414",
+   "entities": [
+    "Tim Tam",
+    "Tate's",
+    "Tru Fru",
+    "Waitrose"
+   ]
+  },
+  {
+   "id": "bdf0e781e8553918",
+   "title": "Dough Relaxants Market to Reach USD 1.07 Billion by 2036, at a CAGR",
+   "url": "https://www.openpr.com/news/4691213/dough-relaxants-market-to-reach-usd-1-07-billion-by-2036-at-a-cagr",
+   "source": "openPR.com",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Market report forecasting dough relaxants market at USD 1.07 billion by 2036.",
+   "why": "Dough relaxants are a core improver category; growth projection supports Bakery improver positioning.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "05217fa88d659b31",
+   "title": "Nature’s Own recovery taking longer than Flowers thought",
+   "url": "https://www.foodbusinessnews.net/articles/31349-natures-own-recovery-taking-longer-than-flowers-thought",
+   "source": "foodbusinessnews.net",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-16",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Flowers Foods says the Nature's Own bread relaunch is recovering more slowly than expected.",
+   "why": "A major US industrial bakery customer struggling with its flagship brand may seek new formulation and health/clean-label support.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/16/Natures-Own-bread_brand-relaunch.webp?t=1794848484",
+   "entities": [
+    "Flowers Foods",
+    "Nature's Own"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-17",
+ "headline": "FDA GRAS rule fight & NY GRAS bill; Barry Callebaut chocolate trends; lab-grown cocoa in Medford",
+ "summary": [
+  "GRAS is under pressure on two fronts: industry groups want more time to comment on FDA's proposed GRAS rule and a New York GRAS bill is heading to the governor, so Puratos regulatory should review self-affirmed GRAS ingredients and feed into trade-association comments.",
+  "Washington is again eyeing a federal ultra-processed foods definition, which could reach bakery, patisserie and chocolate customers using improvers and emulsifiers; keep clean-label alternatives ready.",
+  "Barry Callebaut is publicly setting the agenda on next-wave chocolate innovation, while cocoa supply has recovered but stays volatile; Belcolade should benchmark its roadmap and keep hedging cocoa risk.",
+  "A lab-grown chocolate producer is setting up in Medford, another sign that cocoa alternatives are scaling in the US and worth adding to the scouting pipeline.",
+  "For Bakery, par-baked bread shelf-life research, plant-protein formulation for high-protein claims and upcycled coffee grounds in cookies offer concrete product ideas."
+ ],
+ "scanned": 72,
+ "items": [
+  {
+   "id": "cf95b2db03f800f3",
+   "title": "Barry Callebaut spotlights emerging trends driving the next wave of chocolate innovation",
+   "url": "https://www.foodtechbiz.com/business-updates/barry-callebaut-spotlights-emerging-trends-driving-the-next-wave-of-chocolate-innovation",
+   "source": "FoodTechBiz",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 4,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Barry Callebaut outlines the emerging trends it sees driving the next wave of chocolate innovation.",
+   "why": "Direct competitor signalling on chocolate innovation priorities; Belcolade should benchmark its roadmap against it.",
+   "image": "https://media.assettype.com/foodtechbiz%2F2026-11-16%2Fldg8w5ck%2FFeeding-Fanbases-Chocolate-trends-20272.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "63a2fec91da8cd3b",
+   "title": "Cocoa complications: Senior leaders warn of complex challenges ahead",
+   "url": "https://www.foodnavigator.com/Article/2026/11/17/cocoa-supply-recovers-but-demand-and-resilience-remain-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 2,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Industry leaders say cocoa supply has recovered from the deficit but climate, disease and weak demand keep the market volatile.",
+   "why": "Cocoa price and supply volatility remains a planning risk for Belcolade sourcing and customer pricing.",
+   "image": "https://www.foodnavigator.com/resizer/v2/CQ5HQK4HMFCJLFPEAGGCZAJ3GQ.jpg?auth=f5a91b7b2e8d7e5908099c2306dacb854421cc992f86a2404b05a5c7ab206736&smart=true&width=3840&height=2160",
+   "entities": []
+  },
+  {
+   "id": "06b986e01261bb0e",
+   "title": "Partially baked bread: a promising approach to extend the shelf life—a review",
+   "url": "https://doi.org/10.1007/s13197-026-06974-4",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-16",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Shelf-life & Food Safety",
+   "region": "Asia-Pacific",
+   "summary": "Review from CSIR-CFTRI on partially baked (par-baked) bread as a way to extend shelf life.",
+   "why": "Par-baked bread is core to Puratos' industrial and in-store bakery customers; a reference for improver and shelf-life solutions.",
+   "image": "",
+   "entities": [
+    "Central Food Technological Research Institute"
+   ]
+  },
+  {
+   "id": "45cc0078ec2321ba",
+   "title": "Lab-grown chocolate, insect kibble get a Medford home",
+   "url": "https://pro.stateaffairs.com/ma/economy/lab-grown-chocolate-insect-kibble-get-a-medford-home",
+   "source": "State Affairs Pro",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 2,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "News that a lab-grown chocolate producer (alongside insect pet-food maker) is setting up in Medford.",
+   "why": "Cell-cultured cocoa scaling in the US is a cocoa-alternative signal for Belcolade; identify the company as a scouting target.",
+   "image": "https://cms.stateaffairs.com/wp-content/uploads/2026/11/6afb7b03835c4.image_.jpg?w=1340",
+   "entities": []
+  },
+  {
+   "id": "4656fb93583b3bfe",
+   "title": "Sophisticated solutions: suppliers unveil new bakery ingredients",
+   "url": "https://bakeryinfo.co.uk/ingredients/sophisticated-solutions-suppliers-unveil-new-bakery-ingredients/725965.article",
+   "source": "British Baker",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 6,
+    "Chocolate": 2
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "British Baker round-up of new bakery ingredients unveiled by suppliers.",
+   "why": "Competitor launch tracking for Bakery and Patisserie; check which suppliers and claims are featured.",
+   "image": "https://d3rctclhuobtt7.cloudfront.net/Pictures/1024x536/5/9/8/411598_rainbowdustcakemadewithgoldandblackgoldedibleglitters2100x1400_477197.jpg",
+   "entities": [
+    "British Baker"
+   ]
+  },
+  {
+   "id": "7be1b316e16e4093",
+   "title": "Formulation strategies for plant-based protein",
+   "url": "https://www.bakingbusiness.com/articles/67249-formulation-strategies-for-plant-based-protein",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "North America",
+   "summary": "Baking Business piece on formulation strategies for adding plant proteins to bakery and snacks for high-protein claims.",
+   "why": "High-protein bakery is a growing customer ask; Puratos can position protein-enriched mixes and improvers that fix volume and texture losses.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/17/1117-Ingredion.webp?t=1794928968",
+   "entities": []
+  },
+  {
+   "id": "e1a81f9bf123e646",
+   "title": "Vegan Baking Ingredients Market Forecast to 2035: Industrial Bakery Reformulation Drives Growth - News and Statistics",
+   "url": "https://www.indexbox.io/blog/vegan-baking-ingredients-market-to-accelerate-by-2035-driven-by-industrial-bakery-reformulation/",
+   "source": "IndexBox",
+   "kind": "news",
+   "published": "2026-11-16",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 2
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Plant-based & Alternative Proteins",
+   "region": "Global / Unknown",
+   "summary": "IndexBox market forecast to 2035 for vegan baking ingredients, citing industrial bakery reformulation as the growth driver.",
+   "why": "Supports demand for Puratos egg/dairy-replacement solutions in industrial bakery; useful for market sizing.",
+   "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-vegan-baking-ingredients-market-analysis-forecast-size-trends-and-insights-1794858087.webp",
+   "entities": [
+    "IndexBox"
+   ]
+  },
+  {
+   "id": "917f24ecf34d564d",
+   "title": "Espresso Spent Coﬀee Grounds as a Dough-Restructuring Agent in Composite Short Doughs: Workability, Shape Stability and Baking Performance of Cookies",
+   "url": "https://doi.org/10.20944/preprints202610.2785.v2",
+   "source": "Europe PMC",
+   "kind": "preprint",
+   "published": "2026-11-16",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "long",
+   "category": "Sustainability & Upcycling",
+   "region": "Europe",
+   "summary": "Study replacing up to 20% of wheat flour in cookie short doughs with dried espresso spent coffee grounds, measuring rheology, shape stability and baking performance; cookies kept their spread within 3.3% of control.",
+   "why": "Upcycled coffee grounds as a functional flour replacer in biscuits and short pastry is a sustainability/fibre ingredient idea for Bakery and Patisserie R&D.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "e22526b849813aa1",
+   "title": "Washington on watch again for ultra-processed foods definition",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmxIbnkyRWowdjQ5N2VsdE0wVW9BZ3NCMTh2ekw3Wmc2WEhtUTdNc0FyU201RzhackJfbG10NnExWEY0bHQ4LUVHZlp3YVliVjlYSGF0NjlTUzRDMlJpcmJDOXJ4Z05TZ1k5SHdtcUpXVWc0MFpoTFZOeV9jSFFBYWotVlM0cEJQanc?oc=5",
+   "source": "Food Fix",
+   "kind": "regulation",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Washington is again watching for a federal definition of ultra-processed foods.",
+   "why": "A UPF definition could hit bakery, patisserie and confectionery customers using emulsifiers, improvers and additives; monitor and prepare clean-label alternatives.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "b5e8255c69ca82c7",
+   "title": "November 2026: Top Bakery Trends report",
+   "url": "https://bakeryinfo.co.uk/feature-synopses/november-2026-top-bakery-trends-report/722122.article",
+   "source": "British Baker",
+   "kind": "news",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 5,
+    "Chocolate": 2
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "British Baker's November 2026 report on top bakery trends.",
+   "why": "Trend input for Bakery and Patisserie marketing and innovation pipelines.",
+   "image": "https://d3rctclhuobtt7.cloudfront.net/Pictures/1024x536/2/0/3/402203_gettyimages2269061900_574273.jpg",
+   "entities": [
+    "British Baker"
+   ]
+  },
+  {
+   "id": "1b9e8b7b3b8c22a3",
+   "title": "Industry groups request more time to comment on GRAS rule",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXZyQTVzbnYtSkQ5RjNuNGppOXZmQVlHN2x6a0U2TU1KQ0xicUp0X0ZaWmZEcWNickdFYmU2c1dpNmZuX3JlMGhXeS1Fd1dLVVhIamlSb09BR0FzSWRTLVNHdHJNUVRmM1BYaDNUZGdmNmN2c0o3bkp6M3ppUmkwTUY2dXV6elR0N3E3M3FiZ29NcTNQWms5aEh5U3Z1d2lCRGsyV0Y4eF8?oc=5",
+   "source": "Food Business News",
+   "kind": "regulation",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Industry groups asked FDA for more time to comment on its proposed GRAS rule.",
+   "why": "The GRAS rule could change how new ingredients (enzymes, cultures, fibres) reach the US market; Puratos regulatory should track the comment deadline and join trade association input.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "e28ecfdb247ffd21",
+   "title": "State Legislation Update: New York GRAS Bill Heads to Governor While 2027 Prefiling Begins",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGdKVzNVVzBLRFY5WWo2WXN3R3NPUnZxNWZsS3JQUGZmcXZ5MGg5eV9yRmZXcTM1aHR4eGVBZ0pDR1BibmpLODBYaXp0QUJkSjZJUjZfZV9XUWRZN3YzOHRlU2lLdjRIaGdUTE5BWDlOOEpmZmlWOHV4NnNLcW9IQWVJVXh4bzZTaDJ0eUp1dkhCSG90bW9KS0k1SFBOeTZPelBEWHpYS3JicXUtS192WlVn0gG3AUFVX3lxTE5fQ0txRXNVZXVMd1BWOF9VTDJyVG5BdG1DOGlNek1yekpBcjFSS2VWMVA1TFVId1hxMDNJaDFtc1Ywd2FDSDN5eWJDeWRZRHBMZjNaeEJId1phWWh0bk9Vb2NuTWtJNkduTlAyS25ybUttNmlNM0VYWXRuOXBMajgxNmtwVndab1NOenZRVm1odGZBTVo4X0h3VlNQM1VDZVhIak45VHg3U2tVQk1sbm9QcEJNNF9fSQ?oc=5",
+   "source": "The National Law Review",
+   "kind": "regulation",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 6,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "A New York state GRAS bill is heading to the governor as 2027 state prefiling begins.",
+   "why": "State-level GRAS disclosure laws could force reformulation or notification for ingredients sold to New York customers; review the ingredient portfolio for self-affirmed GRAS items.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "a7a82a295366e044",
+   "title": "Why Food Makers Are Rebuilding Their Recipes Around Metabolic Health",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdE1nNm5kSTRGdWVYZmpnQzJtdXNqa2lfWTNtejQ3eVVjN2NZQkZZQ1ZLTUJYcEp6MG5URFEyYjllU0VtenpEeDRfWGtyY2FMUUNpNWstdi15SXFPZV9xYTFuUzk3S2Q4YUl0c1o3SW0zbDZqQXpZbEYtMWdhVlN3NFRvNnJES2kyNWx3dnA3S1NtcTVCS1hHS21tdDVWdw?oc=5",
+   "source": "openPR.com",
+   "kind": "regulation",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 4,
+    "Chocolate": 4
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Global / Unknown",
+   "summary": "Article on food makers reformulating recipes around metabolic health.",
+   "why": "Metabolic-health reformulation (fibre, lower sugar, GI) is an opportunity for Puratos health-oriented bakery and filling solutions.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "dfc9f6963522ef8c",
+   "title": "Scientists Review Evolving Evidence Behind Regulatory Bans on Common Food Additives",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUk1TcEVoR1R2NFlGclJiRmJ1cHVEcjRCY0RrNHhUb1FxU1lMYXRGZW9xaXUxeFo5SENtZGNwU2FjRE1saE9PcW5FMHJ3UFJoV0NVLU5sa2JyYzdKOHZ5YjQwd2duT005a21oWDFSUGRPd3JSTUgxd050N3JCNDVHMkVzWllWRlNOLVVwVGNXcXc2VWYyaWpoQXF6a2xXd0Y4ampUekx1d0N4UUo5?oc=5",
+   "source": "Bioengineer.org",
+   "kind": "regulation",
+   "published": "2026-11-17",
+   "day": "2026-11-17",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 5,
+    "Chocolate": 5
+   },
+   "relevance": 5.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "Global / Unknown",
+   "summary": "Scientists review the evolving evidence behind regulatory bans on common food additives.",
+   "why": "Additive bans (dyes, emulsifiers, preservatives) drive reformulation across all three units; useful for anticipating the next targets.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

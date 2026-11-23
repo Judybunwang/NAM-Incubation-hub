@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-22",
+ "headline": "Barry Callebaut expands in India; spirulina tested as cocoa powder substitute",
+ "summary": [
+  "Barry Callebaut is significantly expanding its Indian ingredients manufacturing, raising competitive pressure on Belcolade and Puratos fillings in India.",
+  "A new study replaces cocoa powder with spirulina in dark chocolate, a possible partial cocoa alternative worth screening as cocoa costs stay high.",
+  "Indonesian cocoa genotype research links volatiles to flavour after postharvest processing, useful for origin selection and fermentation protocols.",
+  "A class action over an allulose-based '1g Total Sugars' claim is a reminder to review low-sugar claim wording on reformulated fillings and chocolate.",
+  "Market forecasts point to continued clean-label and precision-fermentation demand for fermented ingredients, supporting the sourdough portfolio."
+ ],
+ "scanned": 44,
+ "items": [
+  {
+   "id": "8632bbcc937cf308",
+   "title": "Major expansion for Barry Callebaut’s Indian ingredients manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE1ZeElkRzBYSDJuZTFTQXVhZlpwWDVFck5XSnBOUUp4T2M5UVhybVNUdFJxSzQzTllScHV1U25seDl5N0p1LVF2ZGF4R0Z6WFByV0l1akxrZU5Va092SDN3cTZfWENyazZmdTBNUmFuMEhWaXQ0SkRUNy1maF81LTZtRkttZ3BHRWFDeVRTeUFtbEgxaks3QzJ6elZjcFEwYkMtSDdsUlZJV0dFNEpld0pMUjFURlJmblUtSTdB?oc=5",
+   "source": "Confectionery Production",
+   "kind": "news",
+   "published": "2026-11-20",
+   "day": "2026-11-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 4,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Asia-Pacific",
+   "summary": "Barry Callebaut announces a major expansion of its Indian ingredients manufacturing.",
+   "why": "Competitor capacity build in India intensifies competition for Belcolade and Puratos fillings in a fast-growing chocolate market.",
+   "image": "",
+   "entities": [
+    "Barry Callebaut"
+   ]
+  },
+  {
+   "id": "d44d8b82e91c84fe",
+   "title": "Spirulina biomass as a cocoa powder substitute in dark chocolate bars: Impact on their physicochemical, nutritional, and sensory properties",
+   "url": "https://doi.org/10.1016/j.fufo.2026.101260",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Global / Unknown",
+   "summary": "Study replacing cocoa powder with spirulina biomass in dark chocolate bars, measuring physicochemical, nutritional and sensory effects.",
+   "why": "A partial cocoa-powder substitute with protein and colour benefits is relevant to Belcolade's cocoa-alternative and cost-hedging work amid high cocoa prices.",
+   "image": "",
+   "entities": [
+    "Future Foods"
+   ]
+  },
+  {
+   "id": "fe729c962bae8a51",
+   "title": "Identification of volatile compounds associated with sensory attributes in Indonesian cocoa bean genotypes after postharvest processing using metabolomic and multivariate analysis",
+   "url": "https://doi.org/10.1016/j.fbio.2026.110571",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Asia-Pacific",
+   "summary": "Metabolomic study linking volatile compounds to sensory attributes across Indonesian cocoa genotypes after postharvest processing.",
+   "why": "Genotype and postharvest flavour markers could support Belcolade origin selection and fermentation protocols for Asian cocoa.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "038edcd408d50698",
+   "title": "Fermented Ingredients Market Forecast to 2035, Driven by Clean-Label Reformulation and Precision Fermentation",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOG9tb0h2LXlhaEowSFZac2tLcHdIRFV5M3Jlc1BUVnVtd3lRdXNxQm14bUpLX2Z4WkdmbnR6S3hjaDRmYXZQeVpMYzJqUXdQUWZsbUdMSHZqQ1ZmY200WU1sN1BtdXUwSm92dEc0dnRqOGlCSmhDWUU5eHlEdkRqYTNJcVhNTmZmY2o0ZzNFeDhRZ1V5QUJGSzg4NmNYZWpyeFVIOHRMeGkyanBtdTY1VFN0eGpjNWxJTXp2ZUZlN04xR1Q0VFkwd1pCVUhmQzB3clFvRw?oc=5",
+   "source": "IndexBox",
+   "kind": "news",
+   "published": "2026-11-22",
+   "day": "2026-11-22",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 3
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "Global / Unknown",
+   "summary": "Market report forecasting fermented ingredients to 2035, driven by clean-label reformulation and precision fermentation.",
+   "why": "Confirms demand tailwind for Puratos's sourdough and fermentation-based clean-label ingredients; useful for sizing, not a partner lead.",
+   "image": "",
+   "entities": [
+    "IndexBox"
+   ]
+  },
+  {
+   "id": "7ee690197b7b3b1b",
+   "title": "An Integrated Text Mining and Content Analysis to Inform Climate‐Smart Cocoa Practices",
+   "url": "https://doi.org/10.1002/csr.71174",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-20",
+   "day": "2026-11-22",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Sustainability & Upcycling",
+   "region": "Middle East & Africa",
+   "summary": "Review plus Delphi study of climate-smart cocoa practices and barriers to adoption in cocoa-producing countries.",
+   "why": "Useful input for Puratos's Cacao-Trace and cocoa sustainability programs on which farm practices experts prioritise.",
+   "image": "",
+   "entities": []
+  }
+ ]
+}

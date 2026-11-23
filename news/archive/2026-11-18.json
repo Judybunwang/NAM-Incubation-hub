@@ -1,0 +1,458 @@
+{
+ "date": "2026-11-18",
+ "headline": "Cargill brings Coconera CBA to Europe; disease-resistant cacao; sourdough clean-label research",
+ "summary": [
+  "Cargill launched its Coconera cocoa butter alternative in Europe at Fi Europe, a direct competitive challenge to Belcolade compounds and coatings while cocoa costs stay high.",
+  "A new disease-resistant cacao plant is being positioned as a fix for disease threats to global chocolate supply; Belcolade sourcing should identify the developer and assess partnership potential.",
+  "University of Alberta research shows sourdough shortens bread ingredient lists but still needs enzymes for some functions, backing Puratos's combined Sapore and enzyme clean-label approach, while Cain Foods pushes competing fermented shelf-life ingredients.",
+  "US bakeries keep extending sourdough and gluten-free lines (Toufayan sourdough pita, Rudi's gluten-free), and Flowers Foods is working to revive Dave's Killer Bread, all openings for Puratos Bakery solutions.",
+  "Regulatory: EUDR due-diligence duties for chocolate makers and US sodium-reduction pressure on bread are the changes to prepare for, and Canada has revoked two PFAS food additive authorisations."
+ ],
+ "scanned": 87,
+ "items": [
+  {
+   "id": "91db407bf291986e",
+   "title": "Fi Europe 2026 live: Cargill brings Coconera cocoa butter alternative to Europe",
+   "url": "https://www.foodingredientsfirst.com/video/fi-europe-2026-live-cargill-brings-coconera-cocoa-butter-alternative-to-europe.html",
+   "source": "Food Ingredients First",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 1,
+    "Patisserie": 5,
+    "Chocolate": 9
+   },
+   "relevance": 9.0,
+   "horizon": "short",
+   "category": "Cocoa & Chocolate",
+   "region": "Europe",
+   "summary": "At Fi Europe 2026, Cargill brought its Coconera cocoa butter alternative to the European market.",
+   "why": "A major supplier's cocoa butter alternative arriving in Europe is a direct competitive move against Belcolade compounds and coatings as cocoa costs stay high.",
+   "image": "https://resource-cns.cnsmedia.com/fif/videoimg/2a5427aa-8b65-486f-a4b5-8e4a41d2e29bvideoimages.webp",
+   "entities": [
+    "Cargill"
+   ]
+  },
+  {
+   "id": "021ffb8816725e2e",
+   "title": "Enzymatic and Microbial Modification of Carbohydrates for Improved Bread Quality and Nutritional Functionality",
+   "url": "https://doi.org/10.7939/86140",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-17",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 8,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "University of Alberta thesis on sourdough and enzyme modification of wheat carbohydrates for clean-label bread, finding sourdough shortens ingredient lists but cannot yet replace all additives.",
+   "why": "Supports Puratos's clean-label improver plus sourdough strategy and maps which additive functions still need enzymes, a good basis for S500/Sapore combinations.",
+   "image": "",
+   "entities": [
+    "University of Alberta"
+   ]
+  },
+  {
+   "id": "2fa6e046a7ebd30a",
+   "title": "Global Chocolate Supply Threatened by Disease, New Cacao Plant Offers Solution",
+   "url": "https://www.foodmanufacturing.com/ingredients/news/22978630/global-chocolate-supply-threatened-by-disease-new-cacao-plant-offers-solution",
+   "source": "Food Manufacturing",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 8
+   },
+   "relevance": 8.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "Food Manufacturing reports a new disease-resistant cacao plant presented as a solution to disease threats to global chocolate supply.",
+   "why": "Disease-resistant cacao could stabilise supply and prices for Belcolade; worth identifying the developer for Cacao-Trace sourcing partnerships.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "9f6a02aefce0a870",
+   "title": "Incorporation of Spirulina and Moringa into Dark Chocolate: Physicochemical and Nutritional Properties, Activated Carbon Deodorization, Sensory Quality, And In Vitro Gut Microbiota Responses",
+   "url": "https://doi.org/10.58088/yabv-wm69",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-17",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 2,
+    "Patisserie": 3,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "long",
+   "category": "Cocoa & Chocolate",
+   "region": "North America",
+   "summary": "University of Delaware thesis replacing cocoa powder in dark chocolate with spirulina and moringa, using activated-carbon deodorisation to tame off-flavours and testing gut-microbiota effects.",
+   "why": "A US academic route to protein-rich, partly cocoa-free dark chocolate that Belcolade could track for cocoa-reduction and functional chocolate ideas.",
+   "image": "",
+   "entities": [
+    "University of Delaware"
+   ]
+  },
+  {
+   "id": "985c08c6d94411e9",
+   "title": "Fermentation Strategies in Baked Foods and Novel Plant-based Foods: Functionality, Preservation, Sustainability and Authentication",
+   "url": "https://doi.org/10.7939/86162",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-17",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "University of Alberta thesis on fermentation strategies for baked and plant-based foods, including Bacillus spp. to improve bread quality and DNA methods to authenticate sourdough bread.",
+   "why": "Ganzle-lab work on sourdough authentication and Bacillus starters is directly relevant to Sapore sourdough claims and is a natural academic partner for Bakery.",
+   "image": "",
+   "entities": [
+    "University of Alberta"
+   ]
+  },
+  {
+   "id": "c4d9a26554cfed36",
+   "title": "Effect of Soy Protein Isolate and Textured Soy Protein Nugget Blends on Dough Rheological Properties and Bread Quality",
+   "url": "https://doi.org/10.3390/foods15224131",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-17",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Kansas State study showing that blending soy protein isolate with textured soy nuggets lets bakers add high protein to wheat bread while improving volume and softness versus isolate alone.",
+   "why": "Practical formulation insight for high-protein bread mixes and improvers aimed at North American industrial bakers.",
+   "image": "",
+   "entities": [
+    "Kansas State University"
+   ]
+  },
+  {
+   "id": "6de5e880c1239663",
+   "title": "Clean label bread formulating: Balancing flavor and shelf life",
+   "url": "https://www.bakingbusiness.com/articles/67239-clean-label-bread-formulating-balancing-flavor-and-shelf-life",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Shelf-life & Food Safety",
+   "region": "North America",
+   "summary": "Baking Business piece in which Cain Foods explains how fermented ingredients help clean-label bread bakers balance flavour and mould-free shelf life.",
+   "why": "Cain Foods is a direct competitor in cultured-wheat clean-label preservation, an area where Puratos's sourdough and enzyme shelf-life offers compete.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2025/03/24/Since-Sliced-Bread---2025.webp?t=1742995287",
+   "entities": [
+    "Cain Foods"
+   ]
+  },
+  {
+   "id": "5983c33d7961b097",
+   "title": "Rudi’s Bakery Introduces Two New Certified Gluten Free Innovations",
+   "url": "https://perishablenews.com/bakery/rudis-bakery-introduces-two-new-certified-gluten-free-innovations/",
+   "source": "Perishable News",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 2,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Health & Nutrition",
+   "region": "North America",
+   "summary": "Rudi's Bakery launched two new certified gluten-free bread products in the US.",
+   "why": "A competitor/customer move in North American gluten-free bread, a signal for Puratos gluten-free mixes and improvers.",
+   "image": "https://perishablenews.com/wp-content/uploads/2026/11/Rudis-Bakery-gluten-free-protein-bread.jpg",
+   "entities": [
+    "Rudi's Bakery"
+   ]
+  },
+  {
+   "id": "f455dda87fc408f6",
+   "title": "Toufayan Bakeries launches sourdough pita bread",
+   "url": "https://www.bakingbusiness.com/articles/67258-toufayan-bakeries-launches-sourdough-pita-bread",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 1,
+    "Chocolate": 0
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Fermentation & Enzymes",
+   "region": "North America",
+   "summary": "Toufayan Bakeries launched a Simply Sourdough pita line with three products.",
+   "why": "Another US bakery extending sourdough into flatbreads, an opening for Sapore sourdough solutions in ethnic breads.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/18/111826_Simply-Pita.webp?t=1795020505",
+   "entities": [
+    "Toufayan Bakeries"
+   ]
+  },
+  {
+   "id": "5604ce75f9cbcec3",
+   "title": "EUDR Due Diligence for Cocoa and Coffee Operators",
+   "url": "https://doi.org/10.5281/zenodo.24308607",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-17",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 7
+   },
+   "relevance": 7.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "Europe",
+   "summary": "Guide on EU Deforestation Regulation (EUDR) due-diligence statements for cocoa and coffee operators, covering importers, grinders and chocolate makers.",
+   "why": "EUDR due-diligence duties apply to Belcolade as a chocolate maker and importer, so traceability data must be in place for the compliance deadline.",
+   "image": "",
+   "entities": [
+    "iCustoms"
+   ]
+  },
+  {
+   "id": "4c8e65d9c38e9710",
+   "title": "Your favorite foods may soon contain less sodium",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEw4WWlteTRReDBsRlotTVdqRDY2SExGNmVPYzFpOThmVEFNekZmNHVXXzlZRlp3RjUwODFMTDdkTGlmdzFDa000bnNNUzRoS00xSm5rSFhuYUFXRmxWaDU1bzg5M0N2RW05dHZhZjZXZHkzRVZSc1plc2JwTXFjeTg3Y3FJQVhO?oc=5",
+   "source": "Earth.com",
+   "kind": "regulation",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 7,
+    "Patisserie": 3,
+    "Chocolate": 1
+   },
+   "relevance": 7.0,
+   "horizon": "mid",
+   "category": "Regulatory & Policy",
+   "region": "North America",
+   "summary": "Earth.com reports that packaged foods may soon contain less sodium, pointing to US sodium-reduction targets.",
+   "why": "FDA's voluntary sodium-reduction targets put bread, a top sodium source, in focus; Bakery should have salt-reduction improver and sourdough solutions ready for US customers.",
+   "image": "",
+   "entities": [
+    "FDA"
+   ]
+  },
+  {
+   "id": "e3ae181d5420a1ec",
+   "title": "Dynamics of volatile and bioactive compounds in Criollo cocoa during spontaneous and Saccharomyces cerevisiae-inoculated fermentation and drying",
+   "url": "https://doi.org/10.1016/j.foodchem.2026.151459",
+   "source": "Crossref",
+   "kind": "paper",
+   "published": "2026-12",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 0,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "mid",
+   "category": "Cocoa & Chocolate",
+   "region": "Latin America",
+   "summary": "Study tracking volatile and bioactive compounds in Criollo cocoa during spontaneous versus Saccharomyces cerevisiae-inoculated fermentation and drying.",
+   "why": "Starter-culture cocoa fermentation is a lever for consistent flavour in fine-flavour origins that Belcolade sources.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "7ac90522b8461de5",
+   "title": "Cadmio en cacao: qué exigen Codex y la Unión Europea, y dónde está Colombia frente a esos límites",
+   "url": "https://doi.org/10.5281/zenodo.24266775",
+   "source": "OpenAlex",
+   "kind": "paper",
+   "published": "2026-11-16",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 1,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Regulatory & Policy",
+   "region": "Latin America",
+   "summary": "Note comparing Codex and EU cadmium limits for cocoa and chocolate with Colombian cocoa cadmium levels.",
+   "why": "Cadmium limits constrain which origins Belcolade can use in dark chocolate; Colombian sourcing needs cadmium screening.",
+   "image": "",
+   "entities": []
+  },
+  {
+   "id": "82a4891e9429bec6",
+   "title": "Flowers Foods focused on reviving Dave’s Killer Bread",
+   "url": "https://www.foodbusinessnews.net/articles/31362-flowers-foods-focused-on-reviving-daves-killer-bread",
+   "source": "Food Business News",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 0,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "North America",
+   "summary": "Flowers Foods is focusing on reviving sales of its Dave's Killer Bread brand.",
+   "why": "Flowers is a key US industrial bakery customer; its push to revive a premium seeded/organic brand may create demand for new grains, inclusions and improver solutions.",
+   "image": "https://www.foodbusinessnews.net/ext/resources/2026/11/18/dave-killer-bread.jpg?height=635&t=1795008246&width=1200",
+   "entities": [
+    "Flowers Foods",
+    "Dave's Killer Bread"
+   ]
+  },
+  {
+   "id": "02254cb75de9f513",
+   "title": "La Lorraine Romania reaches 70,000 tonnes in annual bakery pr ...",
+   "url": "https://millingmea.com/la-lorraine-romania-reaches-70000-tonnes-in-annual-bakery-production-capacity/",
+   "source": "Milling Middle East & Africa",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 3,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "La Lorraine Romania reached 70,000 tonnes of annual bakery production.",
+   "why": "La Lorraine Bakery Group is a large European frozen-bakery player, both a potential customer and a scale benchmark.",
+   "image": "https://millingmea.com/wp-content/uploads/2026/11/La-Lorraine-1.jpg",
+   "entities": [
+    "La Lorraine Bakery Group"
+   ]
+  },
+  {
+   "id": "2bddc206cd704fd6",
+   "title": "Compound Chocolate Market Forecast to Reach USD 44.1 Billion by 2034, Growing at 4.8% CAGR | Fact.MR",
+   "url": "https://www.openpr.com/news/4693293/compound-chocolate-market-forecast-to-reach-usd-44-1-billion",
+   "source": "openPR.com",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Chocolate",
+   "scores": {
+    "Bakery": 0,
+    "Patisserie": 3,
+    "Chocolate": 6
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Global / Unknown",
+   "summary": "Fact.MR forecasts the compound chocolate market will reach USD 44.1 billion by 2034, growing at 4.8% a year.",
+   "why": "Continued compound-chocolate growth supports Belcolade's compound and coating portfolio as cocoa prices push customers to alternatives.",
+   "image": "https://cdn.open-pr.com/L/b/Lb18632967_g.jpg",
+   "entities": [
+    "Fact.MR"
+   ]
+  },
+  {
+   "id": "d9fa6c763cfc916f",
+   "title": "Why Princes is eyeing up Mondelez’s French bakery and snacks business",
+   "url": "https://www.foodmanufacture.co.uk/Article/2026/11/18/why-princes-is-eyeing-up-mondelezs-french-bakery-and-snacks-business/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "source": "foodnavigator-usa.com",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Bakery",
+   "scores": {
+    "Bakery": 6,
+    "Patisserie": 4,
+    "Chocolate": 0
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Market & Competitors",
+   "region": "Europe",
+   "summary": "Princes is reportedly eyeing Mondelez's French bakery and snacks business.",
+   "why": "A change of owner for Mondelez's French bakery assets could reshape a sizeable industrial bakery customer base in Europe.",
+   "image": "https://www.foodnavigator.com/resizer/v2/KPFQCMSBIVE6PP6ER7ACL6KT7A.jpg?auth=5f99093e102930bf7bfb74c462bd4b27884cf49d844d2e4674026ede83d45d6d&smart=true&width=2121&height=1414",
+   "entities": [
+    "Princes",
+    "Mondelez"
+   ]
+  },
+  {
+   "id": "675a0f0b09920252",
+   "title": "Cookies are evolving in taste and texture",
+   "url": "https://www.bakingbusiness.com/articles/67255-cookies-are-evolving-in-taste-and-texture",
+   "source": "bakingbusiness.com",
+   "kind": "news",
+   "published": "2026-11-18",
+   "day": "2026-11-18",
+   "unit": "Patisserie",
+   "scores": {
+    "Bakery": 5,
+    "Patisserie": 6,
+    "Chocolate": 1
+   },
+   "relevance": 6.0,
+   "horizon": "short",
+   "category": "Flavour, Texture & Sensory",
+   "region": "North America",
+   "summary": "Baking Business looks at how cookie brands are evolving taste and texture, using online trends to inspire products.",
+   "why": "Trend input for cookie fillings, inclusions and textures that Puratos sells to sweet-goods customers.",
+   "image": "https://www.bakingbusiness.com/ext/resources/2026/11/18/1118-tates.webp?t=1795011923",
+   "entities": []
+  }
+ ]
+}
